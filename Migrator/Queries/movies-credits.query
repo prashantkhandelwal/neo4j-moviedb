@@ -1,0 +1,18 @@
+﻿db.movies.aggregate([
+  { $match: { id: { $eq: 7555 } } },
+  {
+    $lookup: {
+      from: "credits",
+      localField: "id",
+      foreignField: "id",
+      as: "result",
+    },
+  },
+  { $match: { "result.cast.known_for_department": "Acting" } },
+  {
+    $project: {
+      moviename: "$title",
+      cast: "$result.cast.name",
+    },
+  },
+]);
