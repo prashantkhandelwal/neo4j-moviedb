@@ -8,10 +8,7 @@ namespace Migrator.Models.GraphData
 {
     public class MovieWithCast
     {
-        public string moviename { get; set; }
-
-        public DateTime release_date { get; set; }
-        
-        public List<string> cast { get; set; }
+        public Movie movie { get; set; }
+        public List<Cast> cast { get; set; }
     }
 }

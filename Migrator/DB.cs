@@ -20,6 +20,31 @@ namespace Migrator
             _database = _client.GetDatabase("moviedb1");
         }
 
+        public async Task GetAllMovieIDs()
+        {
+            List<int> ids = new List<int>();
+            try
+            {
+                //var collection = database.GetCollection<BsonDocument>("movies");
+                IMongoCollection<BsonDocument> _collection = _database.GetCollection<BsonDocument>("movies");
+                var filter = Builders<BsonDocument>.Filter.Empty;
+                var projection = Builders<BsonDocument>.Projection.Include("id").Exclude("_id");
+
+                var options = new FindOptions<BsonDocument, BsonDocument> { Projection = projection };
+
+                var result = await _collection.FindAsync<BsonDocument>(filter, options); //.Project(projection).ToList();
+                while(await result.MoveNextAsync())
+                {
+                    var id = result.Current;
+                }
+                    
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"ERROR: Unable to execute query.\n StackTrace - {ex.StackTrace}");
+            }
+        }
+
         public async Task<MovieWithCast?> GetMovieData(int id)
         {
             try
@@ -36,27 +61,37 @@ namespace Migrator
                         { "foreignField", "id" },
                         { "as", "result" }
                     }),
-                    new BsonDocument("$match", new BsonDocument("result.cast.known_for_department", "Acting")),
-                    new BsonDocument("$project", new BsonDocument
-                    {
-                        { "moviename", "$title" },
-                        { "releasedate", "$release_date" },
-                        { "cast", "$result.cast.name" }
-                    })
+                    //new BsonDocument("$match", new BsonDocument("result.cast.known_for_department", "Acting")),
+                    //new BsonDocument("$project", new BsonDocument
+                    //{
+                    //    { "movies", "$fromItems" },
+                    //    { "moviename", "$title" },
+                    //    { "releasedate", "$release_date" },
+                    //    { "cast", "$result.cast" }
+                    //})
                 };
 
                 var result = await _collection.AggregateAsync<BsonDocument>(pipeline).ConfigureAwait(false);
                 var d = result.FirstOrDefault();
+
+                if (d == null) return null;
+                
                 d.RemoveAt(0);
 
-                var cast_rawdata = d.GetElement(2).Value.AsBsonArray.AsBsonArray[0];
-                List<string> allcast = JsonConvert.DeserializeObject<List<string>>(cast_rawdata.ToJson());
+                var cast_rawdata = d.GetElement("result").Value.AsBsonArray.AsBsonArray.AsBsonArray[0];
+                Credits c = new Credits();
+                Movie m = new Movie();
+                c.Cast = JsonConvert.DeserializeObject<List<Cast>>(cast_rawdata[2].ToJson());
+
+                object val = BsonTypeMapper.MapToDotNetValue(d.AsBsonValue);
+                string jsonString = JsonConvert.SerializeObject(val);
+
+                m = JsonConvert.DeserializeObject<Movie>(jsonString);
 
                 MovieWithCast data_movie_with_cast = new MovieWithCast
                 {
-                    moviename = Convert.ToString(d.GetValue("moviename")),
-                    cast = allcast,
-                    release_date = Convert.ToDateTime(d.GetValue("releasedate")),
+                    movie = m,
+                    cast = c.Cast,
                 };
 
                 return data_movie_with_cast;

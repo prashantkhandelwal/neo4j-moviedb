@@ -3,10 +3,23 @@ using Migrator.Models.GraphData;
 
 DB _db = new DB();
 
-MovieWithCast? movieWithCast = await _db.GetMovieData(2).ConfigureAwait(false);
+//await _db.GetAllMovieIDs().ConfigureAwait(false);
+//118
 
-Neo neo = new Neo();
-await neo.CreateMovie(movieWithCast);
+//for (int i = 0; i < 10000; i++)
+//{
+//    Console.WriteLine("" + i);
+//    MovieWithCast? movieWithCast = await _db.GetMovieData(i).ConfigureAwait(false);
+//    if (movieWithCast != null)
+//    {
+//        Neo neo = new Neo();
+//        await neo.CreateMovies(movieWithCast);
 
-neo.Dispose();
+//        neo.Dispose();
+//    }
+//}
+
+Neo n = new Neo();
+await n.DumpData().ConfigureAwait(false);
+
 
