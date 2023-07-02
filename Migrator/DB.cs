@@ -80,8 +80,11 @@ namespace Migrator
 
                 var cast_rawdata = d.GetElement("result").Value.AsBsonArray.AsBsonArray.AsBsonArray[0];
                 Credits c = new Credits();
+                
                 Movie m = new Movie();
+                
                 c.Cast = JsonConvert.DeserializeObject<List<Cast>>(cast_rawdata[2].ToJson());
+                c.Crew = JsonConvert.DeserializeObject<List<Crew>>(cast_rawdata[3].ToJson());
 
                 object val = BsonTypeMapper.MapToDotNetValue(d.AsBsonValue);
                 string jsonString = JsonConvert.SerializeObject(val);
@@ -92,6 +95,7 @@ namespace Migrator
                 {
                     movie = m,
                     cast = c.Cast,
+                    crew = c.Crew,
                 };
 
                 return data_movie_with_cast;

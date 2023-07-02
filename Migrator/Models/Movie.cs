@@ -142,6 +142,10 @@ public class Movie
 [BsonIgnoreExtraElements]
 public class Genres
 {
+    [BsonElement("id")]
+    [JsonProperty("id")]
+    public int Id { get; set; }
+
     [BsonElement("name")]
     [JsonProperty("name")]
     public string Name { get; set; }

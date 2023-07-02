@@ -10,5 +10,6 @@ namespace Migrator.Models.GraphData
     {
         public Movie movie { get; set; }
         public List<Cast> cast { get; set; }
+        public List<Crew> crew { get; set; }
     }
 }
