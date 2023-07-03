@@ -1,0 +1,2269 @@
+movieid,castid,name,originalname,character,isadult,gender,popularity,knownfordepartment
+301,4165,John Wayne,John Wayne,John Chance,false,Male,25.877,Acting
+301,4299,Dean Martin,Dean Martin,Dude,false,Male,9.549,Acting
+301,4300,Ricky Nelson,Ricky Nelson,Colorado Ryan,false,Male,2.551,Acting
+301,4301,Angie Dickinson,Angie Dickinson,Feathers,false,Female,12.44,Acting
+301,4302,Walter Brennan,Walter Brennan,Stumpy,false,Male,17.905,Acting
+301,4303,Ward Bond,Ward Bond,Pat Wheeler,false,Male,11.303,Acting
+301,4304,John Russell,John Russell,Nathan Burdette,false,Male,6.127,Acting
+301,4305,Pedro Gonzalez Gonzalez,Pedro Gonzalez Gonzalez,Carlos Robante,false,Male,1.05,Acting
+301,4306,Estelita Rodriguez,Estelita Rodriguez,Consuela Robante,false,Female,6.366,Acting
+301,4307,Claude Akins,Claude Akins,Joe Burdette,false,Male,11.653,Acting
+301,115460,Malcolm Atterbury,Malcolm Atterbury,Jake,false,Male,3.829,Acting
+301,4316,Harry Carey, Jr.,Harry Carey, Jr.,Harold,false,Male,7.794,Acting
+301,33544,Walter Barnes,Walter Barnes,Charlie (uncredited),false,Male,5.362,Acting
+301,1601647,George Bell,George Bell,Barfly (uncredited),false,Not set/not specified,0.6,Acting
+301,1543059,Noble Chissell,Noble Chissell,Barfly (uncredited),false,Male,1.189,Acting
+301,1601648,Cecil Combs,Cecil Combs,Barfly (uncredited),false,Not set/not specified,1.116,Acting
+301,116845,Myron Healey,Myron Healey,Barfly (uncredited),false,Male,2.787,Acting
+301,1179586,Cactus Mack,Cactus Mack,Barfly (uncredited),false,Male,0.6,Acting
+301,1208031,Mathew McCue,Mathew McCue,Barfly (uncredited),false,Male,1.891,Acting
+301,47001,Frank Mills,Frank Mills,Barfly (uncredited),false,Male,0.6,Acting
+301,1290997,Kansas Moehring,Kansas Moehring,Barfly (uncredited),false,Male,1.754,Acting
+301,1074209,Jack Perry,Jack Perry,Barfly (uncredited),false,Male,0.98,Acting
+301,1578504,Danny Sands,Danny Sands,Barfly (uncredited),false,Not set/not specified,1.4,Acting
+301,572525,Sailor Vincent,Sailor Vincent,Barfly (uncredited),false,Male,1.516,Acting
+301,1601649,Bob Whitney,Bob Whitney,Barfly (uncredited),false,Male,0.6,Acting
+301,112935,Nesdon Booth,Nesdon Booth,(uncredited),false,Male,1.984,Acting
+301,13875,Robert Donner,Robert Donner,(uncredited),false,Male,1.402,Acting
+301,176475,Ted White,Ted White,(uncredited),false,Male,5.033,Acting
+301,1421080,George Bruggeman,George Bruggeman,Clem (uncredited),false,Male,3.832,Acting
+301,1106954,Buck Bucko,Buck Bucko,Barber (uncredited),false,Male,1.4,Acting
+301,88979,Yakima Canutt,Yakima Canutt,Gunman on Horse (uncredited),false,Male,2.335,Acting
+301,50310,Chuck Roberson,Chuck Roberson,Gunman (uncredited),false,Not set/not specified,3.346,Acting
+301,1601650,Albert Cavens,Albert Cavens,Henchman (uncredited),false,Not set/not specified,0.98,Acting
+301,151886,Tom Monroe,Tom Monroe,Henchman (uncredited),false,Not set/not specified,3.164,Acting
+301,111827,Fred Graham,Fred Graham,2nd Burdette Man in Shootout (uncredited),false,Male,2.4,Acting
+301,130346,Eugene Iglesias,Eugene Iglesias,1st Burdette Man in Shootout (uncredited),false,Male,5.837,Acting
+301,120048,Joe Gray,Joe Gray,Card Player (uncredited),false,Not set/not specified,4.288,Acting
+301,3644,Dean Smith,Dean Smith,Card-Playing Burdette Henchman (uncredited),false,Male,1.4,Acting
+301,117676,Riley Hill,Riley Hill,Messenger (uncredited),false,Male,0.629,Acting
+301,1600059,Richard LaMarr,Richard LaMarr,Minor Role (uncredited),false,Not set/not specified,0.6,Acting
+301,30898,Gordon Mitchell,Gordon Mitchell,Bar Cowboy Watching Fistfight (uncredited),false,Male,2.403,Acting
+301,120200,Bob Reeves,Bob Reeves,Bartender (uncredited),false,Male,1.438,Acting
+301,123720,Bing Russell,Bing Russell,Cowboy Murdered in Saloon (uncredited),false,Male,10.357,Acting
+301,88649,Bob Steele,Bob Steele,Matt Harris (uncredited),false,Male,8.782,Acting
+301,1624551,Bud Cokes,Bud Cokes,Barfly (uncredited),false,Male,0.952,Acting
+301,2739536,David O. McCall,David O. McCall,Bartender (uncredited),false,Male,0.6,Acting
+302,44079,Charlotte Rampling,Charlotte Rampling,Sarah Morton,false,Female,13.565,Acting
+302,4390,Ludivine Sagnier,Ludivine Sagnier,Julie,false,Female,17.496,Acting
+302,4391,Charles Dance,Charles Dance,John Bosload,false,Male,51.198,Acting
+302,4393,Marc Fayolle,Marc Fayolle,Marcel,false,Male,0.98,Acting
+302,4392,Jean-Marie Lamour,Jean-Marie Lamour,Franck,false,Male,1.903,Acting
+302,4394,Mireille Mossé,Mireille Mossé,Marcel\'s Daughter,false,Not set/not specified,1.686,Acting
+302,4395,Michel Fau,Michel Fau,First Man,false,Male,0.6,Acting
+302,4396,Jean-Claude Lecas,Jean-Claude Lecas,Second Man,true,Male,0.84,Acting
+302,4397,Émilie Gavois-Kahn,Émilie Gavois-Kahn,Waitress at Cafe,false,Female,6.381,Acting
+302,4398,Erarde Forestali,Erarde Forestali,Old Man,false,Not set/not specified,0.6,Acting
+302,2880819,Lauren Farrow,Lauren Farrow,Julia,false,Not set/not specified,0.6,Acting
+302,2366504,Sebastian Harcombe,Sebastian Harcombe,Terry Long,false,Not set/not specified,0.6,Acting
+302,92432,Frances Cuka,Frances Cuka,Lady on the Underground,false,Female,1.545,Acting
+302,2880820,Keith Yeates,Keith Yeates,Sarah\'s Father,false,Not set/not specified,0.694,Acting
+302,2880821,Tricia Aileen,Tricia Aileen,John Bosload\'s Secretary,false,Not set/not specified,0.6,Acting
+302,1949475,Glen Davies,Glen Davies,Pub Barman,false,Male,1.072,Acting
+303,4111,Ingrid Bergman,Ingrid Bergman,Alicia Huberman,false,Female,13.544,Acting
+303,2638,Cary Grant,Cary Grant,T.R. Devlin,false,Male,9.036,Acting
+303,4113,Claude Rains,Claude Rains,Alexander Sebastian,false,Male,5.147,Acting
+303,4342,Leopoldine Konstantin,Leopoldine Konstantin,Madame Anna Sebastian,false,Female,1.094,Acting
+303,4343,Louis Calhern,Louis Calhern,Captain Paul Prescott,false,Male,3.52,Acting
+303,5042,Alex Minotis,Alex Minotis,Joseph the Butler,false,Male,1.708,Acting
+303,4344,Reinhold Schünzel,Reinhold Schünzel,Dr. Anderson,false,Male,0.98,Acting
+303,5041,Ivan Triesault,Ivan Triesault,Eric Mathis,false,Male,2.744,Acting
+303,91971,Friedrich von Ledebur,Friedrich von Ledebur,Knerr,false,Male,4.792,Acting
+303,127628,Peter von Zerneck,Peter von Zerneck,Wilhelm Rossner,false,Male,3.186,Acting
+303,5043,Eberhard Krumschmidt,Eberhard Krumschmidt,Emil Hupka,false,Male,0.6,Acting
+303,18586,Moroni Olsen,Moroni Olsen,Walter Beardsley,false,Male,0.771,Acting
+303,2210115,Ricardo Costa,Ricardo Costa,Dr. Julio Barbosa,false,Male,0.6,Acting
+303,96143,Charles Mendl,Charles Mendl,\'Commodore\',false,Not set/not specified,0.6,Acting
+303,96142,Wally Brown,Wally Brown,Mr. Hopkins,false,Male,1.932,Acting
+303,98160,Fay Baker,Fay Baker,Ethel,false,Not set/not specified,2.587,Acting
+303,5044,Fred Nurney,Fred Nurney,John Huberman,false,Male,0.694,Acting
+303,13977,Charles D. Brown,Charles D. Brown,Judge (uncredited),false,Male,2.005,Acting
+303,1132409,Eddie Bruce,Eddie Bruce,Reporter (uncredited),false,Not set/not specified,0.6,Acting
+303,170604,Ben Erway,Ben Erway,Reporter (uncredited),false,Male,2.218,Acting
+303,133230,Donald Kerr,Donald Kerr,Reporter (uncredited),false,Male,0.706,Acting
+303,157411,James Logan,James Logan,Reporter (uncredited),false,Not set/not specified,0.6,Acting
+303,34008,Emmett Vogan,Emmett Vogan,Reporter (uncredited),false,Male,1.286,Acting
+303,1001011,John Vosper,John Vosper,Reporter (uncredited),false,Male,0.6,Acting
+303,395945,Alan Ward,Alan Ward,Reporter (uncredited),false,Male,0.6,Acting
+303,34609,Paul Bryar,Paul Bryar,Photographer (uncredited),false,Male,2.824,Acting
+303,31263,George Lynn,George Lynn,Photographer (uncredited),false,Male,2.598,Acting
+303,117046,Frank Marlowe,Frank Marlowe,Photographer (uncredited),false,Male,0.6,Acting
+303,87370,Howard Negley,Howard Negley,Photographer (uncredited),false,Male,0.788,Acting
+303,19110,Virginia Gregg,Virginia Gregg,File Clerk (uncredited),false,Female,3.956,Acting
+303,153265,Bea Benaderet,Bea Benaderet,File Clerk (uncredited),false,Female,2.89,Acting
+303,1361269,Aileen Carlyle,Aileen Carlyle,Woman at Party (uncredited),false,Female,0.6,Acting
+303,10776,Elizabeth Wilson,Elizabeth Wilson,Woman at Party (uncredited),false,Female,3.597,Acting
+303,1112944,Almeda Fowler,Almeda Fowler,Woman (uncredited),false,Female,1.96,Acting
+303,1262044,Leota Lorraine,Leota Lorraine,Woman (uncredited),false,Female,1.614,Acting
+303,1349731,Sandra Morgan,Sandra Morgan,Woman (uncredited),false,Not set/not specified,0.6,Acting
+303,85738,Lillian West,Lillian West,Woman (uncredited),false,Female,0.785,Acting
+303,120777,Richard Clarke,Richard Clarke,Man (uncredited),false,Male,0.6,Acting
+303,102327,Francis McDonald,Francis McDonald,Man (uncredited),false,Male,3.265,Acting
+303,2636,Alfred Hitchcock,Alfred Hitchcock,Man Drinking Champagne at Party,false,Male,10.511,Directing
+303,569144,Frank McLure,Frank McLure,Man Walking Through Door Leaving Courtroom (uncredited),false,Male,4.675,Acting
+303,1468172,Tom Coleman,Tom Coleman,Court Stenographer (uncredited),false,Male,1.052,Acting
+303,1287870,Alfredo DeSa,Alfredo DeSa,Ribero (uncredited),false,Not set/not specified,0.6,Acting
+303,121323,Bess Flowers,Bess Flowers,Party Guest,false,Female,5.927,Acting
+303,1199836,Art Howard,Art Howard,Party Guest (uncredited),false,Not set/not specified,0.6,Acting
+303,179327,Jeffrey Sayre,Jeffrey Sayre,Party Guest (uncredited),false,Male,0.921,Acting
+303,122984,Bert Moorhouse,Bert Moorhouse,Diner Extra / Party Guest (uncredited),false,Male,3.08,Acting
+303,2927,Gavin Gordon,Gavin Gordon,Ernest Weylin (uncredited),false,Male,1.88,Acting
+303,103068,Harry Hayden,Harry Hayden,Defense Counsel (uncredited),false,Male,1.4,Acting
+303,951571,Warren Jackson,Warren Jackson,District Attorney (uncredited),false,Male,0.98,Acting
+303,1417927,Thomas Martin,Thomas Martin,Butler (uncredited),false,Male,0.6,Acting
+303,1172830,Tina Menard,Tina Menard,Maid (uncredited),false,Female,1.4,Acting
+303,1005425,Howard M. Mitchell,Howard M. Mitchell,Bailiff (uncredited),false,Male,1.22,Acting
+303,30555,Antonio Moreno,Antonio Moreno,Senor Ortiza (uncredited),false,Male,2.038,Acting
+303,117772,Garry Owen,Garry Owen,Motorcycle Policeman (uncredited),false,Not set/not specified,1.877,Acting
+303,148225,Dink Trout,Dink Trout,Court Clerk (uncredited),false,Male,4.666,Acting
+303,130220,Lenore Ulric,Lenore Ulric,Horsewoman with Sebastian (uncredited),false,Female,1.4,Acting
+303,34625,Frank Wilcox,Frank Wilcox,FBI Agent (uncredited),false,Male,0.84,Acting
+306,776,Eddie Murphy,Eddie Murphy,Det. Axel Foley,false,Male,29.505,Acting
+306,777,Judge Reinhold,Judge Reinhold,Det. Sgt. William \'Billy\' Rosewood,false,Male,16.681,Acting
+306,1210,Hector Elizondo,Hector Elizondo,Jon Flint,false,Male,10.35,Acting
+306,787,Gilbert R. Hill,Gilbert R. Hill,Insp. Douglas Todd,false,Male,6.285,Acting
+306,17396,Timothy Carhart,Timothy Carhart,Ellis Dewald,false,Male,5.246,Acting
+306,4689,Bronson Pinchot,Bronson Pinchot,Serge,false,Male,16.323,Acting
+306,230,Stephen McHattie,Stephen McHattie,Steve Fulbright,false,Male,11.976,Acting
+306,4604,Theresa Randle,Theresa Randle,Janice,false,Female,11.413,Acting
+306,11163,John Saxon,John Saxon,Orrin Sanderson,false,Male,13.827,Acting
+306,4602,Jon Tenney,Jon Tenney,Levine,false,Male,8.281,Acting
+306,4603,Joey Travolta,Joey Travolta,Giolito,false,Male,7.795,Acting
+306,4605,Eugene Collier,Eugene Collier,Leppert,false,Male,1.826,Crew
+306,4606,Jimmy Ortega,Jimmy Ortega,Rondell,false,Male,2.803,Acting
+306,4607,Ousaun Elam,Ousaun Elam,Pederson,false,Male,1.757,Crew
+306,4608,Ray Lykins,Ray Lykins,Nixon,false,Male,0.786,Crew
+306,4609,Tim Gilbert,Tim Gilbert,McKee,false,Male,3.097,Crew
+306,80116,Julie Strain,Julie Strain,Annihilator Girl,false,Female,8.997,Acting
+306,167529,Heather Elizabeth Parkhurst,Heather Elizabeth Parkhurst,Annihilator Girl,false,Female,3.641,Acting
+306,4600,Joe Dante,Joe Dante,Jailer,false,Male,10.714,Directing
+306,66758,Ray Harryhausen,Ray Harryhausen,Bar Patron,false,Male,3.314,Acting
+306,133259,Arthur Hiller,Arthur Hiller,Bar Patron,false,Male,4.868,Directing
+306,1,George Lucas,George Lucas,Disappointed Man,false,Male,17.698,Directing
+306,21377,Peter Medak,Peter Medak,Man at Corner,false,Male,2.644,Directing
+306,61704,Al Leong,Al Leong,Car Mechanic,false,Male,13.347,Acting
+306,3218,Louis Lombardi,Louis Lombardi,Snake,false,Male,1.998,Acting
+306,6482,John Singleton,John Singleton,Fireman,false,Male,14.488,Directing
+306,21874,Alan Young,Alan Young,Uncle Dave,false,Male,9.797,Acting
+306,11035,George Schaefer,George Schaefer,Mike,false,Male,1.96,Directing
+306,5839,Robert B. Sherman,Robert B. Sherman,Bar Patron,false,Male,1.082,Sound
+306,156186,Gregory McKinney,Gregory McKinney,Kimbrough,false,Male,1.4,Acting
+306,2234,Michael Bowen,Michael Bowen,Fletch,false,Male,5.146,Acting
+306,81687,Rick Avery,Rick Avery,Cline,false,Male,4.135,Crew
+306,2983245,Dick Purtan,Dick Purtan,Detroit Disc Jockey,false,Not set/not specified,0.6,Acting
+306,191545,Fred Asparagus,Fred Asparagus,Bobby,false,Male,2.147,Acting
+306,156038,Lindsey Ginter,Lindsey Ginter,Holloway,false,Male,5.303,Acting
+306,101272,David Parry,David Parry,Taddeo,false,Male,0.6,Acting
+306,111714,Al Green,Al Green,Minister,false,Male,1.175,Acting
+306,1212688,Hattie Winston,Hattie Winston,Mrs. Todd,false,Female,3.93,Acting
+306,1779429,Tracy Melchior,Tracy Melchior,Ticket Booth Girl,false,Female,2.356,Acting
+306,1212551,Forry Smith,Forry Smith,Rondy,false,Not set/not specified,0.692,Acting
+306,95796,Dan Martin,Dan Martin,Cooper,false,Male,1.96,Acting
+306,130748,Steven Banks,Steven Banks,Spider Ride Operator,false,Male,3.759,Writing
+306,1526562,Christina Venuti,Christina Venuti,Disappointed Girl,false,Not set/not specified,0.6,Acting
+306,89499,Jonathan Hernandez,Jonathan Hernandez,Scared Boy,false,Male,1.62,Acting
+306,1196740,Christy Alvarez,Christy Alvarez,Scared Girl,false,Female,0.6,Acting
+306,168176,Yareli Arizmendi,Yareli Arizmendi,Scared Kids\' Mom,false,Female,2.923,Acting
+306,91782,Jeannie Epper,Jeannie Epper,Spider Rider,false,Female,3.857,Crew
+306,2156846,Kurtis Sanders,Kurtis Sanders,Spider Rider,false,Male,0.6,Crew
+306,2408438,Bill Taylor,Bill Taylor,Spider Rider,false,Not set/not specified,0.6,Acting
+306,67520,William S. Taylor,William S. Taylor,Spider Rider,false,Male,1.96,Acting
+306,2983251,Neva Sosna,Neva Sosna,Spider Rider,false,Not set/not specified,0.6,Acting
+306,1077909,Nichole McAuley,Nichole McAuley,Spider Rider,false,Female,3.126,Acting
+306,2983252,Jerra Stewart,Jerra Stewart,Spider Rider,false,Not set/not specified,0.6,Acting
+306,2150235,Patty Raya,Patty Raya,Spider Rider,false,Not set/not specified,0.6,Acting
+306,956385,Meadow Williams,Meadow Williams,Spider Rider,false,Female,8.982,Acting
+306,1798087,Aileen Acain,Aileen Acain,Lily the waitress,false,Not set/not specified,0.6,Acting
+306,63713,Martha Coolidge,Martha Coolidge,Security Woman,false,Female,1.39,Directing
+306,1190129,Symba,Symba,Annihilator Girl,false,Female,1.012,Acting
+306,1228703,Curtis Williams,Curtis Williams,Little Kid,false,Male,3.192,Acting
+306,111872,Helen Martin,Helen Martin,Grandma,false,Not set/not specified,5.391,Acting
+306,1225964,Theodore Borders,Theodore Borders,Big Kid,false,Male,3.693,Acting
+306,1216157,Albie Selznick,Albie Selznick,Technician,false,Not set/not specified,1.96,Acting
+306,62833,Charles Rahi Chun,Charles Rahi Chun,Technician,false,Male,0.84,Acting
+306,1786659,Roger E. Reid,Roger E. Reid,Man on Phone,false,Not set/not specified,0.6,Acting
+306,153962,Royce Reid,Royce Reid,Feisty Kid,false,Male,0.6,Acting
+306,2983254,Hector Correa,Hector Correa,Man with Video Camera,false,Not set/not specified,0.6,Acting
+306,153926,Elaine Kagan,Elaine Kagan,Sanderson\'s Secretary,false,Female,4.746,Acting
+306,60274,Tino Insana,Tino Insana,Burly Cop,false,Male,2.047,Acting
+306,1796029,John Rubinow,John Rubinow,Doctor,false,Not set/not specified,0.828,Acting
+306,2662755,Hank McGill,Hank McGill,Paramedic,false,Not set/not specified,0.6,Acting
+306,1287619,Cherilyn Shea,Cherilyn Shea,Girl at Corner,false,Not set/not specified,1.4,Acting
+306,152585,Eugene Elman,Eugene Elman,Bartender,false,Not set/not specified,1.4,Acting
+306,169317,Jerry Dunphy,Jerry Dunphy,Newscaster,false,Male,0.6,Acting
+306,23393,Barbet Schroeder,Barbet Schroeder,Man in Porsche,false,Male,2.61,Directing
+306,1472588,Philip Levien,Philip Levien,Donny - Serge\'s Assistant,false,Male,2.4,Acting
+306,2366574,Lisa Allen,Lisa Allen,Prescott Pig,false,Female,0.6,Acting
+306,1581579,Julie Dolan,Julie Dolan,Prescott Pig,false,Female,2.008,Acting
+306,1230636,Christian Heath,Christian Heath,Oki-Doki,false,Male,0.6,Acting
+306,2983398,Patricia Quinn,Patricia Quinn,Oki-Doki,false,Female,0.6,Acting
+306,1303874,Sean Spence,Sean Spence,Rufus Rabbit,false,Not set/not specified,0.6,Acting
+306,1309209,James MacKinnon,James MacKinnon,Rufus Rabbit,false,Not set/not specified,1.214,Costume & Make-Up
+306,2320929,Jennifer Cobb,Jennifer Cobb,Meyer Lion,false,Female,1.149,Crew
+306,2983403,Lynn Walsh,Lynn Walsh,Meyer Lion,false,Not set/not specified,0.6,Acting
+306,2983404,Susan Gayle,Susan Gayle,Kopy Kat,false,Not set/not specified,0.6,Acting
+306,2983405,Devin McRae,Devin McRae,Kopy Kat,false,Not set/not specified,0.6,Acting
+306,2983406,Wendy Harpenau,Wendy Harpenau,Liddle Bear,false,Not set/not specified,0.6,Acting
+306,2983407,Felicia Wong,Felicia Wong,Liddle Bear,false,Not set/not specified,0.6,Acting
+306,2501307,Marlene Hoffmann,Marlene Hoffmann,Big Bear,false,Not set/not specified,0.6,Acting
+306,2983408,Wanda Welch,Wanda Welch,Big Bear,false,Not set/not specified,0.6,Acting
+306,2983409,Liza Macawili,Liza Macawili,Floyd Fox,false,Not set/not specified,0.6,Acting
+306,1534447,Robin Shelby,Robin Shelby,Floyd Fox,false,Female,0.927,Acting
+306,2983412,Dave Myers,Dave Myers,Tippy Turtle,false,Not set/not specified,1.4,Acting
+306,1720336,Matt Myers,Matt Myers,Tippy Turtle,false,Male,0.84,Acting
+306,205649,Nick Hermz,Nick Hermz,Tadross Gorilla,false,Male,1.032,Acting
+306,2983414,Tim Shuster,Tim Shuster,Tadross Gorilla,false,Not set/not specified,0.6,Acting
+306,5838,Richard M. Sherman,Richard M. Sherman,Wonderworld Bandleader (scenes deleted),false,Male,1.4,Acting
+306,571210,Laura Summer,Laura Summer,(voice),false,Female,1.135,Acting
+306,43010,Thomas Rosales Jr.,Thomas Rosales Jr.,Car Mechanic (uncredited),false,Male,3.399,Acting
+307,4420,Aldo Fabrizi,Aldo Fabrizi,Don Pietro Pellegrini,false,Male,1.181,Acting
+307,4421,Anna Magnani,Anna Magnani,Pina,false,Female,8.032,Acting
+307,4422,Marcello Pagliero,Marcello Pagliero,Giorgio Manfredi aka Luigi Ferraris,false,Male,2.463,Directing
+307,4425,Francesco Grandjacquet,Francesco Grandjacquet,Francesco,false,Not set/not specified,1.151,Acting
+307,4424,Harry Feist,Harry Feist,Major Fritz Bergmann,false,Not set/not specified,2.328,Acting
+307,4426,Maria Michi,Maria Michi,Marina Mari,false,Female,0.682,Acting
+307,4423,Vito Annichiarico,Vito Annichiarico,Marcello,false,Not set/not specified,1.96,Acting
+307,5001,Ákos Tolnay,Ákos Tolnay,Austrian Deserter,false,Male,0.766,Writing
+307,5002,Joop van Hulzen,Joop van Hulzen,Captain Hartmann,false,Not set/not specified,0.6,Acting
+307,5003,Carla Rovere,Carla Rovere,Lauretta,false,Not set/not specified,0.6,Acting
+307,18337,Giovanna Galletti,Giovanna Galletti,Ingrid,false,Female,1.713,Acting
+307,132194,Nando Bruno,Nando Bruno,Agostino the Sexton,false,Male,0.84,Acting
+307,374218,Eduardo Passarelli,Eduardo Passarelli,Neighborhood Police Sergeant,false,Male,2.26,Acting
+307,32669,Carlo Sindici,Carlo Sindici,Police Commissioner,false,Not set/not specified,0.98,Costume & Make-Up
+307,132479,Turi Pandolfini,Turi Pandolfini,Grandfather (uncredited),false,Male,1.8,Acting
+307,1459391,Amalia Pellegrini,Amalia Pellegrini,Nannina (uncredited),false,Not set/not specified,0.6,Acting
+307,543796,Alberto Tavazzi,Alberto Tavazzi,The Priest (uncredited),false,Not set/not specified,0.6,Art
+308,1532,Bill Murray,Bill Murray,Don Johnston,false,Male,19.479,Acting
+308,1146,Julie Delpy,Julie Delpy,Sherry,false,Female,15.542,Acting
+308,4430,Sharon Stone,Sharon Stone,Laura,false,Female,32.544,Acting
+308,3063,Tilda Swinton,Tilda Swinton,Penny,false,Female,36.775,Acting
+308,4431,Jessica Lange,Jessica Lange,Carmen,false,Female,6.579,Acting
+308,2954,Jeffrey Wright,Jeffrey Wright,Winston,false,Male,21.816,Acting
+308,4432,Frances Conroy,Frances Conroy,Dora,false,Female,20.402,Acting
+308,4433,Alexis Dziena,Alexis Dziena,Lolita,false,Female,12.58,Acting
+308,4439,Heather Simms,Heather Simms,Mona,false,Female,2.304,Acting
+308,4440,Brea Frazier,Brea Frazier,Rita,false,Female,0.6,Acting
+308,4441,Pell James,Pell James,Sun Green,false,Female,5.24,Acting
+308,83920,Nicole Abisinio,Nicole Abisinio,Girl on Bus,false,Female,0.6,Acting
+308,4442,Ryan Donowho,Ryan Donowho,Young Man on Bus,false,Male,7.477,Acting
+308,4443,Christopher McDonald,Christopher McDonald,Ron,false,Male,9.762,Acting
+308,4445,Chris Bauer,Chris Bauer,Dan,false,Male,12.63,Acting
+308,2838,Chloë Sevigny,Chloë Sevigny,Carmen\'s Assistant,false,Female,15.994,Acting
+308,4451,Mark Webber,Mark Webber,The Kid,false,Male,5.94,Acting
+308,4878,Homer Murray,Homer Murray,Kid in Car,false,Not set/not specified,0.774,Acting
+308,31268,Larry Fessenden,Larry Fessenden,Will,false,Male,1.166,Acting
+309,4455,Ulrich Thomsen,Ulrich Thomsen,Christian,false,Male,14.818,Acting
+309,4456,Henning Moritzen,Henning Moritzen,Faderen,false,Male,3.766,Acting
+309,4457,Thomas Bo Larsen,Thomas Bo Larsen,Michael,false,Male,9.804,Acting
+309,4458,Paprika Steen,Paprika Steen,Helene,false,Female,8.989,Acting
+309,4459,Birthe Neumann,Birthe Neumann,Moderen,false,Female,7.837,Acting
+309,4460,Trine Dyrholm,Trine Dyrholm,Pia,false,Female,10.175,Acting
+309,4461,Helle Dolleris,Helle Dolleris,Mette,false,Female,6.318,Acting
+309,4462,Therese Glahn,Therese Glahn,Michelle,false,Not set/not specified,2.168,Acting
+309,4463,Klaus Bondam,Klaus Bondam,Toastmasteren,false,Male,1.388,Acting
+309,4464,Bjarne Henriksen,Bjarne Henriksen,Kokken,false,Male,15.102,Acting
+309,4465,Gbatokai Dakinah,Gbatokai Dakinah,Gbatokai,false,Not set/not specified,4.192,Acting
+309,3409,Lasse Lunderskov,Lasse Lunderskov,Onklen,false,Male,0.84,Acting
+309,4467,Lars Brygmann,Lars Brygmann,Receptionisten,false,Male,6.506,Acting
+309,4468,Lene Laub Oksen,Lene Laub Oksen,Søsteren,false,Female,1.359,Acting
+309,4469,Linda Laursen,Linda Laursen,Birthe,false,Not set/not specified,1.788,Acting
+309,4470,John Boas,John Boas,Farfar,false,Not set/not specified,0.6,Acting
+309,4471,Erna Boas,Erna Boas,Farmor,false,Not set/not specified,0.6,Acting
+309,3645257,Bent Henningsen,Bent Henningsen,Statister,false,Not set/not specified,0.6,Acting
+309,3645258,Poul Kajbæk,Poul Kajbæk,Statister,false,Not set/not specified,0.6,Acting
+309,3645259,Vibeke Dalset,Vibeke Dalset,Statister,false,Not set/not specified,0.6,Acting
+309,3645261,Janne Thomsen,Janne Thomsen,Statister,false,Not set/not specified,0.6,Acting
+309,3645262,Anette Jakobsen,Anette Jakobsen,Statister,false,Not set/not specified,0.6,Acting
+309,3645264,Poul Petersen,Poul Petersen,Statister,false,Not set/not specified,0.6,Acting
+309,3645265,Gulli Sejrsen,Gulli Sejrsen,Statister,false,Not set/not specified,0.6,Acting
+309,3645266,Vibeke Kaiser,Vibeke Kaiser,Statister,false,Not set/not specified,0.6,Acting
+309,3645267,John Johnsen,John Johnsen,Statister,false,Not set/not specified,0.6,Acting
+309,3645268,Dan Eilertsen,Dan Eilertsen,Statister,false,Not set/not specified,0.6,Acting
+309,1954266,Søren Sögreni,Søren Sögreni,Statister,false,Not set/not specified,0.6,Acting
+309,3645270,Kate Goldschmidt,Kate Goldschmidt,Statister,false,Not set/not specified,0.6,Acting
+309,3645272,Jens Nørring,Jens Nørring,Statister,false,Not set/not specified,0.6,Acting
+309,1441510,Bent Kaiser,Bent Kaiser,Statister,false,Not set/not specified,0.6,Acting
+309,3645273,Maria Myrgård,Maria Myrgård,Statister,false,Not set/not specified,0.6,Acting
+309,1631704,Peter Krag,Peter Krag,Statister,false,Not set/not specified,0.6,Acting
+309,3645274,Stig Poul Hansen,Stig Poul Hansen,Statister,false,Not set/not specified,0.6,Acting
+309,4480,Kaj Rasmussen,Kaj Rasmussen,I Køkkenet,false,Not set/not specified,0.6,Acting
+309,4481,Robert Strandgård,Robert Strandgård,I Køkkenet,false,Not set/not specified,0.6,Acting
+309,4482,Gry Worre Hallberg,Gry Worre Hallberg,I Køkkenet,false,Not set/not specified,0.6,Acting
+309,3645278,René,René,I Køkkenet,false,Not set/not specified,0.6,Acting
+309,3645280,Christine Louise Jørgensen,Christine Louise Jørgensen,Børn,false,Not set/not specified,0.6,Acting
+309,3645282,Dorte Olofsen,Dorte Olofsen,Børn,false,Not set/not specified,0.6,Acting
+309,3645283,Kasper Olofsen,Kasper Olofsen,Børn,false,Not set/not specified,0.6,Acting
+309,3645284,Emilian Sejersen,Emilian Sejersen,Børn,false,Not set/not specified,0.6,Acting
+309,3645285,Susanne Funck,Susanne Funck,Børn,false,Not set/not specified,0.6,Acting
+309,3645286,Rosmarie Jørgensen,Rosmarie Jørgensen,Børn,false,Not set/not specified,0.6,Acting
+309,3645287,Lasse Jacobsen,Lasse Jacobsen,Børn,false,Not set/not specified,0.6,Acting
+309,2714210,Sigrid Aalbæk Jensen,Sigrid Aalbæk Jensen,Børn,false,Not set/not specified,0.6,Sound
+309,3626755,Mikkel Jacobsen,Mikkel Jacobsen,Børn,false,Not set/not specified,0.6,Acting
+309,582341,Birgitte Simonsen,Birgitte Simonsen,Christian\'s Friend (uncredited),false,Not set/not specified,4.114,Acting
+309,4453,Thomas Vinterberg,Thomas Vinterberg,Taxi Driver (uncredited),false,Male,3.287,Directing
+310,206,Jim Carrey,Jim Carrey,Bruce Nolan,false,Male,32.462,Acting
+310,192,Morgan Freeman,Morgan Freeman,God,false,Male,55.805,Acting
+310,4491,Jennifer Aniston,Jennifer Aniston,Grace Connelly,false,Female,28.988,Acting
+310,4492,Philip Baker Hall,Philip Baker Hall,Jack Baylor,false,Male,7.148,Acting
+310,4493,Catherine Bell,Catherine Bell,Susan Ortega,false,Female,28.281,Acting
+310,4494,Lisa Ann Walter,Lisa Ann Walter,Debbie,false,Female,28.584,Acting
+310,4495,Steve Carell,Steve Carell,Evan Baxter,false,Male,43.504,Acting
+310,4496,Nora Dunn,Nora Dunn,Ally Loman,false,Female,9.601,Acting
+310,1898,Eddie Jemison,Eddie Jemison,Bobby,false,Male,4.518,Acting
+310,4498,Paul Satterfield,Paul Satterfield,Dallas Coleman,false,Male,8.44,Acting
+310,29794,Mark Kiely,Mark Kiely,Fred Donohue,false,Male,2.093,Acting
+310,12134,Sally Kirkland,Sally Kirkland,Anita,false,Female,8.223,Acting
+310,138986,Tony Bennett,Tony Bennett,Himself,false,Male,1.4,Acting
+310,191378,Timothy Di Pri,Timothy Di Pri,Bruce\'s Cameraman,false,Male,2.772,Acting
+310,1225872,Brian Tahash,Brian Tahash,Bruce\'s Soundman,false,Not set/not specified,2.43,Acting
+310,106849,Lou Felder,Lou Felder,Pete Fineman,false,Male,2.07,Acting
+310,101231,Lillian Adams,Lillian Adams,Mama Kowolski,false,Female,3.321,Acting
+310,75923,Christopher Darga,Christopher Darga,Vol Kowolski,false,Not set/not specified,2.969,Acting
+310,157457,Jack Jozefson,Jack Jozefson,Homeless Man,false,Male,1.094,Acting
+310,4511,Mark Adair-Rios,Mark Adair-Rios,Hood,false,Male,3.706,Acting
+310,78796,Enrique Almeida,Enrique Almeida,Hood,false,Male,1.315,Acting
+310,53252,Noel Gugliemi,Noel Gugliemi,Hood,false,Male,23.401,Acting
+310,90448,Rolando Molina,Rolando Molina,Hood,false,Male,3.623,Acting
+310,53257,Emilio Rivera,Emilio Rivera,Hood,false,Male,14.015,Acting
+310,62595,Mary Pat Gleason,Mary Pat Gleason,Heavyish Woman,false,Female,3.304,Acting
+310,99090,Don Dowe,Don Dowe,Camera Operator,false,Male,1.67,Acting
+310,1211946,P.J. Byrne,P.J. Byrne,Panicked Newsroom Staffer,false,Male,4.36,Acting
+310,2467474,Albert P. Santos,Albert P. Santos,Hood,false,Not set/not specified,0.6,Acting
+310,60276,Madeline Lovejoy,Madeline Lovejoy,Zoe,false,Not set/not specified,0.6,Acting
+310,2467482,Jovan Allie,Jovan Allie,Martin,false,Not set/not specified,0.98,Acting
+310,2467483,Koby Allie,Koby Allie,Martin,false,Not set/not specified,0.6,Acting
+310,1217972,Dan Desmond,Dan Desmond,Bill (Ferry Owner),false,Male,5.47,Acting
+310,66557,Selma Stern,Selma Stern,Irene Dansfield,false,Not set/not specified,1.435,Acting
+310,127536,Alfred Dennis,Alfred Dennis,Old Man,false,Male,1.766,Acting
+310,2467488,Rina Fernandez,Rina Fernandez,Pretty Woman,false,Not set/not specified,0.84,Acting
+310,233298,Robert Curtis Brown,Robert Curtis Brown,Phil Sidleman,false,Male,4.322,Acting
+310,2467491,Michael Brownlee,Michael Brownlee,Newscaster,false,Not set/not specified,0.6,Acting
+310,79074,Ted Garcia,Ted Garcia,Newscaster,false,Male,1.15,Acting
+310,86181,Maria Quiban,Maria Quiban,Newscaster,false,Female,0.6,Acting
+310,1215291,Shaun Robinson,Shaun Robinson,Newscaster,false,Female,1.4,Acting
+310,2467495,Saida Pagan,Saida Pagan,Newscaster,false,Female,1.286,Acting
+310,61085,Ken Rudulph,Ken Rudulph,Newscaster,false,Male,1.052,Acting
+310,84880,Gina St. John,Gina St. John,Newscaster,false,Female,4.757,Acting
+310,128267,Michael Villani,Michael Villani,Newscaster,false,Male,0.98,Acting
+310,2467498,Christina Grandy,Christina Grandy,Office Staffer,false,Not set/not specified,0.6,Acting
+310,2467500,Allen Lulu,Allen Lulu,Office Staffer,false,Male,1.922,Acting
+310,154551,Jamison Yang,Jamison Yang,Office Staffer,false,Male,0.84,Acting
+310,1410658,Bette Rae,Bette Rae,Hazel,false,Female,0.988,Acting
+310,2467507,Andrew Romero Hateley,Andrew Romero Hateley,Teenager,false,Not set/not specified,0.6,Acting
+310,2467510,Nick Huff,Nick Huff,Teenager,false,Not set/not specified,0.6,Acting
+310,58950,Greg Collins,Greg Collins,Coach Tucker,false,Male,5.223,Acting
+310,591001,Dougald Park,Dougald Park,Stalled Car Guy,false,Not set/not specified,0.952,Acting
+310,1504567,Susan Ware,Susan Ware,Party Woman,false,Not set/not specified,0.6,Acting
+310,1215375,John Rosenfeld,John Rosenfeld,Business Man,false,Male,1.4,Acting
+310,2467528,Carey Scott,Carey Scott,Partying Sports Guy,false,Male,1.62,Acting
+310,2467530,David A. Clemons,David A. Clemons,Rioter,false,Not set/not specified,0.6,Acting
+310,98661,Bradley Stryker,Bradley Stryker,College Rioter,false,Male,8.856,Acting
+310,1354398,Michael Guarnera,Michael Guarnera,Riot Leader,false,Male,1.358,Acting
+310,180602,Laura Carson,Laura Carson,Nurse,false,Female,0.692,Acting
+310,2467532,Zachary Aaron Krebs,Zachary Aaron Krebs,Paramedic,false,Not set/not specified,0.6,Acting
+310,63111,Ben Livingston,Ben Livingston,Paramedic,false,Male,2.538,Acting
+310,57959,Nelson Mashita,Nelson Mashita,Doctor,false,Male,1.96,Acting
+310,2020621,Glen Yrigoyen,Glen Yrigoyen,Trainer,false,Male,0.6,Crew
+310,1223865,Dohn Norwood,Dohn Norwood,Police Training Center Officer,false,Male,2.282,Acting
+310,2467534,Michael Olifiers,Michael Olifiers,Police Training Center Officer,false,Male,1.4,Acting
+310,1660442,Howard S. Lefstein,Howard S. Lefstein,Phil\'s Soundman,false,Male,0.6,Acting
+310,2467537,Miah Won,Miah Won,Connie (Masseuse),false,Not set/not specified,0.6,Acting
+310,86130,Darcy Fowers,Darcy Fowers,Attractive Woman at Restaurant,false,Female,5.88,Acting
+310,1777740,Laura-Shay Griffin,Laura-Shay Griffin,Attractive Woman at Restaurant,false,Not set/not specified,0.652,Acting
+310,57411,Darius Rose,Darius Rose,Tyler,false,Not set/not specified,3.445,Acting
+310,2467538,Micayla Bowden,Micayla Bowden,Day Care Kid,false,Not set/not specified,0.648,Acting
+310,1036827,Sammy Boyarsky,Sammy Boyarsky,Day Care Kid,false,Not set/not specified,0.694,Acting
+310,2467539,Dylan Ferguson,Dylan Ferguson,Day Care Kid,false,Not set/not specified,0.6,Acting
+310,2435316,Cubbie Kile,Cubbie Kile,Day Care Kid,false,Not set/not specified,1.4,Acting
+310,2467541,Emily Needham,Emily Needham,Day Care Kid,false,Not set/not specified,0.6,Acting
+310,2467542,Alex Villiers,Alex Villiers,Day Care Kid,false,Not set/not specified,0.6,Acting
+310,2467543,Monique Daniels,Monique Daniels,Day Care Teacher,false,Female,1.008,Acting
+310,64189,Ara Celi,Ara Celi,Woman at Party,false,Female,3.891,Acting
+310,2467544,Jessica Leigh Mattson,Jessica Leigh Mattson,Woman at Party,false,Not set/not specified,0.716,Acting
+310,1658202,Allison McCurdy,Allison McCurdy,Woman at Party,false,Female,0.828,Acting
+310,2232354,Patti McLafferty,Patti McLafferty,Woman at Party,false,Not set/not specified,0.694,Acting
+310,1761975,Janelle Pierzina,Janelle Pierzina,Woman at Party,false,Female,0.84,Acting
+310,159431,Annie Wersching,Annie Wersching,Woman at Party,false,Female,18.606,Acting
+310,2156226,Ashley Yegan,Ashley Yegan,Woman at Party,false,Female,1.023,Acting
+310,156109,Micah Stephen Williams,Micah Stephen Williams,Boy on Bike,false,Male,8.315,Acting
+310,1219408,William Thomas, Jr.,William Thomas, Jr.,Technical Director,false,Male,0.98,Acting
+310,1444798,Tom Beyer,Tom Beyer,Stage Manager,false,Male,1.206,Acting
+310,1219415,Max Grodénchik,Max Grodénchik,Control Room Operator,false,Male,4.735,Acting
+310,95195,Michael Bofshever,Michael Bofshever,Control Room Operator,false,Male,5.386,Acting
+310,155018,Colby French,Colby French,Control Room Operator,false,Male,4.668,Acting
+310,943990,Manny Suarez,Manny Suarez,Control Room Operator,false,Male,0.701,Acting
+310,42820,Shashawnee Hall,Shashawnee Hall,Camera Operator,false,Male,2.661,Acting
+310,1218332,Carrie Quinn Dolin,Carrie Quinn Dolin,Teleprompter Operator,false,Not set/not specified,1.614,Acting
+310,1507173,Vanna Salviati,Vanna Salviati,Bobby\'s Aunt,false,Not set/not specified,0.6,Acting
+310,2467549,Scott DeFoe,Scott DeFoe,K-9 Tech,false,Male,1.38,Acting
+310,1766029,David Carrera,David Carrera,Phil\'s Cameraman,false,Male,1.576,Acting
+311,380,Robert De Niro,Robert De Niro,David \'Noodles\' Aaronson,false,Male,46.644,Acting
+311,4512,James Woods,James Woods,Maximilian \'Max\' Bercovicz,false,Male,24.037,Acting
+311,4513,Elizabeth McGovern,Elizabeth McGovern,Deborah Gelly,false,Female,28.484,Acting
+311,4517,Joe Pesci,Joe Pesci,Frankie Monaldi,false,Male,37.826,Acting
+311,4514,Tuesday Weld,Tuesday Weld,Carol,false,Female,11.031,Acting
+311,6161,Jennifer Connelly,Jennifer Connelly,Young Deborah,false,Female,255.678,Acting
+311,4521,Burt Young,Burt Young,Joe,false,Male,14.892,Acting
+311,4515,Treat Williams,Treat Williams,James Conway O\'Donnell,false,Male,25.879,Acting
+311,1004,Danny Aiello,Danny Aiello,Police Chief Vincent Aiello,false,Male,14.664,Acting
+311,3174,Richard Bright,Richard Bright,Chicken Joe,false,Male,4.535,Acting
+311,4516,James Hayden,James Hayden,Patrick \'Patsy\' Goldberg,false,Male,4.696,Acting
+311,4520,William Forsythe,William Forsythe,Philip \'Cockeye\' Stein,false,Male,16.948,Acting
+311,4761,Darlanne Fluegel,Darlanne Fluegel,Eve,false,Female,9.223,Acting
+311,4518,Larry Rapp,Larry Rapp,\'Fat\' Moe Gelly,false,Not set/not specified,2.28,Acting
+311,50744,Olga Karlatos,Olga Karlatos,Woman in the Puppet Theatre,false,Female,13.096,Acting
+311,1373773,Frank Gio,Frank Gio,Beefy,false,Male,3.976,Acting
+311,4750,Scott Schutzman Tiler,Scott Schutzman Tiler,Young Noodles,false,Not set/not specified,8.672,Acting
+311,4751,Rusty Jacobs,Rusty Jacobs,Young Max / David Bailey,false,Male,3.427,Acting
+311,4753,Brian Bloom,Brian Bloom,Young Patsy,false,Male,21.659,Acting
+311,4773,Mike Monetti,Mike Monetti,Young \'Fat\' Moe Gelly,false,Not set/not specified,1.4,Acting
+311,4752,Adrian Curran,Adrian Curran,Young Cockeye,false,Not set/not specified,0.938,Acting
+311,1846245,Julie Cohen,Julie Cohen,Young Peggy,false,Female,0.6,Acting
+311,4754,Noah Moazezi,Noah Moazezi,Dominic,false,Not set/not specified,2.111,Acting
+311,785,James Russo,James Russo,Bugsy,false,Male,14.618,Acting
+311,17921,Clem Caserta,Clem Caserta,Al Capuano,false,Not set/not specified,5.335,Acting
+311,1373776,Frank Sisto,Frank Sisto,Fred Capuano,false,Not set/not specified,0.998,Acting
+311,61236,Jerry Strivelli,Jerry Strivelli,Johnny Capuano,false,Not set/not specified,1.176,Acting
+311,1373778,Mike Gendel,Mike Gendel,Irving Gold,false,Not set/not specified,0.6,Acting
+311,1373779,Sandra Solberg,Sandra Solberg,Friend of Young Deborah,false,Not set/not specified,0.6,Acting
+311,1373775,Margherita Pace,Margherita Pace,Young Deborah (Double),false,Female,0.866,Acting
+311,58535,Paul Herman,Paul Herman,Monkey,false,Male,6.595,Acting
+311,176592,Bruno Iannone,Bruno Iannone,Thug,false,Male,1.01,Acting
+311,27401,Bruno Bilotta,Bruno Bilotta,Chinese Theater Spectator (uncredited),false,Male,3.999,Acting
+311,1555142,Ray Dittrich,Ray Dittrich,Trigger,false,Not set/not specified,3.063,Acting
+311,47771,Richard Foronjy,Richard Foronjy,Officer Whitey,false,Male,6.658,Acting
+311,16318,Mario Brega,Mario Brega,Mandy,false,Male,10.088,Acting
+311,1881583,Angelo Florio,Angelo Florio,Willie the Ape,false,Not set/not specified,1.4,Acting
+311,14548,Marcia Jean Kurtz,Marcia Jean Kurtz,Max\'s Mother,false,Female,1.861,Acting
+311,1956265,Gerard Murphy,Gerard Murphy,Crowning,false,Male,2.744,Acting
+311,91838,Dutch Miller,Dutch Miller,Van Linden,false,Not set/not specified,0.6,Acting
+311,41739,Robert Harper,Robert Harper,Sharkey,false,Male,0.6,Acting
+311,1550423,Amy Ryder,Amy Ryder,Peggy,false,Female,6.399,Acting
+311,1217603,Karen Shallo,Karen Shallo,Mrs. Aiello,false,Female,1.96,Acting
+311,2540992,Frankie Caserta,Frankie Caserta,Bugsy\'s Gang,false,Not set/not specified,0.6,Acting
+311,2540993,Joey Marzella,Joey Marzella,Bugsy\'s Gang,false,Not set/not specified,0.6,Acting
+311,1203838,Marvin Scott,Marvin Scott,Interviewer,false,Not set/not specified,0.6,Acting
+311,2540995,Ann Neville,Ann Neville,Girl in Coffin,false,Female,1.4,Acting
+311,193803,Joey Faye,Joey Faye,Adorable Old Man,false,Male,2.372,Acting
+311,2540996,Linda Ipanema,Linda Ipanema,Nurse Thompson,false,Not set/not specified,0.6,Acting
+311,171388,Tandy Cronyn,Tandy Cronyn,Reporter 1,false,Not set/not specified,0.631,Acting
+311,147397,Richard Zobel,Richard Zobel,Reporter 2,false,Male,1.96,Acting
+311,170921,Baxter Harris,Baxter Harris,Reporter 3,false,Male,4.767,Acting
+311,376,Arnon Milchan,Arnon Milchan,Chauffeur,false,Male,2.741,Production
+311,2540998,Marty Licata,Marty Licata,Cemetery Caretaker,false,Not set/not specified,0.6,Acting
+311,61964,Estelle Harris,Estelle Harris,Peggy\'s Mother,false,Female,13.174,Acting
+311,2540999,Gerritt Debeer,Gerritt Debeer,Drunk,false,Not set/not specified,0.6,Acting
+311,2216268,Alexander Godfrey,Alexander Godfrey,Newstand Man,false,Not set/not specified,0.6,Acting
+311,1437861,Cliff Cudney,Cliff Cudney,Mounted Policeman,false,Male,3.949,Crew
+311,2541000,Paul Farentino,Paul Farentino,2nd Mounted Policeman,false,Not set/not specified,0.6,Acting
+311,2082063,Bruce Bahrenburg,Bruce Bahrenburg,Sgt. P. Halloran,false,Male,0.84,Crew
+311,2541001,Mort Freeman,Mort Freeman,Street Singer,false,Not set/not specified,0.6,Acting
+311,2541003,Massimo Liti,Massimo Liti,Young Macrò,false,Not set/not specified,0.98,Acting
+311,2541002,Jay Zeely,Jay Zeely,Foreman,false,Not set/not specified,0.6,Acting
+311,240914,Salvatore Billa,Salvatore Billa,One of Beefy\'s Thugs (uncredited),false,Male,2.615,Acting
+311,2541005,Greg Anthony,Greg Anthony,Bar Room Patron (uncredited),false,Not set/not specified,0.6,Acting
+311,9306,Scott Coffey,Scott Coffey,Bugsy\'s Gang (uncredited),false,Male,2.565,Acting
+311,2541006,Matteo Cafiso,Matteo Cafiso,Boy in Park (uncredited),false,Not set/not specified,0.6,Acting
+311,2541008,Nunzio Giuliani,Nunzio Giuliani,Speakeasy Drum Player (uncredited),false,Not set/not specified,0.6,Acting
+311,2541007,Nelson Camp,Nelson Camp,Newspaper Salesman (uncredited),false,Not set/not specified,0.6,Acting
+311,2541009,Dario Iori,Dario Iori,Speakeasy Banjo Player (uncredited),false,Not set/not specified,0.6,Acting
+311,2541010,Ole Jorgensen,Ole Jorgensen,Speakeasy Percussionist (uncredited),false,Not set/not specified,0.6,Acting
+311,1308868,Francesca Leone,Francesca Leone,David Bailey\'s Girlfriend (uncredited),false,Not set/not specified,0.6,Acting
+311,2541012,Chuck Low,Chuck Low,Deborah Gelly\'s Father (uncredited),false,Not set/not specified,0.6,Acting
+311,1051866,Ron Nummi,Ron Nummi,Waiter (uncredited),false,Not set/not specified,1.692,Acting
+311,2541014,Ryan Paris,Ryan Paris,Speakeasy Patron (uncredited),false,Male,0.6,Acting
+311,2541015,Nicola Roberto,Nicola Roberto,Speakeasy Trumpet Player (uncredited),false,Not set/not specified,0.6,Acting
+311,1120101,Gianni Sanjust,Gianni Sanjust,Speakeasy Clarinet Player (uncredited),false,Not set/not specified,0.695,Sound
+311,1088576,Alex Serra,Alex Serra,Speakeasy Vocalist (uncredited),false,Not set/not specified,0.6,Acting
+311,1334925,Susan Spafford,Susan Spafford,Nurse (uncredited),false,Female,1.62,Acting
+311,542272,Mark Frazer,Mark Frazer,Pimp (uncredited),false,Male,4.676,Acting
+311,1144070,Maria Pia Monicelli,Maria Pia Monicelli,Prostitute (uncredited),false,Female,1.603,Acting
+311,7071,Louise Fletcher,Louise Fletcher,Riverdale Cemetery Director (uncredited),false,Female,15.446,Acting
+311,4669,Claudio Mancini,Claudio Mancini,Syndacalist (uncredited),false,Male,2.985,Production
+312,4529,Sylvie Testud,Sylvie Testud,Lara,false,Female,4.464,Acting
+312,4530,Tatjana Trieb,Tatjana Trieb,Lara als Kind,false,Female,2.744,Acting
+312,4531,Howie Seago,Howie Seago,Martin,false,Male,1.4,Acting
+312,4532,Emmanuelle Laborit,Emmanuelle Laborit,Kai,false,Female,3.93,Acting
+312,4533,Sibylle Canonica,Sibylle Canonica,Clarissa,false,Female,10.597,Acting
+312,4534,Matthias Habich,Matthias Habich,Gregor,false,Male,4.36,Acting
+312,4535,Alexandra Bolz,Alexandra Bolz,Marie,false,Not set/not specified,1.4,Acting
+312,4536,Hansa Czypionka,Hansa Czypionka,Tom,false,Male,1.131,Acting
+312,4537,Doris Schade,Doris Schade,Lilli,false,Female,1.4,Acting
+312,4538,Horst Sachtleben,Horst Sachtleben,Robert,false,Male,0.874,Acting
+312,4539,Hubert Mulzer,Hubert Mulzer,Herr Gärtner,false,Male,2.849,Acting
+312,4540,Birge Schade,Birge Schade,Fräulein Mertens,false,Female,5.229,Acting
+312,4541,Stephan Kampwirth,Stephan Kampwirth,Bankbeamter,false,Male,2.439,Acting
+312,4542,Lea Mekhméche,Lea Mekhméche,Johanna,false,Not set/not specified,0.6,Acting
+312,4543,Laurel Severin,Laurel Severin,Martin als Kind,false,Not set/not specified,0.6,Acting
+312,4544,Selestina Stanissavijevic,Selestina Stanissavijevic,Clarissa als Kind,false,Not set/not specified,0.6,Acting
+312,4545,Julia Lorbeer,Julia Lorbeer,Bettina,false,Not set/not specified,0.6,Acting
+312,4546,Anna Bickhofer,Anna Bickhofer,Bea,false,Not set/not specified,0.6,Acting
+312,4547,Stefan Spreer,Stefan Spreer,Walter,false,Male,0.6,Camera
+312,4549,Karin Lehmann,Karin Lehmann,Sekretärin Musikhochschule,false,Not set/not specified,0.6,Acting
+312,4550,Stefan von Moers,Stefan von Moers,Mitarbeiter Musikhochschule,false,Not set/not specified,0.6,Acting
+312,4551,Marta Rodríguez,Marta Rodríguez,Konzertbesucherin,false,Female,0.6,Directing
+312,4552,Jutta Schaad,Jutta Schaad,Mitarbeiterin Musikhochschule,false,Not set/not specified,0.6,Acting
+312,4553,Giora Feidman,Giora Feidman,Giora Feidman,false,Not set/not specified,0.6,Acting
+312,4554,Ute Cremer,Ute Cremer,Professorin Musikhochschule,false,Female,1.214,Acting
+312,4555,Franz Hanfstingl,Franz Hanfstingl,Professor Musikhochschule,false,Male,1.4,Acting
+312,4563,Susann Bieling,Susann Bieling,Verkäuferin Spielwarenladen,false,Not set/not specified,0.6,Art
+313,4566,Alan Rickman,Alan Rickman,Alex Hughes,false,Male,13.016,Acting
+313,10205,Sigourney Weaver,Sigourney Weaver,Linda,false,Female,53.343,Acting
+313,530,Carrie-Anne Moss,Carrie-Anne Moss,Maggie,false,Female,29.253,Acting
+313,4570,Emily Hampshire,Emily Hampshire,Vivienne Freeman,false,Female,10.522,Acting
+313,4572,James Allodi,James Allodi,Clyde,false,Male,1.176,Acting
+313,1177772,Janet van de Graaf,Janet van de Graaf,Meryl,false,Female,0.98,Acting
+313,188923,Julie Stewart,Julie Stewart,Florence,false,Not set/not specified,3.623,Acting
+313,4573,Selina Cadell,Selina Cadell,Diane Wooton,false,Female,11.475,Acting
+313,540,Callum Keith Rennie,Callum Keith Rennie,John Neil,false,Male,10.293,Acting
+313,4569,David Fox,David Fox,Dirk Freeman,false,Male,3.504,Acting
+313,4568,Jayne Eastwood,Jayne Eastwood,Ellen Freeman,false,Female,10.158,Acting
+313,63860,John Bayliss,John Bayliss,Priest,false,Male,0.6,Acting
+313,1177775,Jackie Laidlaw,Jackie Laidlaw,Louise,false,Not set/not specified,0.6,Acting
+313,270400,Susan Coyne,Susan Coyne,Deborah the Neighbour,false,Female,2.268,Acting
+313,1177776,Robert Smith Jones,Robert Smith Jones,Dick the Neighbour,false,Not set/not specified,0.6,Acting
+313,2667171,Jackie Brown,Jackie Brown,Waitress,false,Not set/not specified,0.6,Acting
+313,4574,Johnny Goltz,Johnny Goltz,Rookie Cop,false,Male,1.4,Acting
+314,4587,Halle Berry,Halle Berry,Patience Phillips / Catwoman,false,Female,18.471,Acting
+314,4589,Benjamin Bratt,Benjamin Bratt,Tom Lone,false,Male,18.224,Acting
+314,4430,Sharon Stone,Sharon Stone,Laurel Hedare,false,Female,32.544,Acting
+314,2192,Lambert Wilson,Lambert Wilson,George Hedare,false,Male,15.196,Acting
+314,4432,Frances Conroy,Frances Conroy,Ophelia,false,Female,20.402,Acting
+314,24357,Alex Borstein,Alex Borstein,Sally,false,Female,22.707,Acting
+314,9289,Michael Massee,Michael Massee,Armando,false,Male,15.659,Acting
+314,57748,Byron Mann,Byron Mann,Wesley,false,Male,15.718,Acting
+314,141446,Kim Smith,Kim Smith,Drina,false,Female,7.174,Acting
+314,32887,Christopher Heyerdahl,Christopher Heyerdahl,Rocker,false,Male,13.121,Acting
+314,60462,Peter Wingfield,Peter Wingfield,Dr. Ivan Slavicky,false,Male,3.674,Acting
+314,141447,Berend McKenzie,Berend McKenzie,Lance,false,Male,0.6,Acting
+314,158441,Patricia Mayen-Salazar,Patricia Mayen-Salazar,Housekeeper,false,Female,1.4,Acting
+314,67978,Ona Grauer,Ona Grauer,Sandy,false,Female,6.791,Acting
+314,64614,Landy Cannon,Landy Cannon,Randy,false,Male,5.039,Acting
+314,1368537,Michael P. Northey,Michael P. Northey,Jail Guard,false,Male,4.458,Acting
+314,77222,Aaron Douglas,Aaron Douglas,Detective #1,false,Male,3.832,Acting
+314,1225394,Peter Williams,Peter Williams,Detective #2,false,Male,4.187,Acting
+314,204462,Janet Varney,Janet Varney,Party Girl,false,Female,6.1,Acting
+314,117087,Larry Sullivan,Larry Sullivan,Warehouse Supervisor,false,Male,2.432,Acting
+314,33308,James Ashcroft,James Ashcroft,Janitor,false,Male,1.4,Acting
+314,1237734,Michasha Armstrong,Michasha Armstrong,Ferris Wheel Operator,false,Male,2.826,Acting
+314,104276,Brooke Theiss,Brooke Theiss,Ferris Wheel Mom,false,Female,2.791,Acting
+314,77164,Ryan Robbins,Ryan Robbins,Bartender,false,Male,13.966,Acting
+314,12055,John Cassini,John Cassini,Graphologist,false,Male,5.137,Acting
+314,198607,Diego Diablo Del Mar,Diego Diablo Del Mar,Barker,false,Male,2.879,Acting
+314,1546591,Herbert Duncanson,Herbert Duncanson,Security Guard,false,Male,4.288,Acting
+314,1228455,Judith Maxie,Judith Maxie,Jeweler,false,Female,3.236,Acting
+314,1218813,Dagmar Midcap,Dagmar Midcap,Television Reporter,false,Female,6.059,Acting
+314,12367,John Mann,John Mann,Bouncer,false,Male,2.07,Acting
+314,1749241,Chase Nelson-Murray,Chase Nelson-Murray,Kid #1,false,Not set/not specified,0.6,Acting
+314,1749242,Manny Petruzzelli,Manny Petruzzelli,Kid #2,false,Not set/not specified,0.6,Acting
+314,1749243,Harley Reiner,Harley Reiner,Kid #3,false,Not set/not specified,0.972,Acting
+314,61133,Michael Daingerfield,Michael Daingerfield,Forensics Cop,false,Male,3.93,Acting
+314,75532,Benita Ha,Benita Ha,Forensics Technician,false,Female,3.356,Acting
+314,205597,James Lloyd Reynolds,James Lloyd Reynolds,Doctor,false,Male,1.216,Acting
+314,1749245,Jill Krop,Jill Krop,Newscaster,false,Female,1.7,Acting
+314,1272881,Connor Dunn,Connor Dunn,Little Boy,false,Not set/not specified,1.185,Acting
+314,84337,Ashlea Earl,Ashlea Earl,Performance Dancer,false,Female,0.84,Acting
+314,1749247,Lori Fung,Lori Fung,Performance Dancer,false,Female,0.6,Acting
+314,1749253,Ursula Haczkiewicz,Ursula Haczkiewicz,Performance Dancer,false,Female,0.6,Acting
+314,1749264,Alisoun Payne,Alisoun Payne,Performance Dancer,false,Female,0.6,Acting
+314,1749266,Laurence Racine,Laurence Racine,Performance Dancer,false,Not set/not specified,1.87,Acting
+314,1749267,Leigh Bush,Leigh Bush,Woman at Carnival,false,Female,2.613,Acting
+314,1749268,Brett Chan,Brett Chan,Thief #2,false,Not set/not specified,1.4,Crew
+314,90717,Holly Eglington,Holly Eglington,Woman at Party,false,Not set/not specified,0.766,Acting
+314,29214,Anne Fletcher,Anne Fletcher,Woman at Carnival,false,Female,5.034,Directing
+314,1749273,Angie Jaree,Angie Jaree,Singer,false,Female,0.98,Acting
+314,1749279,Everjoy Kriekenbeek,Everjoy Kriekenbeek,Nurse,false,Female,0.6,Acting
+314,1749281,Alfred Liu,Alfred Liu,Man on Stairs,false,Not set/not specified,0.6,Acting
+314,557793,Aaron Miko,Aaron Miko,Basketball Player,false,Male,4.112,Acting
+314,1749282,Stephanie Moseley,Stephanie Moseley,Nightclub Dancer,false,Female,0.6,Acting
+314,1749283,Kennith Overbey,Kennith Overbey,Club Dancer,false,Not set/not specified,0.6,Acting
+314,34434,Missy Peregrym,Missy Peregrym,Beau-line Graphics Model,false,Female,25.109,Acting
+314,1749284,Bobby Silva,Bobby Silva,Thug / Thief,false,Not set/not specified,1.38,Acting
+314,168480,Kimani Ray Smith,Kimani Ray Smith,Thief #1,false,Male,2.251,Acting
+314,27144,Shaina Tianne Unger,Shaina Tianne Unger,Dancer,false,Female,1.619,Acting
+314,113203,Mike Mitchell,Mike Mitchell,Thief #3,false,Male,0.737,Acting
+315,4592,Tura Satana,Tura Satana,Varla,false,Female,1.556,Acting
+315,4593,Haji,Haji,Rosie,false,Female,4.997,Acting
+315,4594,Lori Williams,Lori Williams,Billie,false,Female,3.112,Acting
+315,4595,Sue Bernard,Sue Bernard,Linda,false,Female,0.6,Acting
+315,4596,Stuart Lancaster,Stuart Lancaster,The Old Man,false,Male,1.228,Acting
+315,4597,Paul Trinka,Paul Trinka,Kirk,false,Male,2.421,Acting
+315,4598,Dennis Busch,Dennis Busch,The Vegetable,false,Not set/not specified,1.4,Acting
+315,4599,Ray Barlow,Ray Barlow,Tommy,false,Not set/not specified,0.6,Acting
+315,4679,John Furlong,John Furlong,Narrator (voice),false,Male,2.037,Acting
+315,4685,Michael Finn,Michael Finn,Gas Station Attendant,false,Not set/not specified,0.6,Acting
+316,4618,Steffi Kühnert,Steffi Kühnert,Ellen,false,Female,3.723,Acting
+316,4619,Gabriela Maria Schmeide,Gabriela Maria Schmeide,Katrin,false,Female,2.438,Acting
+316,4620,Thorsten Merten,Thorsten Merten,Christian,false,Male,3.566,Acting
+316,4621,Axel Prahl,Axel Prahl,Uwe,false,Male,2.869,Acting
+316,4622,Janko Brett,Janko Brett,Janko,false,Not set/not specified,0.6,Acting
+316,4623,Miro De Vittoris,Miro De Vittoris,Bauunternehmer,false,Not set/not specified,0.6,Acting
+316,4624,Knut Elstermann,Knut Elstermann,Knut,false,Not set/not specified,0.6,Directing
+316,4625,Carmen Engler,Carmen Engler,Maklerin 2,false,Not set/not specified,0.6,Acting
+316,4626,Frank Fuhrmann,Frank Fuhrmann,Zahnarzt,false,Not set/not specified,0.6,Acting
+316,4627,Jens Graßmehl,Jens Graßmehl,Jens,false,Not set/not specified,0.6,Acting
+316,4633,Julia Ziesche,Julia Ziesche,Julia,false,Not set/not specified,0.694,Directing
+316,2624425,Mascha Rommel,Mascha Rommel,Mascha,false,Not set/not specified,0.6,Acting
+316,4797,Christine Schorn,Christine Schorn,Frau in der Parfümerie,false,Female,1.847,Acting
+317,4635,Mirjana Karanović,Mirjana Karanović,Esma,false,Female,2.739,Acting
+317,4636,Luna Mijović,Luna Mijović,Sara,false,Female,2.527,Acting
+317,4637,Leon Lučev,Leon Lučev,Pelda,false,Male,4.31,Acting
+317,4638,Kenan Ćatić,Kenan Ćatić,Samir,false,Not set/not specified,0.6,Acting
+317,4639,Jasna Beri,Jasna Beri,Sabina,false,Not set/not specified,2.224,Acting
+317,4640,Dejan Aćimović,Dejan Aćimović,Čenga,false,Male,1.776,Acting
+317,4641,Bogdan Diklić,Bogdan Diklić,Saran,false,Male,5.153,Acting
+317,4643,Ermin Bravo,Ermin Bravo,Profesor Muha,false,Male,0.702,Acting
+317,4644,Semka Sokolović-Bertok,Semka Sokolović-Bertok,Peldina majka / Pelda\'s Mother,false,Female,1.793,Acting
+317,133023,Emir Hadžihafizbegović,Emir Hadžihafizbegović,Puška,false,Male,2.521,Acting
+317,1406321,Maike Mia Höhne,Maike Mia Höhne,Jabolka,false,Female,0.6,Directing
+317,559493,Jasna Žalica,Jasna Žalica,Plema,false,Not set/not specified,4.979,Acting
+317,1140904,Nada Đurevska,Nada Đurevska,Tetka Safija,false,Not set/not specified,2.2,Acting
+317,1346389,Emina Muftić,Emina Muftić,Vasvija,false,Female,1.023,Acting
+317,1999963,Dunja Pašić,Dunja Pašić,Mila,false,Not set/not specified,0.6,Acting
+317,1999965,Sedina Muhibić,Sedina Muhibić,Maja,false,Not set/not specified,0.6,Acting
+317,1999966,Sabina Turulja,Sabina Turulja,Zehra,false,Not set/not specified,0.6,Acting
+317,1055251,Vanesa Glođo,Vanesa Glođo,Džemila,false,Not set/not specified,0.968,Acting
+317,1334945,Sanja Burić,Sanja Burić,Mirha,false,Not set/not specified,1.7,Acting
+317,1523606,Hasija Borić,Hasija Borić,Fadila,false,Not set/not specified,0.6,Acting
+317,1473666,Mirza Tanović,Mirza Tanović,Prodavac,false,Not set/not specified,0.6,Acting
+317,1999967,Hendrik Massute,Hendrik Massute,Vojnik,false,Not set/not specified,0.6,Acting
+317,1999969,Hasiba Agić,Hasiba Agić,Pjevačica u centru,false,Not set/not specified,0.6,Acting
+317,1999970,Mirsad Čomaga,Mirsad Čomaga,Pjevač u kafani,false,Not set/not specified,0.6,Acting
+317,1999971,Enis Avdić,Enis Avdić,Školski drug,false,Not set/not specified,0.6,Acting
+317,1869791,Ana Jovanović,Ana Jovanović,Igračica,false,Not set/not specified,1.62,Acting
+318,2461,Mel Gibson,Mel Gibson,Detective Skinner,false,Male,50.908,Acting
+318,63,Milla Jovovich,Milla Jovovich,Eloise,false,Female,42.964,Acting
+318,4654,Jeremy Davies,Jeremy Davies,Tom Tom,false,Male,27.89,Acting
+318,99,Amanda Plummer,Amanda Plummer,Vivien,false,Female,13.385,Acting
+318,53,Peter Stormare,Peter Stormare,Dixie,false,Male,27.228,Acting
+318,4971,Bud Cort,Bud Cort,Shorty,false,Male,7.961,Acting
+318,33181,Jimmy Smits,Jimmy Smits,Geronimo,false,Male,24.614,Acting
+318,6104,Julian Sands,Julian Sands,Terence Scopey,false,Male,16.588,Acting
+318,1166,Harris Yulin,Harris Yulin,Stanley Goldkiss,false,Male,16.306,Acting
+318,33688,Conrad Roberts,Conrad Roberts,Stix,false,Male,1.7,Acting
+318,10825,Donal Logue,Donal Logue,Charley Best,false,Male,40.594,Acting
+318,19453,Tom Bower,Tom Bower,Hector,false,Male,5.76,Acting
+318,8535,Gloria Stuart,Gloria Stuart,Jessica,false,Female,12.111,Acting
+318,33689,Charlayne Woodard,Charlayne Woodard,Jean Swift,false,Female,9.818,Acting
+318,1232807,Ellen Cleghorne,Ellen Cleghorne,Marlene,false,Not set/not specified,2.388,Acting
+318,6396,Richard Edson,Richard Edson,Joe,false,Male,5.911,Acting
+318,59285,Ezra Buzzington,Ezra Buzzington,Reporter,false,Male,6.187,Acting
+318,53763,Tito Larriva,Tito Larriva,Jesu,false,Male,5.891,Acting
+318,33707,David Stifel,David Stifel,Screamer for Jesus,false,Male,1.831,Acting
+318,55254,Frederique van der Wal,Frederique van der Wal,Diamond Woman,false,Female,1.567,Acting
+318,1887715,Roger Stoneburner,Roger Stoneburner,Punk #1,false,Male,5.17,Acting
+318,1525030,Erik Rondell,Erik Rondell,Punk #2,false,Not set/not specified,1.073,Acting
+318,33684,Bono,Bono,Man in Hotel Lobby (uncredited),false,Male,3.227,Acting
+318,44616,Monty Bane,Monty Bane,Salesman (uncredited),false,Male,1.677,Acting
+318,3129,Tim Roth,Tim Roth,Izzy Goldkiss (uncredited),false,Male,31.229,Acting
+318,1926641,Jon Hassell,Jon Hassell,,false,Male,0.6,Acting
+319,2224,Christian Slater,Christian Slater,Clarence Worley,false,Male,38.506,Acting
+319,4687,Patricia Arquette,Patricia Arquette,Alabama Whitman,false,Female,17.59,Acting
+319,4688,Michael Rapaport,Michael Rapaport,Dick Ritchie,false,Male,36.064,Acting
+319,4689,Bronson Pinchot,Bronson Pinchot,Elliot Blitzer,false,Male,16.323,Acting
+319,64,Gary Oldman,Gary Oldman,Drexl Spivey,false,Male,30.727,Acting
+319,2778,Dennis Hopper,Dennis Hopper,Clifford Worley,false,Male,16.331,Acting
+319,4690,Christopher Walken,Christopher Walken,Vincenzo Coccotti,false,Male,25.77,Acting
+319,287,Brad Pitt,Brad Pitt,Floyd,false,Male,49.638,Acting
+319,3197,Tom Sizemore,Tom Sizemore,Cody Nicholson,false,Male,25.182,Acting
+319,2231,Samuel L. Jackson,Samuel L. Jackson,Big Don,false,Male,68.588,Acting
+319,3712,Saul Rubinek,Saul Rubinek,Lee Donowitz,false,Male,15.849,Acting
+319,4691,James Gandolfini,James Gandolfini,Virgil,false,Male,13.918,Acting
+319,4692,Frank Adonis,Frank Adonis,Frankie,false,Male,5.978,Acting
+319,4693,Paul Bates,Paul Bates,Marty,false,Male,16.215,Acting
+319,5576,Val Kilmer,Val Kilmer,Mentor,false,Male,108.698,Acting
+319,2969,Chris Penn,Chris Penn,Nicky Dimes,false,Male,14.743,Acting
+319,3711,Anna Levine,Anna Levine,Lucy,false,Female,14.99,Acting
+319,41125,Eric Allan Kramer,Eric Allan Kramer,Boris,false,Male,12.334,Acting
+319,1909,Conchata Ferrell,Conchata Ferrell,Mary Louise Ravencroft,false,Female,12.194,Acting
+319,2561,Victor Argo,Victor Argo,Lenny,false,Male,8.592,Acting
+319,109670,Said Faraj,Said Faraj,Clerk,false,Male,1.4,Acting
+319,10000,Gregory Sporleder,Gregory Sporleder,Burger Stand Customer,false,Male,3.742,Acting
+319,3208,Maria Pitillo,Maria Pitillo,Kandi,false,Female,13.906,Acting
+319,18472,Kevin Corrigan,Kevin Corrigan,Marvin,false,Male,8.581,Acting
+319,85142,Paul Ben-Victor,Paul Ben-Victor,Luca,false,Male,1.641,Acting
+319,87118,Michael Beach,Michael Beach,Wurlitzer,false,Male,11.048,Acting
+319,120257,Joe D\'Angerio,Joe D\'Angerio,Police Radio Operator,false,Male,2.499,Acting
+319,1638394,John Bower,John Bower,Detective,false,Male,0.6,Acting
+319,206398,John Cenatiempo,John Cenatiempo,Squad Cop #1,false,Male,10.276,Crew
+319,91427,Patrick John Hurley,Patrick John Hurley,Monty,false,Male,2.268,Acting
+319,184121,Dennis Garber,Dennis Garber,Lobby Cop #1,false,Male,1.394,Acting
+319,1759035,Scott Evers,Scott Evers,Lobby Cop #2,false,Not set/not specified,0.98,Acting
+319,1648118,Hilary Klym,Hilary Klym,Running Cop,false,Female,0.6,Lighting
+319,1759036,Steve Gonzales,Steve Gonzales,I.A. Officer,false,Male,1.4,Acting
+319,65141,Laurence Mason,Laurence Mason,Floyd \'D\',false,Male,4.259,Acting
+319,1759037,David Dean,David Dean,Cop,false,Not set/not specified,0.6,Acting
+319,1758695,April Freeman,April Freeman,Burger Stand Customer,false,Female,0.6,Acting
+319,21523,Ed Lauter,Ed Lauter,Police Captain Quiggle,false,Male,49.079,Acting
+319,19675,Enzo Rossi,Enzo Rossi,"Elvis, Alabama\'s and Clarence\'s Son",false,Not set/not specified,2.24,Acting
+319,1332245,Nancy Young,Nancy Young,Hotel Hostage,false,Female,2.537,Crew
+319,70851,Jack Black,Jack Black,Movie Theater Usher,false,Male,37.592,Acting
+320,1158,Al Pacino,Al Pacino,Will Dormer,false,Male,84.427,Acting
+320,2157,Robin Williams,Robin Williams,Walter Finch,false,Male,19.72,Acting
+320,448,Hilary Swank,Hilary Swank,Ellie Burr,false,Female,20.139,Acting
+320,16307,Maura Tierney,Maura Tierney,Rachel Clement,false,Female,17.541,Acting
+320,42993,Martin Donovan,Martin Donovan,Hap Eckhart,false,Male,11.291,Acting
+320,18070,Nicky Katt,Nicky Katt,Fred Duggar,false,Male,8.533,Acting
+320,15900,Paul Dooley,Paul Dooley,Chief Nyback,false,Male,5.848,Acting
+320,58393,Crystal Lowe,Crystal Lowe,Kay Connell,false,Female,9.159,Acting
+320,63791,Jay Brazeau,Jay Brazeau,Francis,false,Male,5.975,Acting
+320,544,Larry Holden,Larry Holden,Farrell,false,Male,1.358,Acting
+320,152410,Kerry Sandomirsky,Kerry Sandomirsky,Trish Eckhart,false,Female,3.377,Acting
+320,179495,Lorne Cardinal,Lorne Cardinal,Rich,false,Male,2.517,Acting
+320,27136,Katharine Isabelle,Katharine Isabelle,Tanya Francke,false,Female,20.308,Acting
+320,23495,Jonathan Jackson,Jonathan Jackson,Randy Stetz,false,Male,6.465,Acting
+320,99841,Paula Shaw,Paula Shaw,Coroner,false,Female,8.929,Acting
+320,1075149,Oliver \'Ole\' Zemen,Oliver \'Ole\' Zemen,Pilot,false,Not set/not specified,0.98,Acting
+320,65800,James Hutson,James Hutson,Officer #1,false,Not set/not specified,0.6,Acting
+320,169723,Andrew Campbell,Andrew Campbell,Officer #2,false,Not set/not specified,0.6,Directing
+320,83211,Tasha Simms,Tasha Simms,Mrs. Connell,false,Female,5.394,Acting
+320,1089889,Malcolm Boddington,Malcolm Boddington,Principal,false,Male,0.766,Acting
+320,53119,Chris Gauthier,Chris Gauthier,Uniformed Officer,false,Male,4.087,Acting
+320,25386,Ian Tracey,Ian Tracey,Warfield (voice),false,Male,16.201,Acting
+320,1234335,Kate Robbins,Kate Robbins,Woman on the Road,false,Female,1.96,Acting
+320,64914,Emily Perkins,Emily Perkins,Girl at Funeral,false,Female,8.532,Acting
+320,117997,Dean Wray,Dean Wray,Ticket Taker,false,Male,1.4,Acting
+321,7002,Luke Kirby,Luke Kirby,Angelo Barberini,false,Male,11.207,Acting
+321,7003,Ginette Reno,Ginette Reno,Maria Barberini,false,Female,1.4,Acting
+321,7004,Paul Sorvino,Paul Sorvino,Gino Barberini,false,Male,16.492,Acting
+321,7005,Mary Walsh,Mary Walsh,Lina Paventi,false,Female,5.254,Acting
+321,7006,Peter Miller,Peter Miller,Nino Paventi,false,Male,2.1,Acting
+321,7007,Claudia Ferri,Claudia Ferri,Anna Barberini,false,Female,3.091,Acting
+321,7008,Sophie Lorain,Sophie Lorain,Pina Lunetti,false,Female,1.4,Acting
+321,7009,Tim Post,Tim Post,Peter,false,Male,3.086,Acting
+321,7010,Tara Nicodemo,Tara Nicodemo,Yolanda/Woman in Airplane/Jolene,false,Female,5.951,Acting
+321,7011,Pierrette Robitaille,Pierrette Robitaille,Rosetta,false,Female,2.863,Acting
+321,7012,Dino Tavarone,Dino Tavarone,Giorgio,false,Not set/not specified,1.702,Acting
+321,7013,Mark Camacho,Mark Camacho,Johnny Christofaro,false,Male,10.504,Acting
+321,7014,Michel Perron,Michel Perron,Father Carmignani,false,Male,4.29,Acting
+321,7015,Lou Vani,Lou Vani,Marco,false,Not set/not specified,1.048,Acting
+321,7016,Diane Lavallée,Diane Lavallée,Mélanie,false,Female,1.824,Acting
+321,1297906,France Arbour,France Arbour,Italian Psychiatrist #5,false,Female,2.188,Acting
+321,1045310,Stéphane Archambault,Stéphane Archambault,Cute Man,false,Male,0.6,Acting
+321,216227,Victoria Sanchez,Victoria Sanchez,Beautiful Woman,false,Female,6.178,Acting
+321,216778,Lisa Bronwyn Moore,Lisa Bronwyn Moore,Desperate Woman,false,Female,1.4,Acting
+322,2228,Sean Penn,Sean Penn,Jimmy Markum,false,Male,14.3,Acting
+322,504,Tim Robbins,Tim Robbins,Dave Boyle,false,Male,32.956,Acting
+322,4724,Kevin Bacon,Kevin Bacon,Sean Devine,false,Male,19.947,Acting
+322,2975,Laurence Fishburne,Laurence Fishburne,Sergeant Whitey Powers,false,Male,29.118,Acting
+322,4726,Marcia Gay Harden,Marcia Gay Harden,Celeste Boyle,false,Female,29.578,Acting
+322,350,Laura Linney,Laura Linney,Annabeth Markum,false,Female,20.369,Acting
+322,4728,Kevin Chapman,Kevin Chapman,Val Savage,false,Male,11.28,Acting
+322,4729,Tom Guiry,Tom Guiry,Brendan Harris,false,Male,7.106,Acting
+322,4730,Emmy Rossum,Emmy Rossum,Katie Markum,false,Female,30.047,Acting
+322,4012,Spencer Treat Clark,Spencer Treat Clark,Silent Ray Harris,false,Male,18.79,Acting
+322,4731,Andrew Mackin,Andrew Mackin,John O\'Shea,false,Not set/not specified,1.4,Acting
+322,4732,Adam Nelson,Adam Nelson,Nick Savage,false,Male,1.38,Acting
+322,4733,Robert Wahlberg,Robert Wahlberg,Kevin Savage,false,Male,7.9,Acting
+322,4734,Jenny O\'Hara,Jenny O\'Hara,Esther Harris,false,Female,14.006,Acting
+322,4735,John Doman,John Doman,Driver,false,Male,7.587,Acting
+322,4736,Cameron Bowen,Cameron Bowen,Young Dave,false,Male,4.536,Acting
+322,4737,Jason Kelly,Jason Kelly,Young Jimmy,false,Not set/not specified,1.4,Crew
+322,4738,Connor Paolo,Connor Paolo,Young Sean,false,Male,15.462,Acting
+322,4739,T. Bruce Page,T. Bruce Page,Jimmy\'s Father,false,Not set/not specified,0.6,Acting
+322,4740,Miles Herter,Miles Herter,Sean\'s Father,false,Not set/not specified,0.98,Acting
+322,4741,Cayden Boyd,Cayden Boyd,Michael Boyle,false,Male,2.206,Acting
+322,4742,Tori Davis,Tori Davis,Lauren Devine,false,Female,1.534,Acting
+322,4743,Jonathan Togo,Jonathan Togo,Pete,false,Male,9.407,Acting
+322,928638,John Franchi,John Franchi,Bar Patron,false,Male,2.188,Acting
+322,2021442,Ed O\'Keefe,Ed O\'Keefe,Communion priest,false,Male,0.611,Acting
+322,1435747,Shawn Fitzgibbon,Shawn Fitzgibbon,Funeral Director,false,Not set/not specified,2.975,Acting
+322,163671,Will Lyman,Will Lyman,FBI Agent Birden,false,Male,5.727,Acting
+322,1211668,Celine du Tertre,Celine du Tertre,Nadine Markum,false,Female,3.226,Acting
+322,71552,Ari Graynor,Ari Graynor,Eve Pigeon,false,Female,12.189,Acting
+322,1505399,Zabeth Russell,Zabeth Russell,Diane Cestra,false,Female,1.96,Acting
+322,1373307,Joe Stapleton,Joe Stapleton,Drew Pigeon,false,Not set/not specified,0.6,Acting
+322,97267,Susan Willis,Susan Willis,Mrs. Prior,false,Female,1.534,Acting
+322,58333,Tom Kemp,Tom Kemp,CSS Tech,false,Male,2.351,Acting
+322,1139812,Celeste Oliva,Celeste Oliva,Trooper Jenny Coughlin,false,Female,2.044,Acting
+322,1493821,Patrick Shea,Patrick Shea,Handcuffed Man,false,Not set/not specified,1.38,Acting
+322,237398,Michael McGovern,Michael McGovern,\'75 Reporter,false,Not set/not specified,0.6,Acting
+322,130735,José Ramón Rosario,José Ramón Rosario,Lt. Friel (as Jose Ramon Rosario),false,Male,2.226,Acting
+322,3265,Eli Wallach,Eli Wallach,Mr. Loonie (uncredited),false,Male,19.513,Acting
+322,27116,Kevin Conway,Kevin Conway,Theo (uncredited),false,Male,3.128,Acting
+322,1893235,Colleen Kelly,Colleen Kelly,Boston Cop (uncredited),false,Not set/not specified,1.131,Acting
+322,1942162,Stephen Kyle,Stephen Kyle,Shopper (uncredited),false,Not set/not specified,0.6,Acting
+322,50589,Frank Ridley,Frank Ridley,Police Detective (uncredited),false,Not set/not specified,1.4,Acting
+322,1968785,Kris Williams,Kris Williams,Spectator (uncredited),false,Not set/not specified,1.4,Acting
+322,2687124,Jillian Wheeler,Jillian Wheeler,Sara Markum (uncredited),false,Female,2.11,Acting
+322,1244097,Lance Norris,Lance Norris,Bartender (uncredited),false,Not set/not specified,1.585,Acting
+326,2231,Samuel L. Jackson,Samuel L. Jackson,Neville Flynn,false,Male,68.588,Acting
+326,25654,Julianna Margulies,Julianna Margulies,Claire Miller,false,Female,19.526,Acting
+326,60005,Nathan Phillips,Nathan Phillips,Sean Jones,false,Male,5.895,Acting
+326,77330,Kenan Thompson,Kenan Thompson,Troy,false,Male,12.002,Acting
+326,52478,Rachel Blanchard,Rachel Blanchard,Mercedes,false,Female,8.744,Acting
+326,109686,Flex Alexander,Flex Alexander,Three G\'s,false,Male,4.203,Acting
+326,55788,Keith Dallas,Keith Dallas,Big Leroy,false,Male,5.234,Acting
+326,58707,Sunny Mabrey,Sunny Mabrey,Tiffany,false,Female,22.225,Acting
+326,7401,Lin Shaye,Lin Shaye,Grace,false,Female,19.948,Acting
+326,1154165,Bruce James,Bruce James,Ken,false,Not set/not specified,0.6,Acting
+326,132347,Casey Dubois,Casey Dubois,Curtis,false,Male,2.599,Acting
+326,27124,Gerard Plunkett,Gerard Plunkett,Paul,false,Male,1.459,Acting
+326,11677,Terry Chen,Terry Chen,Chen Leong,false,Male,4.466,Acting
+326,73269,Elsa Pataky,Elsa Pataky,Maria,false,Female,58.592,Acting
+326,37979,Emily Holmes,Emily Holmes,Ashley,false,Female,9.061,Acting
+326,26782,Mark Houghton,Mark Houghton,John Sanders,false,Male,2.377,Acting
+326,28638,David Koechner,David Koechner,Rick,false,Male,6.187,Acting
+326,21127,Bobby Cannavale,Bobby Cannavale,Hank Harris,false,Male,15.883,Acting
+326,58393,Crystal Lowe,Crystal Lowe,Autograph Girl,false,Female,9.159,Acting
+326,3230,Todd Louiso,Todd Louiso,Dr. Steven Price,false,Male,6.797,Acting
+326,59185,Kendall Cross,Kendall Cross,Driver,false,Female,7.898,Acting
+326,95412,Samantha McLeod,Samantha McLeod,Kelly,false,Female,4.434,Acting
+326,1840843,Ann Warn Pegg,Ann Warn Pegg,Mrs. Bova,false,Female,1.62,Acting
+326,60900,Taylor Kitsch,Taylor Kitsch,Kyle,false,Male,36.51,Acting
+326,27111,Kevin McNulty,Kevin McNulty,Emmett Bradley,false,Male,4.202,Acting
+326,62173,Agam Darshi,Agam Darshi,Dell Girl,false,Female,12.281,Acting
+326,81802,Lisa Marie Caruk,Lisa Marie Caruk,Ken\'s Girlfriend,false,Female,4.07,Acting
+326,1888344,Mi-Jung Lee,Mi-Jung Lee,News Anchor,false,Not set/not specified,1.4,Acting
+326,1691207,Lesley Aletter,Lesley Aletter,Woman Bitten on Tongue,false,Female,1.4,Crew
+326,182948,Byron Lawson,Byron Lawson,Edward Kim,false,Male,5.062,Acting
+327,3317,Takeshi Kitano,Takeshi Kitano,Aniki Yamamoto,false,Male,11.639,Acting
+327,4987,Omar Epps,Omar Epps,Denny,false,Male,25.752,Acting
+327,4988,Claude Maki,Claude Maki,Ken,false,Male,4.316,Acting
+327,4990,Susumu Terajima,Susumu Terajima,Kato,false,Male,3.45,Acting
+327,4989,Masaya Kato,Masaya Kato,Shirase,false,Male,8.585,Acting
+327,4991,Royale Watkins,Royale Watkins,Jay,false,Male,0.694,Directing
+327,4992,Lombardo Boyar,Lombardo Boyar,Mo,false,Male,2.851,Acting
+327,4994,Ryo Ishibashi,Ryo Ishibashi,Ishihara,false,Male,4.424,Acting
+327,4995,James Shigeta,James Shigeta,Sugimoto,false,Male,7.771,Acting
+327,4996,Tatyana Ali,Tatyana Ali,Latifa,false,Female,16.5,Acting
+327,5063,Joseph Ragno,Joseph Ragno,Rossi,false,Male,4.389,Acting
+327,137029,Ren Osugi,Ren Osugi,Harada,false,Male,4.369,Acting
+327,53252,Noel Gugliemi,Noel Gugliemi,Mexican Mafia Soldier,false,Male,23.401,Acting
+327,23915,Pat Morita,Pat Morita,Guy at the poker table,false,Male,15.683,Acting
+327,133512,Tetsuya Watari,Tetsuya Watari,Jinseikai Boss,false,Male,3.678,Acting
+327,17341,Amaury Nolasco,Amaury Nolasco,Victor,false,Male,20.495,Acting
+327,1298614,Joy Nakagawa,Joy Nakagawa,Marina,false,Not set/not specified,0.6,Acting
+327,975666,Rino Katase,Rino Katase,Night Club Madame,false,Female,3.734,Acting
+327,551764,Kōen Okumura,Kōen Okumura,Hanaoka,false,Male,5.292,Acting
+327,133886,Naomasa Musaka,Naomasa Musaka,Hisamatsu,false,Male,4.97,Acting
+327,553946,Makoto Ohtake,Makoto Ohtake,Chief of Police,false,Not set/not specified,0.6,Acting
+327,1194336,Tony Colitti,Tony Colitti,Roberto,false,Male,0.6,Acting
+327,1077894,Wanda-Lee Evans,Wanda-Lee Evans,Denny\'s Mother,false,Not set/not specified,0.6,Acting
+327,93602,Antwon Tanner,Antwon Tanner,Collin,false,Male,10.707,Acting
+327,2115509,Alan Marco,Alan Marco,Bellboy,false,Not set/not specified,0.6,Acting
+327,154386,Dan Gunther,Dan Gunther,Killer Waiter,false,Not set/not specified,0.84,Acting
+327,83781,Robert Covarrubias,Robert Covarrubias,Mexican Mafia Officer,false,Male,1.027,Acting
+327,1641230,Anthony Vatsula,Anthony Vatsula,Mexican Mafia Officer,false,Not set/not specified,0.6,Acting
+327,156625,Al Vicente,Al Vicente,Victor\'s Deputy,false,Male,3.646,Acting
+327,553452,Bradley Jay Lesley,Bradley Jay Lesley,Moose,false,Not set/not specified,0.6,Acting
+327,48071,Lobo Sebastian,Lobo Sebastian,Yamamoto\'s Bodyguard,false,Male,9.045,Acting
+327,63914,Tuesday Knight,Tuesday Knight,Prostitute,false,Female,5.42,Acting
+327,1543119,Chuma Gault,Chuma Gault,Sly,false,Not set/not specified,0.6,Acting
+327,9659,Peter Spellos,Peter Spellos,Taxi Driver,false,Male,1.882,Acting
+327,59232,Jack Ong,Jack Ong,Chinese Boss,false,Male,1.96,Acting
+327,1429649,Alvin Ing,Alvin Ing,Doctor,false,Male,2.744,Acting
+327,104504,John Aprea,John Aprea,Mafia Boss Geppetti,false,Male,4.392,Acting
+327,1436376,Christopher DerGregorian,Christopher DerGregorian,Mexican Mafia Hitman,false,Male,0.6,Acting
+327,72983,Manny Pérez,Manny Pérez,Mexican Mafia Hitman,false,Male,3.348,Acting
+327,1775867,Hiroshi Otaguro,Hiroshi Otaguro,Yamomoto\'s Henchman,false,Not set/not specified,0.6,Acting
+327,102708,Darryl M. Bell,Darryl M. Bell,Yamomoto\'s Henchman,false,Male,0.995,Acting
+327,86204,Geoff Meed,Geoff Meed,Rossi\'s Bodyguard,false,Male,3.698,Acting
+327,43010,Thomas Rosales Jr.,Thomas Rosales Jr.,First Mexican Mafia Boss,false,Male,3.399,Acting
+327,1344105,Gary Cruz,Gary Cruz,Mexican Mafia Soldier,false,Not set/not specified,0.6,Acting
+327,3155855,Miguel Mas,Miguel Mas,Mexican Mafia Soldier,false,Not set/not specified,0.6,Acting
+327,200079,Erick Carrillo,Erick Carrillo,Mexican Hitman,false,Not set/not specified,0.6,Acting
+327,1447389,Joseph Aguilar,Joseph Aguilar,Thug,false,Not set/not specified,0.6,Art
+327,1752145,Shūhei Saga,Shūhei Saga,Matsumoto,false,Male,0.6,Acting
+327,2094493,Shoken Kunimoto,Shoken Kunimoto,Ohyama,false,Not set/not specified,0.648,Acting
+327,1707343,Eiji Inoue,Eiji Inoue,Shirase\'s Henchman,false,Not set/not specified,2.18,Acting
+327,159303,Rainbow Borden,Rainbow Borden,Yamomoto\'s Henchman,false,Male,2.066,Acting
+327,3457294,Mike Wu,Mike Wu,Chinese Boss,false,Not set/not specified,0.6,Acting
+327,70947,Tad Horino,Tad Horino,Coffee Shop Owner,false,Male,6.142,Acting
+327,3457296,Don Sato,Don Sato,Sushi Bar Owner,false,Not set/not specified,0.6,Acting
+327,1775866,Hideo Kimura,Hideo Kimura,Sushi Bar Part-Timer,false,Not set/not specified,1.866,Acting
+327,3457298,Koyo Into,Koyo Into,Nishida,false,Not set/not specified,0.6,Acting
+327,1732005,Ren Murakami,Ren Murakami,Minamino,false,Not set/not specified,0.6,Acting
+327,2002322,Yuji Hasegawa,Yuji Hasegawa,Whorehouse Customer,false,Not set/not specified,0.6,Acting
+327,1407885,Paul Feddersen,Paul Feddersen,Limo Driver,false,Not set/not specified,0.652,Crew
+327,1956250,Nynno Ahli,Nynno Ahli,Oscar,false,Male,1.62,Acting
+327,646797,Takashi Nishina,Takashi Nishina,Yakuza,false,Male,4.512,Acting
+327,1053956,Ryosuke Watabe,Ryosuke Watabe,Chinese Mafia,false,Not set/not specified,0.84,Acting
+327,3457300,Mikage Sano,Mikage Sano,Chinese Mafia,false,Not set/not specified,0.6,Acting
+329,4783,Sam Neill,Sam Neill,Dr. Alan Grant,false,Male,62.277,Acting
+329,4784,Laura Dern,Laura Dern,Dr. Ellie Sattler,false,Female,38.729,Acting
+329,4785,Jeff Goldblum,Jeff Goldblum,Dr. Ian Malcolm,false,Male,27.587,Acting
+329,4786,Richard Attenborough,Richard Attenborough,John Hammond,false,Male,7.401,Acting
+329,4789,Bob Peck,Bob Peck,Robert Muldoon,false,Male,13.756,Acting
+329,4790,Martin Ferrero,Martin Ferrero,Donald Gennaro,false,Male,5.102,Acting
+329,14592,BD Wong,BD Wong,Dr. Henry Wu,false,Male,30.937,Acting
+329,4787,Joseph Mazzello,Joseph Mazzello,Tim Murphy,false,Male,11.582,Acting
+329,4788,Ariana Richards,Ariana Richards,Lex Murphy,false,Female,16.103,Acting
+329,2231,Samuel L. Jackson,Samuel L. Jackson,Arnold,false,Male,68.588,Acting
+329,4201,Wayne Knight,Wayne Knight,Dennis Nedry,false,Male,18.279,Acting
+329,2211,Gerald R. Molen,Gerald R. Molen,Gerry Harding,false,Male,3.958,Production
+329,30488,Miguel Sandoval,Miguel Sandoval,Juanito Rostagno,false,Male,9.493,Acting
+329,176312,Cameron Thor,Cameron Thor,Lewis Dodgson,false,Male,6.136,Acting
+329,145531,Christopher John Fields,Christopher John Fields,Volunteer #1,false,Male,1.296,Acting
+329,166298,Whit Hertford,Whit Hertford,Volunteer Boy,false,Male,10.583,Acting
+329,1060,Dean Cundey,Dean Cundey,Mate,false,Male,5.561,Camera
+329,9559,Jophery C. Brown,Jophery C. Brown,Worker in Raptor Pen,false,Male,1.4,Acting
+329,1278538,Tom Mishler,Tom Mishler,Helicopter Pilot,false,Not set/not specified,2.864,Acting
+329,4791,Greg Burson,Greg Burson,\'Mr. D.N.A.\' Voice (voice),false,Male,5.347,Acting
+329,1278539,Adrian Escober,Adrian Escober,Worker at Amber Mine,false,Not set/not specified,1.4,Acting
+329,26660,Richard Kiley,Richard Kiley,Jurassic Park Tour Voice (voice),false,Male,5.455,Acting
+329,1278540,Brad M. Bucklin,Brad M. Bucklin,Lab Technician (uncredited),false,Not set/not specified,0.6,Acting
+329,1278541,Laura Burnett,Laura Burnett,Archeologist (uncredited),false,Female,0.995,Acting
+329,93258,Michael Lantieri,Michael Lantieri,Customer at San Jose restaurant (uncredited),false,Male,1.505,Visual Effects
+329,1004156,Gary Rodriguez,Gary Rodriguez,Miner - Dug Out Mosquito (uncredited),false,Male,1.183,Acting
+329,12631,Lata Ryan,Lata Ryan,Control Room technician (uncredited),false,Female,3.068,Production
+329,15335,Brian Smrz,Brian Smrz,"Driver of Grant, Sattler & Malcolm\'s Jeep (uncredited)",false,Male,6.132,Crew
+329,2620538,Rip Lee Walker,Rip Lee Walker,Raptor #1 (uncredited),false,Not set/not specified,0.6,Acting
+329,1278542,Robert \'Bobby Z\' Zajonc,Robert \'Bobby Z\' Zajonc,InGen Helicopter Pilot (uncredited),false,Male,6.633,Crew
+330,4785,Jeff Goldblum,Jeff Goldblum,Ian Malcolm,false,Male,27.587,Acting
+330,1231,Julianne Moore,Julianne Moore,Sarah Harding,false,Female,25.446,Acting
+330,4935,Pete Postlethwaite,Pete Postlethwaite,Roland Tembo,false,Male,14.578,Acting
+330,3229,Arliss Howard,Arliss Howard,Peter Ludlow,false,Male,9.698,Acting
+330,4786,Richard Attenborough,Richard Attenborough,John Hammond,false,Male,7.401,Acting
+330,4937,Vince Vaughn,Vince Vaughn,Nick Van Owen,false,Male,33.269,Acting
+330,4938,Vanessa Lee Chester,Vanessa Lee Chester,Kelly Curtis Malcolm,false,Female,10.228,Acting
+330,53,Peter Stormare,Peter Stormare,Dieter Stark,false,Male,27.228,Acting
+330,113935,Harvey Jason,Harvey Jason,Ajay Sidhu,false,Male,2.122,Acting
+330,31028,Richard Schiff,Richard Schiff,Eddie Carr,false,Male,21.654,Acting
+330,46919,Thomas F. Duffy,Thomas F. Duffy,Dr. Robert Burke,false,Male,3.172,Acting
+330,4787,Joseph Mazzello,Joseph Mazzello,Tim,false,Male,11.582,Acting
+330,4788,Ariana Richards,Ariana Richards,Lex,false,Female,16.103,Acting
+330,43010,Thomas Rosales Jr.,Thomas Rosales Jr.,Carter,false,Male,3.399,Acting
+330,38670,Camilla Belle,Camilla Belle,Cathy Bowman,false,Female,23.544,Acting
+330,1367129,Cyd Strittmatter,Cyd Strittmatter,Mrs. Bowman,false,Female,3.461,Acting
+330,15030,Robin Sachs,Robin Sachs,Mr. Bowman,false,Male,3.842,Acting
+330,45396,Ross Partridge,Ross Partridge,Curious Man,false,Male,6.224,Acting
+330,11764,Ian Abercrombie,Ian Abercrombie,Butler,false,Male,6.45,Acting
+330,1235968,David Sawyer,David Sawyer,Workman,false,Male,1.22,Acting
+330,54864,Geno Silva,Geno Silva,Barge Captain,false,Male,6.801,Acting
+330,2010920,Alex Miranda Cruz,Alex Miranda Cruz,Barge Captain\'s Son,false,Male,0.694,Acting
+330,1278542,Robert \'Bobby Z\' Zajonc,Robert \'Bobby Z\' Zajonc,InGen Helicopter Pilot,false,Male,6.633,Crew
+330,2620585,Bob Boehm,Bob Boehm,Cargo Helicopter Pilot,false,Not set/not specified,0.6,Acting
+330,2620586,Bradley Jensen,Bradley Jensen,Cargo Helicopter Pilot,false,Not set/not specified,0.6,Acting
+330,1106260,Alan D. Purwin,Alan D. Purwin,Cargo Helicopter Pilot,false,Male,0.98,Crew
+330,1798470,Ben Skorstad,Ben Skorstad,Cargo Helicopter Pilot,false,Not set/not specified,0.94,Crew
+330,2620589,Rick Wheeler,Rick Wheeler,Cargo Helicopter Pilot,false,Not set/not specified,0.6,Acting
+330,2620590,Kenyon Williams,Kenyon Williams,Cargo Helicopter Pilot,false,Not set/not specified,0.6,Acting
+330,74595,Gordon Michaels,Gordon Michaels,InGen Worker,false,Male,1.856,Acting
+330,93348,J. Scott Shonka,J. Scott Shonka,InGen Worker,false,Male,2.957,Acting
+330,1236547,Harry Hutchinson,Harry Hutchinson,InGen Worker,false,Not set/not specified,2.126,Acting
+330,64805,Billy Brown,Billy Brown,InGen Worker,false,Male,8.462,Acting
+330,1214402,Brian Turk,Brian Turk,InGen Worker,false,Male,2.386,Acting
+330,2620600,Jim Harley,Jim Harley,Harbor Master,false,Not set/not specified,1.217,Acting
+330,94509,Colton James,Colton James,Benjamin,false,Male,7.624,Acting
+330,1354893,Carey Eidel,Carey Eidel,Benjamin\'s Dad,false,Male,1.379,Acting
+330,155931,Katy Boyer,Katy Boyer,Benjamin\'s Mom,false,Female,3.95,Acting
+330,508,David Koepp,David Koepp,Unlucky Bastard,false,Male,9.642,Writing
+330,2620620,Eugene Bass Jr.,Eugene Bass Jr.,Attorney,false,Not set/not specified,0.6,Acting
+330,1405888,Bari Buckner,Bari Buckner,Screaming Woman,false,Female,0.6,Acting
+330,169585,Patricia Bethune,Patricia Bethune,Screamer,false,Female,3.264,Acting
+330,1598,David St. James,David St. James,Screamer,false,Male,2.852,Acting
+330,985532,Mark Brady,Mark Brady,Screamer,false,Male,0.6,Acting
+330,106728,Marjean Holden,Marjean Holden,Screamer,false,Female,6.521,Acting
+330,1226424,Jacqueline Schultz,Jacqueline Schultz,Screamer,false,Female,2.395,Acting
+330,1641380,Domini Hofmann,Domini Hofmann,Screamer,false,Female,2.59,Production
+330,2620655,Thomas Stuart,Thomas Stuart,Screamer,false,Not set/not specified,0.6,Acting
+330,2620656,C. Ransom Walrod,C. Ransom Walrod,Ship Driver,false,Male,0.6,Acting
+330,1091251,David Gene Gibbs,David Gene Gibbs,Police Helicopter Pilot,false,Not set/not specified,1.456,Acting
+330,1872824,Michael N. Fujimoto,Michael N. Fujimoto,Asian Tourist,false,Not set/not specified,0.98,Acting
+330,1912909,Paul Fujimoto,Paul Fujimoto,Asian Tourist,false,Not set/not specified,0.6,Acting
+330,2620657,Darryl A. Imai,Darryl A. Imai,Asian Tourist,false,Not set/not specified,0.6,Acting
+330,2620658,Darryl Oumi,Darryl Oumi,Asian Tourist,false,Not set/not specified,0.6,Acting
+330,2620659,Vincent Dee Miles,Vincent Dee Miles,Screaming Hunter,false,Not set/not specified,0.652,Acting
+330,2620660,Bernard Shaw,Bernard Shaw,CNN Reporter / Self,false,Male,0.6,Acting
+330,1098533,Sean Michael Allen,Sean Michael Allen,Tourist #2 (uncredited),false,Male,1.052,Acting
+330,1856467,Christopher Caso,Christopher Caso,InGen Guard (uncredited),false,Male,1.4,Crew
+330,61307,Michael Chinyamurindi,Michael Chinyamurindi,Waiter (uncredited),false,Male,1.176,Acting
+330,1800243,Tory Christopher,Tory Christopher,InGen Worker (uncredited),false,Not set/not specified,0.6,Acting
+330,959124,Michael Fallavollita,Michael Fallavollita,Mechanic with wrench (uncredited),false,Male,0.996,Editing
+330,1601084,Elliot Goldwag,Elliot Goldwag,Senior Board Member (uncredited),false,Male,0.828,Acting
+330,1494522,Larry Guardino,Larry Guardino,Senior Board Member (uncredited),false,Not set/not specified,1.4,Acting
+330,24969,Henry Kingi,Henry Kingi,Dinosaur Hunter (uncredited),false,Male,9.329,Acting
+330,568321,Brian Lally,Brian Lally,Tourist #3 (uncredited),false,Not set/not specified,0.612,Acting
+330,188773,David Lea,David Lea,San Diego Pedestrian (uncredited),false,Male,1.861,Acting
+330,93958,J. Patrick McCormack,J. Patrick McCormack,Board Member (uncredited),false,Male,2.605,Acting
+330,1842226,Johnny Meyer,Johnny Meyer,San Diego Pedestrian (uncredited),false,Not set/not specified,0.6,Acting
+330,154295,Michael Milhoan,Michael Milhoan,Obnoxious Tourist (uncredited),false,Male,3.724,Acting
+330,1215803,Kenneth Moskow,Kenneth Moskow,Tourist #4 (uncredited),false,Not set/not specified,3.223,Acting
+330,1236,Mark Pellegrino,Mark Pellegrino,Tourist #6 (uncredited),false,Male,14.372,Acting
+330,1748126,Bob Quinn,Bob Quinn,Dock Construction Worker (uncredited),false,Not set/not specified,0.6,Acting
+330,1391129,Chad Randall,Chad Randall,Hunter (uncredited),false,Male,4.53,Crew
+330,16847,Eli Roth,Eli Roth,Subway Man (uncredited),false,Male,15.878,Acting
+330,2079503,James Ryan,James Ryan,Hunter (uncredited),false,Not set/not specified,1.018,Crew
+330,1854416,Theodore Carl Soderberg,Theodore Carl Soderberg,Dock Worker (uncredited),false,Male,1.4,Acting
+330,488,Steven Spielberg,Steven Spielberg,Popcorn-Eating Man (uncredited),false,Male,50.138,Directing
+331,4783,Sam Neill,Sam Neill,Dr. Alan Grant,false,Male,62.277,Acting
+331,3905,William H. Macy,William H. Macy,Paul Kirby,false,Male,27.228,Acting
+331,4939,Téa Leoni,Téa Leoni,Amanda Kirby,false,Female,21.027,Acting
+331,4941,Alessandro Nivola,Alessandro Nivola,Billy Brennan,false,Male,16.917,Acting
+331,4940,Trevor Morgan,Trevor Morgan,Erik Kirby,false,Male,12.278,Acting
+331,2169,Michael Jeter,Michael Jeter,Mr. Udesky,false,Male,18.869,Acting
+331,4942,John Diehl,John Diehl,Cooper,false,Male,13.897,Acting
+331,4943,Bruce A. Young,Bruce A. Young,M.B. Nash,false,Male,7.808,Acting
+331,4784,Laura Dern,Laura Dern,Dr. Ellie Sattler,false,Female,38.729,Acting
+331,4944,Taylor Nichols,Taylor Nichols,Mark Degler,false,Male,9.316,Acting
+331,88949,Mark Harelik,Mark Harelik,Ben Hildebrand,false,Male,8.195,Acting
+331,17413,Julio Oscar Mechoso,Julio Oscar Mechoso,Enrique Cardoso,false,Male,10.343,Acting
+331,1076559,Blake Michael Bryan,Blake Michael Bryan,Charlie,false,Not set/not specified,8.944,Acting
+331,1223986,Sarah Danielle Madison,Sarah Danielle Madison,Cheryl Logan,false,Female,5.843,Acting
+331,105646,Linda Park,Linda Park,Hannah,false,Female,18.089,Acting
+331,173177,Sonia Jackson,Sonia Jackson,Symposium Leader,false,Female,6.145,Acting
+331,157582,Bruce French,Bruce French,Science Reporter,false,Male,2.939,Acting
+331,1786426,Bernard Zilinskas,Bernard Zilinskas,Male Student,false,Male,2.855,Acting
+331,1384706,Rona Benson,Rona Benson,Female Student,false,Female,3.472,Acting
+331,1563216,Frank Clem,Frank Clem,Man in Suit,false,Male,1.672,Acting
+331,1379517,Craig Hosking,Craig Hosking,Pilot,false,Male,5.694,Crew
+331,1714916,Rick Shuster,Rick Shuster,Pilot,false,Male,1.62,Crew
+331,2757453,Sean Coffey,Sean Coffey,Palentology Student (uncredited),false,Not set/not specified,0.6,Acting
+331,2621393,Karin M. Gaarder,Karin M. Gaarder,Paleontology Student (uncredited),false,Female,0.6,Acting
+331,1023439,Edward C. Gillow,Edward C. Gillow,University Professor at Symposium (uncredited),false,Not set/not specified,0.828,Production
+331,2621395,Troy Higgins,Troy Higgins,Paleontology Student (uncredited),false,Not set/not specified,0.6,Acting
+331,932287,Craig Richards,Craig Richards,Billy\'s Bar Buddy (uncredited),false,Male,1.052,Acting
+331,2621397,Brad Everett Young,Brad Everett Young,Paleontology Student (uncredited),false,Not set/not specified,0.6,Acting
+332,4756,Matthew Broderick,Matthew Broderick,Inspector Gadget / Robo Gadget / John Brown,false,Male,12.191,Acting
+332,4757,Rupert Everett,Rupert Everett,Sanford Scolex / Dr. Claw,false,Male,14.79,Acting
+332,4758,Joely Fisher,Joely Fisher,Brenda / Robobrenda,false,Female,5.89,Acting
+332,49961,Michelle Trachtenberg,Michelle Trachtenberg,Penny,false,Female,25.429,Acting
+332,43120,Andy Dick,Andy Dick,Kramer,false,Male,3.063,Acting
+332,60252,Cheri Oteri,Cheri Oteri,Mayor Wilson,false,Female,9.75,Acting
+332,15105,Mike Hagerty,Mike Hagerty,Sikes,false,Male,8.131,Acting
+332,12850,Dabney Coleman,Dabney Coleman,Chief Quimby,false,Male,8.718,Acting
+332,85931,D.L. Hughley,D.L. Hughley,Gadgetmobile (voice),false,Male,5.7,Acting
+332,9807,René Auberjonois,René Auberjonois,Artemus Bradford,false,Male,9.021,Acting
+332,11794,Frances Bay,Frances Bay,Thelma,false,Female,4.956,Acting
+332,16619,Mr. T,Mr. T,Himself,false,Male,16.798,Acting
+332,10460,Richard Kiel,Richard Kiel,Famous Big Guy with Silver Teeth,false,Male,20.177,Acting
+332,61709,Richard Lee-Sung,Richard Lee-Sung,Famous Villain with Deadly Hat,false,Male,3.175,Acting
+332,81414,Bobby Bell,Bobby Bell,Famous Identifier of Sea Planes,false,Not set/not specified,1.858,Acting
+332,1813644,Karin Silvestri,Karin Silvestri,,false,Female,12.905,Crew
+332,3178436,Michael George,Michael George,Musician (uncredited),false,Not set/not specified,0.6,Acting
+332,3510539,Vance Sanders,Vance Sanders,Man in Riverton#1,false,Male,0.6,Acting
+332,1172438,Norman Fessler,Norman Fessler,Waiter (uncredited),false,Male,0.972,Acting
+333,86213,Rahul Khanna,Rahul Khanna,Rahul Seth,false,Male,3.581,Acting
+333,52969,Lisa Ray,Lisa Ray,Sue (Sunita) Singh,false,Female,8.906,Acting
+333,111808,Moushumi Chatterjee,Moushumi Chatterjee,Mummy ji,false,Female,12.398,Acting
+333,105652,Dina Pathak,Dina Pathak,Grandma ji,false,Female,4.621,Acting
+333,53377,Kulbhushan Kharbanda,Kulbhushan Kharbanda,Mr. Singh,false,Male,2.762,Acting
+333,106461,Ranjit Chowdhry,Ranjit Chowdhry,Rocky,false,Male,0.6,Acting
+333,82096,Jessica Paré,Jessica Paré,Kimberly,false,Female,19.553,Acting
+333,52975,Rishma Malik Scott,Rishma Malik Scott,Twinky,false,Female,2.41,Acting
+333,111809,Jazz Mann,Jazz Mann,Bobby,false,Male,1.96,Acting
+333,111810,Arjun Lombardi-Singh,Arjun Lombardi-Singh,Go (Govind),false,Male,0.6,Acting
+333,111811,Leesa Gaspari,Leesa Gaspari,Lucy,false,Female,0.6,Acting
+333,111812,Neelam Mansingh,Neelam Mansingh,Mrs. Singh,false,Female,0.6,Acting
+333,111813,Mike Deol,Mike Deol,Killer Khalsa (as Killer Khalsa),false,Not set/not specified,0.6,Acting
+333,111814,Jolly Bader,Jolly Bader,Daddy ji,false,Male,0.6,Acting
+333,111815,Ronica Sajnani,Ronica Sajnani,Ronica,false,Female,0.6,Acting
+333,111816,Jeremy Chow,Jeremy Chow,Brian,false,Not set/not specified,0.6,Acting
+333,111817,Damon D\'Oliveira,Damon D\'Oliveira,Stevie Sood (as Damon D\'Olivera),false,Male,1.094,Acting
+333,111818,Nicky Gill,Nicky Gill,Bobby\'s Mom,false,Not set/not specified,0.6,Acting
+333,111819,Nicole Innis,Nicole Innis,Nicole,false,Not set/not specified,0.6,Acting
+333,111820,Rohan Bader,Rohan Bader,Young Rahul,false,Male,0.6,Acting
+333,111821,Terry Stevens,Terry Stevens,Veronica,false,Not set/not specified,0.6,Acting
+333,111822,Rupinder Nagra,Rupinder Nagra,Rahul\'s Friend at Wedding,false,Male,0.728,Acting
+333,111823,Anne Mroczkowski,Anne Mroczkowski,Reporter,false,Female,1.38,Acting
+333,111824,Monisha Randhawa,Monisha Randhawa,Bobby\'s Sister,false,Not set/not specified,0.6,Acting
+333,111825,Pragna Desai,Pragna Desai,Pauline,false,Not set/not specified,1.284,Acting
+333,87328,Akshaye Khanna,Akshaye Khanna,Himself,false,Male,7.876,Acting
+333,2256613,Jodi McFadden,Jodi McFadden,Dancer,false,Female,0.694,Acting
+334,4779,Jeremy Blackman,Jeremy Blackman,Stanley Spector,false,Male,1.922,Acting
+334,500,Tom Cruise,Tom Cruise,Frank T.J. Mackey,false,Male,103.313,Acting
+334,4778,Melinda Dillon,Melinda Dillon,Rose Gator,false,Female,16.381,Acting
+334,4492,Philip Baker Hall,Philip Baker Hall,Jimmy Gator,false,Male,7.148,Acting
+334,1233,Philip Seymour Hoffman,Philip Seymour Hoffman,Phil Parma,false,Male,14.579,Acting
+334,10743,Ricky Jay,Ricky Jay,Burt Ramsey / Narrator,false,Male,5.456,Acting
+334,3905,William H. Macy,William H. Macy,Donnie Smith,false,Male,27.228,Acting
+334,658,Alfred Molina,Alfred Molina,Solomon Solomon,false,Male,38.535,Acting
+334,1231,Julianne Moore,Julianne Moore,Linda Partridge,false,Female,25.446,Acting
+334,4764,John C. Reilly,John C. Reilly,Jim Kurring,false,Male,21.016,Acting
+334,4765,Jason Robards,Jason Robards,Earl Partridge,false,Male,13.715,Acting
+334,4766,Melora Walters,Melora Walters,Claudia Wilson Gator,false,Female,17.556,Acting
+334,2234,Michael Bowen,Michael Bowen,Rick Spector,false,Male,5.146,Acting
+334,4777,Emmanuel Johnson,Emmanuel Johnson,Dixon,false,Not set/not specified,0.6,Acting
+334,7427,Felicity Huffman,Felicity Huffman,Cynthia,false,Female,5.465,Acting
+334,10691,April Grace,April Grace,Gwenovier,false,Female,6.362,Acting
+334,7574,Cleo King,Cleo King,Marcie,false,Female,9.481,Acting
+334,18270,Orlando Jones,Orlando Jones,Worm,false,Male,13.21,Acting
+334,10872,Patton Oswalt,Patton Oswalt,Delmer Darion,false,Male,26.62,Acting
+334,43776,Neil Flynn,Neil Flynn,Stanley Berry,false,Male,17.757,Acting
+334,19439,Henry Gibson,Henry Gibson,Thurston Howell,false,Male,7.262,Acting
+334,6199,Miriam Margolyes,Miriam Margolyes,Faye Barringer,false,Female,10.986,Acting
+334,4776,Michael Murphy,Michael Murphy,Alan Kligman Esq.,false,Male,8.548,Acting
+334,1591432,Genevieve Zweig,Genevieve Zweig,Mrs. Godfrey,false,Not set/not specified,1.02,Acting
+334,60846,Pat Healy,Pat Healy,Sir Edmund William Godfrey / Young Pharmacy Kid,false,Male,13.075,Acting
+334,11155,Thomas Jane,Thomas Jane,Young Jimmy Gator,false,Male,28.331,Acting
+334,40481,Luis Guzmán,Luis Guzmán,Luis,false,Male,20.696,Acting
+334,9048,Clark Gregg,Clark Gregg,WDKK Floor Director,false,Male,19.246,Acting
+334,98365,Veronica Hart,Veronica Hart,Dentist Nurse #1,true,Female,25.198,Acting
+334,1219029,Paul F. Tompkins,Paul F. Tompkins,"Chad, Seduce & Destroy",false,Not set/not specified,4.445,Acting
+334,59874,Robert Downey Sr.,Robert Downey Sr.,Crew Member Cameo,false,Male,5.594,Directing
+334,98215,Matt Gerald,Matt Gerald,Officer #2,false,Male,22.386,Acting
+334,2448486,Craig Kvinsland,Craig Kvinsland,Brad The Bartender,false,Male,0.6,Acting
+334,189160,Patricia Scanlon,Patricia Scanlon,Cocktail Waitress,false,Not set/not specified,1.38,Acting
+334,33017,Allan Graf,Allan Graf,Firefighter,false,Male,7.304,Acting
+334,155560,Rod McLachlan,Rod McLachlan,Daniel Hill,false,Male,1.216,Acting
+334,65732,Brad Hunt,Brad Hunt,Craig Hansen,false,Male,2.17,Acting
+334,30697,Jim Meskimen,Jim Meskimen,Forensic Scientist,false,Male,5.342,Acting
+334,1387252,Chris O\'Hara,Chris O\'Hara,Sydney Barringer,false,Male,8.12,Crew
+334,54694,Clement Blake,Clement Blake,Arthur Barringer,false,Male,5.711,Acting
+334,3322089,Frank Elmore,Frank Elmore,1958 Detective,false,Not set/not specified,0.6,Acting
+334,3322090,John Kraft Seitz,John Kraft Seitz,1958 Policeman,false,Not set/not specified,0.6,Acting
+334,1226126,Cory Buck,Cory Buck,Young Boy,false,Not set/not specified,1.4,Acting
+334,1717527,Tim Soronen,Tim Soronen,Infomercial Guy,false,Not set/not specified,0.6,Camera
+334,159394,Jim Ortlieb,Jim Ortlieb,Middle Aged Guy,false,Male,3.739,Acting
+334,1745677,Holly Houston,Holly Houston,Jimmy\'s Showgirl,false,Female,0.6,Acting
+334,1748153,Missy Spell Tanner,Missy Spell Tanner,Dentist Nurse #2,false,Female,1.529,Acting
+334,94560,James Kiriyama-Lem,James Kiriyama-Lem,Dr. Lee,false,Male,0.98,Acting
+334,1139130,Jason \'Jake\' Cross,Jason \'Jake\' Cross,Pedestrian #1,false,Male,1.87,Camera
+334,1893954,Charlie Scott,Charlie Scott,Pedestrian #2,false,Not set/not specified,0.6,Crew
+334,2083746,Juan Medrano,Juan Medrano,Nurse Juan,false,Not set/not specified,0.6,Acting
+334,1546442,John Pritchett,John Pritchett,Police Captain,false,Male,2.588,Sound
+334,79025,Don McManus,Don McManus,Dr. Landon,false,Male,7.858,Acting
+334,9291,Michael Shamus Wiles,Michael Shamus Wiles,Captain Muffy,false,Male,12.604,Acting
+334,177063,Jason Andrews,Jason Andrews,Doc,false,Male,3.453,Acting
+334,936924,John S. Davies,John S. Davies,Cameraman,false,Male,0.84,Acting
+334,54711,Kevin Breznahan,Kevin Breznahan,Geoff / Seminar Guy,false,Male,6.409,Acting
+334,34840,Miguel Pérez,Miguel Pérez,Avi Solomon,false,Male,1.528,Acting
+334,58538,Neil Pepe,Neil Pepe,Officer #1,false,Male,0.694,Acting
+334,87714,Lionel Mark Smith,Lionel Mark Smith,Detective,false,Male,0.791,Acting
+334,1226133,Annette Helde,Annette Helde,Coroner Woman,false,Female,0.986,Acting
+334,3322101,Lynne Lerner,Lynne Lerner,Librarian,false,Not set/not specified,0.6,Acting
+334,1789510,Scott Burkett,Scott Burkett,WDKK Page #1,false,Not set/not specified,0.6,Acting
+334,2591249,Bob Brewer,Bob Brewer,Richard\'s Dad,false,Not set/not specified,0.6,Acting
+334,3322107,Julie Brewer,Julie Brewer,Richard\'s Mom,false,Not set/not specified,0.6,Acting
+334,3322108,Nancy Marston,Nancy Marston,Julia\'s Mom,false,Not set/not specified,0.6,Acting
+334,3322109,Maurey Marston,Maurey Marston,Julia\'s Dad,false,Not set/not specified,0.6,Acting
+334,2214977,Jamala Gaither,Jamala Gaither,WDKK P.A.,false,Not set/not specified,0.6,Directing
+334,109066,Danny Wells,Danny Wells,Dick Jennings,false,Male,1.604,Acting
+334,12543,Eileen Ryan,Eileen Ryan,Mary,false,Female,5.159,Acting
+334,82988,Meagen Fay,Meagen Fay,Dr. Diane,false,Female,6.707,Acting
+334,1652791,Patricia Forte,Patricia Forte,Mim,false,Female,3.545,Acting
+334,1391814,Patrick Warren,Patrick Warren,Todd Geronimo,false,Not set/not specified,0.6,Acting
+334,1149138,Virginia Pereira,Virginia Pereira,Pink Dot Girl (voice),false,Female,0.6,Acting
+334,1887202,Natalie Marston,Natalie Marston,Julia,false,Female,1.052,Acting
+334,149834,Bobby Brewer,Bobby Brewer,Richard,false,Male,0.828,Acting
+334,154821,Art Frankel,Art Frankel,Old Pharmacist,false,Male,2.188,Acting
+334,3322116,Guillermo Melgarejo,Guillermo Melgarejo,Pink Dot Guy,false,Not set/not specified,0.6,Acting
+334,1219029,Paul F. Tompkins,Paul F. Tompkins,Chad / Seduce / Destroy (voice),false,Not set/not specified,4.445,Acting
+334,25884,Mary Lynn Rajskub,Mary Lynn Rajskub,Janet (voice),false,Female,12.912,Acting
+334,29862,Jim Beaver,Jim Beaver,Smiling Peanut Patron #1,false,Male,17.98,Acting
+334,59285,Ezra Buzzington,Ezra Buzzington,Smiling Peanut Patron #2,false,Male,6.187,Acting
+334,3322118,Denise Woolfork,Denise Woolfork,Smiling Peanut Patron #3,false,Not set/not specified,0.6,Acting
+334,15338,William Mapother,William Mapother,WDKK Show Director\'s Assistant,false,Male,15.763,Acting
+334,1934824,Michael Lee Phillips Jr.,Michael Lee Phillips Jr.,Mackey Disciple in Middle,false,Male,1.38,Acting
+334,101231,Lillian Adams,Lillian Adams,Donnie\'s Old Neighbor,false,Female,3.321,Acting
+334,2314028,Steven Bush,Steven Bush,Paramedic #1,false,Not set/not specified,0.6,Acting
+334,1530091,Mike Massa,Mike Massa,Paramedic #2,false,Male,3.468,Crew
+334,177645,Dale Gibson,Dale Gibson,Paramedic #3,false,Male,1.604,Acting
+334,1190639,Scott Alan Smith,Scott Alan Smith,E.R. Doctor,false,Male,3.722,Acting
+334,4762,Paul Thomas Anderson,Paul Thomas Anderson,Man Confiscating Sign (uncredited),false,Male,9.979,Directing
+334,2301446,Bruno Angelico,Bruno Angelico,Fireman #2 (uncredited),false,Male,0.6,Crew
+334,222658,Robert Bella,Robert Bella,Detective #2 (uncredited),false,Male,1.678,Writing
+334,1383838,Greg Bronson,Greg Bronson,Waiter (uncredited),false,Male,2.366,Acting
+334,2041479,Douglas Busby,Douglas Busby,Featured SAG Role (uncredited),false,Male,0.6,Camera
+334,94561,Phil Hawn,Phil Hawn,Bob (uncredited),false,Not set/not specified,2.192,Acting
+334,74519,Ted Hollis,Ted Hollis,Forensic Scientist (uncredited),false,Not set/not specified,1.264,Acting
+334,1661084,Brian Kehew,Brian Kehew,Seminar Patron (uncredited),false,Not set/not specified,0.6,Sound
+334,1091366,Michael Laren,Michael Laren,Officer Tom 1958 (uncredited),false,Male,1.246,Acting
+334,4771,Aimee Mann,Aimee Mann,Hot Date Infomercial (uncredited),false,Female,1.4,Acting
+334,6199,Miriam Margolyes,Miriam Margolyes,Faye Barringer (uncredited),false,Female,10.986,Acting
+334,158097,Tom Ohmer,Tom Ohmer,Detective (uncredited),false,Male,0.917,Acting
+335,4959,Claudia Cardinale,Claudia Cardinale,Jill,false,Female,26.464,Acting
+335,4958,Henry Fonda,Henry Fonda,Frank,false,Male,24.018,Acting
+335,4765,Jason Robards,Jason Robards,\'Cheyenne\',false,Male,13.715,Acting
+335,4960,Charles Bronson,Charles Bronson,\'Harmonica\',false,Male,25.736,Acting
+335,4961,Gabriele Ferzetti,Gabriele Ferzetti,Morton,false,Male,2.644,Acting
+335,4962,Paolo Stoppa,Paolo Stoppa,Sam,false,Male,3.255,Acting
+335,4963,Woody Strode,Woody Strode,Frank\'s Gunman,false,Male,10.614,Acting
+335,4965,Jack Elam,Jack Elam,Frank\'s Gunman,false,Male,22.509,Acting
+335,4966,Keenan Wynn,Keenan Wynn,Sheriff,false,Male,8.001,Acting
+335,4968,Frank Wolff,Frank Wolff,Brett McBain,false,Male,6.284,Acting
+335,4969,Lionel Stander,Lionel Stander,Innkeeper,false,Male,5.562,Acting
+335,72888,Frank Braña,Frank Braña,Frank\'s Gunman (uncredited),false,Male,4.432,Acting
+335,2508179,Stefano Imparato,Stefano Imparato,Patrick McBain (uncredited),false,Not set/not specified,0.6,Acting
+335,4669,Claudio Mancini,Claudio Mancini,Hanged Man (uncredited),false,Male,2.985,Production
+335,129314,Al Mulock,Al Mulock,Frank\'s Gunman (uncredited),false,Male,7.102,Acting
+335,1910461,Antonio Palombi,Antonio Palombi,Station Agent (uncredited),false,Not set/not specified,7.174,Acting
+335,1074055,Renato Pinciroli,Renato Pinciroli,Bidder (uncredited),false,Male,2.28,Acting
+335,49895,Aldo Sambrell,Aldo Sambrell,Cheyenne\'s Gunman (uncredited),false,Male,6.167,Acting
+335,98756,Conrado San Martín,Conrado San Martín,McBain\'s Neighbor (uncredited),false,Male,3.647,Acting
+335,68331,Enzo Santaniello,Enzo Santaniello,Timmy McBain (uncredited),false,Male,1.4,Acting
+335,1910451,Simonetta Santaniello,Simonetta Santaniello,Maureen McBain (uncredited),false,Not set/not specified,1.96,Acting
+335,2508190,Luana Strode,Luana Strode,Cattle Corner Woman (uncredited),false,Not set/not specified,2.304,Acting
+335,21181,Fabio Testi,Fabio Testi,Frank\'s Gunman (uncredited),false,Male,5.174,Acting
+335,1035009,Marco Zuanelli,Marco Zuanelli,\'Wobbles\' (uncredited),false,Male,2.95,Acting
+336,522,Rod Steiger,Rod Steiger,Juan Miranda,false,Male,7.417,Acting
+336,5563,James Coburn,James Coburn,Sean \'John\' H. Mallory,false,Male,11.696,Acting
+336,5567,Romolo Valli,Romolo Valli,Dr. Villega,false,Male,6.154,Acting
+336,5564,Maria Monti,Maria Monti,"Adelita, Coach Passenger",false,Female,3.213,Acting
+336,5565,Rik Battaglia,Rik Battaglia,Santerna,false,Male,6.798,Acting
+336,5566,Franco Graziosi,Franco Graziosi,Governor Huerta,false,Not set/not specified,4.688,Acting
+336,5568,Antoine Saint-John,Antoine Saint-John,Gutierez / Col. Günther Reza,false,Male,2.597,Acting
+336,5569,Vivienne Chandler,Vivienne Chandler,"Coleen, John\'s Girlfriend",false,Female,3.515,Acting
+336,5570,David Warbeck,David Warbeck,"Nolan, John\'s Friend",false,Male,2.548,Acting
+336,5571,Giulio Battiferri,Giulio Battiferri,Miguel,false,Not set/not specified,1.048,Acting
+336,222249,Poldo Bendandi,Poldo Bendandi,Revolutionary,false,Male,1.539,Acting
+336,1326585,Omar Bonaro,Omar Bonaro,Revolutionary,false,Male,0.6,Acting
+336,1044225,Roy Bosier,Roy Bosier,Landowner on Stagecoach,false,Not set/not specified,1.784,Acting
+336,163326,John Frederick,John Frederick,American on Stagecoach,false,Male,1.646,Acting
+336,1124868,Amato Garbini,Amato Garbini,Second Policeman on Train,false,Male,0.6,Costume & Make-Up
+336,90846,Michael Harvey,Michael Harvey,Stagecoach Driver,false,Male,1.4,Acting
+336,2464571,Biagio La Rocca,Biagio La Rocca,,false,Not set/not specified,1.38,Acting
+336,52255,Furio Meniconi,Furio Meniconi,Revolutionary Bartender,false,Male,1.528,Acting
+336,119515,Nazzareno Natale,Nazzareno Natale,,false,Male,2.765,Acting
+336,2186402,Vincenzo Norvese,Vincenzo Norvese,Miranda Gang Member,false,Not set/not specified,1.473,Acting
+336,539963,Stefano Oppedisano,Stefano Oppedisano,Revolutionary,false,Male,1.4,Acting
+336,1180373,Memè Perlini,Memè Perlini,Miranda Gang Member,false,Male,0.6,Acting
+336,988564,Goffredo Pistoni,Goffredo Pistoni,Papa Miranda,false,Not set/not specified,1.96,Acting
+336,2464579,Renato Pontecchi,Renato Pontecchi,Pepe Miranda,false,Not set/not specified,0.6,Acting
+336,550266,Jean Rougeul,Jean Rougeul,Priest on Stagecoach,false,Male,0.769,Acting
+336,988680,Corrado Solari,Corrado Solari,Napoleon Miranda,false,Male,2.967,Acting
+336,4661,Benito Stefanelli,Benito Stefanelli,,false,Male,10.445,Acting
+336,1313635,Franco Tocci,Franco Tocci,First Policeman on Train,false,Not set/not specified,0.6,Crew
+336,102122,Rosita Torosh,Rosita Torosh,Female Revolutionary,false,Female,2.948,Acting
+336,5818,Antonio Casale,Antonio Casale,Notary on Stagecoach,false,Male,3.759,Acting
+336,49895,Aldo Sambrell,Aldo Sambrell,Mexican Officer (uncredited),false,Male,6.167,Acting
+336,1022040,Florencio Amarilla,Florencio Amarilla,Revolutionary (uncredited),false,Male,1.4,Acting
+336,2512803,Manuel Bermudez,Manuel Bermudez,Mexican with Dynamite (uncredited),false,Not set/not specified,0.6,Acting
+336,9630,Sergio Calderón,Sergio Calderón,Revolutionary (uncredited),false,Male,1.646,Acting
+336,2512804,Franco Collace,Franco Collace,Napoleon Miranda (uncredited),false,Not set/not specified,0.6,Acting
+336,2512805,Simon van Collem,Simon van Collem,Conductor (uncredited),false,Not set/not specified,0.6,Acting
+336,1684757,Alberigo Donadeo,Alberigo Donadeo,Santerna Man (uncredited),false,Male,2.519,Acting
+336,1121926,Paolo Figlia,Paolo Figlia,Soldier in Mesa Verde Bank (uncredited),false,Male,1.22,Acting
+336,2081605,Romano Milani,Romano Milani,Mesa Verde Bank Prisoner (uncredited),false,Not set/not specified,0.6,Acting
+336,1019912,Fabrizio Moresco,Fabrizio Moresco,One of Juan\'s Sons (uncredited),false,Male,3.626,Acting
+336,98756,Conrado San Martín,Conrado San Martín,Stagecoach Driver (uncredited),false,Male,3.647,Acting
+336,2512814,Luigi Tripodi,Luigi Tripodi,Revolutionary (uncredited),false,Not set/not specified,0.6,Acting
+336,4669,Claudio Mancini,Claudio Mancini,Execution Squad Leader (uncredited),false,Male,2.985,Production
+337,5004,Omar Sharif,Omar Sharif,Monsieur Ibrahim,false,Male,16.377,Acting
+337,6547,Pierre Boulanger,Pierre Boulanger,Momo,false,Male,14.793,Acting
+337,5079,Gilbert Melki,Gilbert Melki,Momo\'s Father,false,Male,3.485,Acting
+337,6548,Isabelle Renauld,Isabelle Renauld,Momo\'s Mother,false,Female,4.4,Acting
+337,6549,Lola Naymark,Lola Naymark,Myriam,false,Female,9.439,Acting
+337,6550,Anne Suarez,Anne Suarez,Sylvie,false,Female,9.268,Acting
+337,6551,Mata Gabin,Mata Gabin,Fatou,false,Female,2.744,Acting
+337,6552,Céline Samie,Céline Samie,Eva,false,Not set/not specified,1.4,Acting
+337,6553,Isabelle Adjani,Isabelle Adjani,The Star,false,Female,24.837,Acting
+337,6554,Guillaume Gallienne,Guillaume Gallienne,The Car Salesman,false,Male,2.921,Acting
+337,6555,Guillaume Rannou,Guillaume Rannou,The Film Director,false,Male,1.388,Acting
+337,2858168,Manuel Lelievre,Manuel Lelievre,The Driving School Instructor,false,Not set/not specified,0.6,Acting
+337,6557,Daniel Znyk,Daniel Znyk,The Police Officer,false,Male,0.616,Acting
+337,1749933,Françoise Armelle-Chiche,Françoise Armelle-Chiche,The Schoolmistress,false,Female,0.6,Acting
+337,282257,Sylvie Herbert,Sylvie Herbert,The Examiner,false,Not set/not specified,0.84,Acting
+337,2858170,Claude Merline,Claude Merline,The Notary,false,Not set/not specified,0.6,Acting
+337,2625427,Pascal Vincent,Pascal Vincent,The Book Seller,false,Male,0.867,Acting
+337,1807835,Tessa Volkine,Tessa Volkine,Myriam\'s Mother,false,Not set/not specified,0.98,Acting
+337,2858175,Marie-Sophie Ahmadi,Marie-Sophie Ahmadi,Nadia,false,Not set/not specified,0.6,Acting
+337,1059271,Maryse Deol,Maryse Deol,Administrative Worker #1,false,Not set/not specified,0.6,Acting
+337,1160774,Gérard Bôle du Chaumont,Gérard Bôle du Chaumont,Administrative Worker #2,false,Not set/not specified,0.6,Acting
+337,145767,François Toumarkine,François Toumarkine,Administrative Worker #3,false,Male,0.766,Acting
+337,579269,Sylvie Debrun,Sylvie Debrun,Administrative Worker #4,false,Not set/not specified,0.6,Acting
+337,282070,Jérémy Sitbon,Jérémy Sitbon,Momo - 8 Years Old,false,Male,1.4,Acting
+337,72254,Éric Caravaca,Éric Caravaca,Momo - 30 Years Old,false,Male,3.153,Acting
+338,3872,Daniel Brühl,Daniel Brühl,Alexander \'Alex\' Kerner,false,Male,24.656,Acting
+338,4792,Katrin Sass,Katrin Sass,Christiane Kerner,false,Female,3.028,Acting
+338,4793,Chulpan Khamatova,Chulpan Khamatova,Lara,false,Female,9.895,Acting
+338,4794,Maria Simon,Maria Simon,Ariane Kerner,false,Female,1.052,Acting
+338,4795,Florian Lukas,Florian Lukas,Denis,false,Male,1.294,Acting
+338,4796,Alexander Beyer,Alexander Beyer,Rainer,false,Male,7.263,Acting
+338,3934,Burghart Klaußner,Burghart Klaußner,Robert Kerner,false,Male,1.666,Acting
+338,697,Michael Gwisdek,Michael Gwisdek,Klapprath,false,Male,1.4,Acting
+338,4797,Christine Schorn,Christine Schorn,Frau Schäfer,false,Female,1.847,Acting
+338,4798,Jürgen Holtz,Jürgen Holtz,Herr Ganske,false,Male,1.22,Acting
+338,210570,Jochen Stern,Jochen Stern,Herr Mehlert,false,Male,1.454,Acting
+338,1350135,Stefan Walz,Stefan Walz,Taxifahrer / Sigmund Jähn,false,Not set/not specified,2.722,Acting
+338,13746,Eberhard Kirchberg,Eberhard Kirchberg,Dr. Wagner,false,Male,1.96,Acting
+338,8200,Hans-Uwe Bauer,Hans-Uwe Bauer,Dr. Mewes,false,Male,3.797,Acting
+338,17373,Jürgen Vogel,Jürgen Vogel,Das Küken,false,Male,3.939,Acting
+338,17411,Elke Werner,Elke Werner,Verkäuferin HO-Markt,false,Not set/not specified,0.6,Acting
+338,15486,Peter Kurth,Peter Kurth,\'X-TV\' Chef,false,Male,2.824,Acting
+339,1920,Winona Ryder,Winona Ryder,Corky,false,Female,57.696,Acting
+339,4800,Gena Rowlands,Gena Rowlands,Victoria Snelling,false,Female,15.311,Acting
+339,4808,Giancarlo Esposito,Giancarlo Esposito,YoYo,false,Male,25.42,Acting
+339,12647,Armin Mueller-Stahl,Armin Mueller-Stahl,Helmut Grokenberger,false,Male,5.99,Acting
+339,4810,Rosie Perez,Rosie Perez,Angela,false,Female,13.636,Acting
+339,4812,Isaach De Bankolé,Isaach De Bankolé,Cab Driver Paris,false,Male,3.42,Acting
+339,4813,Béatrice Dalle,Béatrice Dalle,Blind Woman,false,Female,14.604,Acting
+339,4818,Roberto Benigni,Roberto Benigni,Cab Driver Rome,false,Male,13.569,Acting
+339,4819,Paolo Bonacelli,Paolo Bonacelli,Priest,false,Male,5.636,Acting
+339,4826,Matti Pellonpää,Matti Pellonpää,Mika,false,Male,3.196,Acting
+339,122402,Kari Väänänen,Kari Väänänen,Man #1 Helsinki,false,Male,0.737,Acting
+339,4828,Sakari Kuosmanen,Sakari Kuosmanen,Man#2 Helsinki,false,Male,6.006,Acting
+339,4829,Tomi Salmela,Tomi Salmela,Aki,false,Male,4.058,Acting
+339,4801,Lisanne Falk,Lisanne Falk,Rock Manager,false,Female,5.172,Acting
+339,4802,Alan Randolph Scott,Alan Randolph Scott,Rock Musician#1,false,Not set/not specified,2.084,Acting
+339,4803,Anthony Portillo,Anthony Portillo,Rock Musician#2,false,Not set/not specified,0.6,Acting
+339,4811,Richard Boes,Richard Boes,Cab Driver New York,false,Male,2.597,Acting
+339,4814,Pascal N\'Zonzi,Pascal N\'Zonzi,Passenger#1,false,Male,4.5,Acting
+339,4815,Emile Abossolo M\'bo,Emile Abossolo M\'bo,Passenger#2,false,Male,1.835,Acting
+339,4816,Noel Kaufmann,Noel Kaufmann,Motorcyclist,false,Not set/not specified,0.6,Acting
+339,4817,Stéphane Boucher,Stéphane Boucher,Man in Accident,false,Male,1.96,Acting
+339,4820,Gianni Schettini,Gianni Schettini,Transvestite#1,false,Not set/not specified,1.434,Acting
+339,4821,Antonio Ragusa,Antonio Ragusa,Transvestite#2,false,Not set/not specified,0.6,Acting
+339,4822,Nicola Facondo,Nicola Facondo,Lover,false,Not set/not specified,1.4,Acting
+339,4823,Camilla Begnoni,Camilla Begnoni,Lover,false,Not set/not specified,0.6,Acting
+339,4824,Romolo Di Biasi,Romolo Di Biasi,Angry Driver,false,Not set/not specified,0.6,Acting
+339,4825,Donatella Servadio,Donatella Servadio,Dispatcher Rome,false,Not set/not specified,0.6,Acting
+339,4830,Eija Vilpas,Eija Vilpas,Dispatcher Helsinki,false,Female,6.174,Acting
+339,4831,Jaakko Talaskivi,Jaakko Talaskivi,Factory Worker#1,false,Male,2.246,Acting
+339,4832,Klaus Heydemann,Klaus Heydemann,Factory Worker#2,false,Male,1.473,Production
+340,109,Elijah Wood,Elijah Wood,Jonathan Safran Foer,false,Male,22.159,Acting
+340,4846,Eugene Hutz,Eugene Hutz,Alex,false,Male,7.379,Acting
+340,4852,Boris Leskin,Boris Leskin,Grandfather,false,Male,2.833,Acting
+340,4858,Jana Hrabětova,Jana Hrabětova,Jonathan\'s Grandmother,false,Female,0.6,Acting
+340,4853,Jonathan Safran Foer,Jonathan Safran Foer,Leaf Blower,false,Not set/not specified,0.603,Writing
+340,4861,Stephen Samudovsky,Stephen Samudovsky,Jonathan\'s Grandfather Safran,false,Not set/not specified,0.6,Acting
+340,4862,Oleksandr Choroshko,Oleksandr Choroshko,"Alexander Perchov, Father",false,Not set/not specified,1.4,Acting
+340,4863,Gil Kazimirov,Gil Kazimirov,Igor,false,Male,0.6,Acting
+340,4860,Zuzana Hodková,Zuzana Hodková,Alex\'s Mother,false,Female,0.6,Acting
+340,4864,Ljubomir Dezera,Ljubomir Dezera,Young Jonathan,false,Not set/not specified,0.6,Acting
+340,4879,Laryssa Lauret,Laryssa Lauret,Lista,false,Not set/not specified,0.828,Acting
+340,4880,Tereza Veselkova,Tereza Veselkova,Augustine,false,Not set/not specified,1.4,Acting
+340,1350047,Lukáš Král,Lukáš Král,Young Grandfather,false,Male,0.6,Acting
+340,4881,Vera Sindelarova,Vera Sindelarova,Young Lista,false,Not set/not specified,0.6,Acting
+341,1037,Harvey Keitel,Harvey Keitel,Roger Culkin,false,Male,12.881,Acting
+341,4885,Emmanuelle Béart,Emmanuelle Béart,Alice Parker,false,Female,23.63,Acting
+341,4886,Norman Reedus,Norman Reedus,Vincent Harris,false,Male,29.75,Acting
+341,4887,Joe Grifasi,Joe Grifasi,Bill,false,Male,5.212,Acting
+341,4888,Lily Rabe,Lily Rabe,Sophie,false,Female,19.816,Acting
+341,4889,Kim Director,Kim Director,Ashley,false,Female,18.143,Acting
+341,4890,Brian Tarantina,Brian Tarantina,Joe,false,Male,6.871,Acting
+341,4891,Patrick Collins,Patrick Collins,Ben,false,Male,1.4,Acting
+341,4892,Chuck Cooper,Chuck Cooper,Will,false,Male,0.6,Acting
+341,4893,Clem Cheung,Clem Cheung,Li Huang,false,Male,2.507,Acting
+342,5201,Robert Stadlober,Robert Stadlober,Tobi,false,Male,2.825,Acting
+342,5202,Kostja Ullmann,Kostja Ullmann,Achim,false,Male,4.859,Acting
+342,5203,Alicja Bachleda-Curuś,Alicja Bachleda-Curuś,Anke,false,Female,6.202,Acting
+342,5204,Jürgen Tonkel,Jürgen Tonkel,Hansi,false,Male,1.701,Acting
+342,5205,Tristano Casanova,Tristano Casanova,Georg \'Schorsi\',false,Male,0.6,Acting
+342,5206,Miriam Morgenstern,Miriam Morgenstern,Sandra,false,Female,1.547,Acting
+342,5207,Marlon Kittel,Marlon Kittel,Leo,false,Male,4.439,Acting
+342,5208,Hanno Koffler,Hanno Koffler,Malte,false,Male,9.87,Acting
+342,5209,Joseph M\'Barek,Joseph M\'Barek,Ferdl,false,Male,3.327,Acting
+342,5210,Alexa Maria Surholt,Alexa Maria Surholt,Susanne,false,Female,8.715,Acting
+342,5211,Jeff Fischer,Jeff Fischer,Flasche,false,Male,6.415,Acting
+342,5212,Michael Wiesner,Michael Wiesner,Nils,false,Male,0.6,Acting
+342,5213,Benjamin Vilzmann,Benjamin Vilzmann,Niels,false,Not set/not specified,0.6,Acting
+342,5214,Ludwig Blochberger,Ludwig Blochberger,Oli,false,Male,1.388,Acting
+342,36691,Anton Rattinger,Anton Rattinger,Gruber,false,Male,0.6,Acting
+343,4970,Ruth Gordon,Ruth Gordon,Dame Marjorie \'Maude\' Chardin,false,Female,11.573,Acting
+343,4971,Bud Cort,Bud Cort,Harold Parker Chasen,false,Male,7.961,Acting
+343,19616,Vivian Pickles,Vivian Pickles,Mrs. Chasen,false,Female,4.395,Acting
+343,4973,Cyril Cusack,Cyril Cusack,Glaucus,false,Male,8.066,Acting
+343,4974,Charles Tyner,Charles Tyner,Uncle Victor,false,Male,7.825,Acting
+343,4975,Ellen Geer,Ellen Geer,Sunshine Doré,false,Female,5.502,Acting
+343,4976,Eric Christmas,Eric Christmas,Priest,false,Male,3.782,Acting
+343,4977,G. Wood,G. Wood,Psychiatrist,false,Male,1.4,Acting
+343,4978,Judy Engles,Judy Engles,Candy Gulf,false,Female,2.572,Acting
+343,4979,Shari Summers,Shari Summers,Edith Phern,false,Female,3.72,Acting
+343,4139,Tom Skerritt,Tom Skerritt,Motorcycle Officer,false,Male,38.609,Acting
+343,2350894,Susan Madigan,Susan Madigan,Girlfriend,false,Not set/not specified,0.6,Acting
+343,66302,Ray K. Goman,Ray K. Goman,Police Officer,false,Male,1.242,Acting
+343,977079,Gordon Devol,Gordon Devol,Police Officer,false,Male,0.6,Acting
+343,1782795,Harvey Brumfield,Harvey Brumfield,Police Officer,false,Not set/not specified,0.6,Acting
+343,2350896,Henry Dieckoff,Henry Dieckoff,Butler,false,Not set/not specified,0.6,Acting
+343,2350897,Philip Schultz,Philip Schultz,Doctor,false,Not set/not specified,0.6,Acting
+343,6815,Sonia Sorel,Sonia Sorel,Head Nurse,false,Female,2.216,Acting
+343,2350900,Margot Jones,Margot Jones,Student Nurse,false,Not set/not specified,0.6,Acting
+343,2350901,Barry Higgins,Barry Higgins,Intern,false,Not set/not specified,0.6,Acting
+343,2350904,Jerry Randall,Jerry Randall,Stunt Double,false,Not set/not specified,0.6,Acting
+343,2350905,Pam Pebermeyer,Pam Pebermeyer,Stunt Double,false,Not set/not specified,0.6,Acting
+343,8432,Buddy Joe Hooker,Buddy Joe Hooker,Stunt Double,false,Male,4.236,Acting
+343,4964,Hal Ashby,Hal Ashby,Bearded Man Watching Model Train (uncredited),false,Male,2.206,Directing
+344,4927,Alexandra Neldel,Alexandra Neldel,Melanie,false,Female,4.592,Acting
+344,4923,Diether Krebs,Diether Krebs,Werner Kampmann,false,Male,1.428,Acting
+344,4922,Ralf Richter,Ralf Richter,Karl-Heinz \'Kalle\' Grabowski,false,Male,2.946,Acting
+344,1844,Til Schweiger,Til Schweiger,Brown,false,Male,15.689,Acting
+344,4924,Martin Semmelrogge,Martin Semmelrogge,\'Schlucke\',false,Male,4.826,Acting
+344,4920,Oliver Korittke,Oliver Korittke,Keek,false,Male,3.199,Acting
+344,1861,Markus Knüfken,Markus Knüfken,Andreas \'Andy\' Fink,false,Male,1.38,Acting
+344,4925,Heinrich Giskes,Heinrich Giskes,\'Ratte\',false,Male,0.764,Acting
+344,43454,Christian Kahrmann,Christian Kahrmann,Mark Kampmann,false,Male,0.6,Acting
+344,4928,Monica Nancy Wick,Monica Nancy Wick,Andrea,false,Not set/not specified,1.231,Acting
+344,1862,Willi Thomczyk,Willi Thomczyk,Willi,false,Male,0.98,Acting
+344,4929,Sabine Kaack,Sabine Kaack,Manuela Grabowski,false,Female,0.98,Acting
+344,11258,Hilmi Sözer,Hilmi Sözer,Hilmi,false,Male,1.943,Acting
+344,4936,Jochen Nickel,Jochen Nickel,Franky,false,Male,5.103,Acting
+344,14637,Detlef Bothe,Detlef Bothe,Arne,false,Male,6.012,Acting
+344,19928,Ömer Simsek,Ömer Simsek,Schiedsrichter,false,Male,1.708,Acting
+344,21995,Ingolf Lück,Ingolf Lück,Pornoregisseur Uwe,false,Male,1.168,Acting
+344,1856,Ralph Herforth,Ralph Herforth,Pornodarsteller,false,Male,2.321,Acting
+344,4918,Peter Thorwarth,Peter Thorwarth,Juppie,false,Male,1.96,Writing
+344,568713,Klaus Stiglmeier,Klaus Stiglmeier,Lars,false,Male,1.4,Acting
+344,68031,Ellen ten Damme,Ellen ten Damme,Maike,false,Female,1.312,Acting
+345,500,Tom Cruise,Tom Cruise,Dr. William Harford,false,Male,103.313,Acting
+345,2227,Nicole Kidman,Nicole Kidman,Alice Harford,false,Female,27.211,Acting
+345,2226,Sydney Pollack,Sydney Pollack,Victor Ziegler,false,Male,7.859,Directing
+345,5024,Marie Richardson,Marie Richardson,Marion Nathanson,false,Female,7.356,Acting
+345,1118,Rade Šerbedžija,Rade Šerbedžija,Milich,false,Male,9.468,Acting
+345,5010,Todd Field,Todd Field,Nick Nightingale,false,Male,6.033,Acting
+345,5025,Vinessa Shaw,Vinessa Shaw,Domino,false,Female,18.026,Acting
+345,10697,Alan Cumming,Alan Cumming,Desk Clerk,false,Male,11.551,Acting
+345,5012,Sky du Mont,Sky du Mont,Sandor Szavost,false,Male,1.214,Acting
+345,65409,Fay Masterson,Fay Masterson,Sally,false,Female,11.761,Acting
+345,22290,Leelee Sobieski,Leelee Sobieski,Milich\'s Daughter,false,Female,43.35,Acting
+345,13638,Thomas Gibson,Thomas Gibson,Carl,false,Male,17.032,Acting
+345,5006,Madison Eginton,Madison Eginton,Helena Harford,false,Female,5.267,Acting
+345,5007,Jackie Sawiris,Jackie Sawiris,Roz,false,Female,1.715,Acting
+345,5008,Leslie Lowe,Leslie Lowe,Illona,false,Female,4.186,Acting
+345,1292351,Peter Hans Benson,Peter Hans Benson,Bandleader,false,Male,3.347,Acting
+345,5011,Michael Doven,Michael Doven,Ziegler\'s Secretary,false,Male,0.6,Production
+345,1806605,Louise J. Taylor,Louise J. Taylor,Gayle,false,Female,3.341,Acting
+345,1354721,Stewart Thorndike,Stewart Thorndike,Nuala,false,Not set/not specified,0.6,Writing
+345,1309154,Randall Paul,Randall Paul,Harris,false,Not set/not specified,1.116,Acting
+345,5023,Julienne Davis,Julienne Davis,Mandy,false,Female,2.596,Acting
+345,1031589,Lisa Leone,Lisa Leone,Lisa,false,Female,0.6,Camera
+345,2298262,Kevin Connealy,Kevin Connealy,Lou Nathanson,false,Not set/not specified,0.6,Acting
+345,2298263,Mariana Hewett,Mariana Hewett,Rosa,false,Not set/not specified,0.6,Acting
+345,3663438,Dan Rollman,Dan Rollman,Rowdy College Kid,false,Not set/not specified,0.6,Acting
+345,3663439,Gavin Parry,Gavin Parry,Rowdy College Kid,false,Not set/not specified,0.6,Acting
+345,3663440,Chris Pare,Chris Pare,Rowdy College Kid,false,Not set/not specified,0.6,Acting
+345,3663441,Adam Lias,Adam Lias,Rowdy College Kid,false,Not set/not specified,0.6,Acting
+345,3663442,Christian Clarke,Christian Clarke,Rowdy College Kid,false,Not set/not specified,0.6,Acting
+345,3663443,Kyle Whitcombe,Kyle Whitcombe,Rowdy College Kid,false,Not set/not specified,0.6,Acting
+345,2298264,Gary Goba,Gary Goba,Naval Officer,false,Not set/not specified,1.23,Acting
+345,2298265,Florian Windorfer,Florian Windorfer,Maître D\' - Café Sonata,false,Not set/not specified,0.6,Acting
+345,9192,Togo Igawa,Togo Igawa,Japanese Man #1,false,Male,5.991,Acting
+345,207310,Eiji Kusuhara,Eiji Kusuhara,Japanese Man #2,false,Male,3.175,Acting
+345,17072,Sam Douglas,Sam Douglas,Cab Driver,false,Male,9.495,Acting
+345,58475,Angus MacInnes,Angus MacInnes,Gateman #1,false,Male,5.608,Acting
+345,1211433,Abigail Good,Abigail Good,Mysterious Woman / Masked Party Principal,false,Not set/not specified,3.62,Acting
+345,5015,Brian W. Cook,Brian W. Cook,Tall Butler,false,Male,1.4,Directing
+345,5020,Leon Vitali,Leon Vitali,Red Cloak,false,Male,7.861,Acting
+345,1115695,Carmela Marner,Carmela Marner,Waitress at Gillespie\'s,false,Female,2.837,Acting
+345,27167,Phil Davies,Phil Davies,Stalker,false,Male,0.6,Acting
+345,1473905,Cindy Dolenc,Cindy Dolenc,Girl at Sharky\'s,false,Female,1.866,Acting
+345,2298266,Clark Hayes,Clark Hayes,Hospital Receptionist,false,Not set/not specified,0.6,Acting
+345,12802,Treva Etienne,Treva Etienne,Morgue Orderly,false,Male,4.431,Acting
+345,88374,Colin Angus,Colin Angus,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663446,Karla Ashley,Karla Ashley,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3229979,Kate Charman,Kate Charman,Masked Party Principal,false,Female,0.772,Acting
+345,3663447,James Demaria,James Demaria,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,124044,Tony De Sergio,Tony De Sergio,Masked Party Principal,true,Male,3.34,Acting
+345,3663449,Janie Dickens,Janie Dickens,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663450,Laura Fallace,Laura Fallace,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663455,Vanessa Fenton,Vanessa Fenton,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,2047410,Georgina Finch,Georgina Finch,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663456,Peter Godwin,Peter Godwin,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663457,Joanna Heath,Joanna Heath,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,1366145,Lee Henshaw,Lee Henshaw,Masked Party Principal,true,Male,2.556,Acting
+345,3663458,Ateeka Poole,Ateeka Poole,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,1655800,Adam Pudney,Adam Pudney,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663461,Sharon Quinn,Sharon Quinn,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,1803129,Ben De Saumserez,Ben De Saumserez,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663462,Emma Lou Sharratt,Emma Lou Sharratt,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663463,Paul Spelling,Paul Spelling,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663464,Matthew Thompson,Matthew Thompson,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,1637458,Dan Travers,Dan Travers,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663465,Russell Trigg,Russell Trigg,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,3663466,Kate Whalin,Kate Whalin,Masked Party Principal,false,Not set/not specified,0.6,Acting
+345,2446408,Jerson David Ambion,Jerson David Ambion,Masked Party Principal (uncredited),false,Not set/not specified,0.6,Camera
+345,1435757,Shelsie Blake,Shelsie Blake,Hula Dancer (uncredited),false,Not set/not specified,0.6,Acting
+345,112,Cate Blanchett,Cate Blanchett,Mysterious Woman (voice) (uncredited),false,Female,20.098,Acting
+345,1626699,John N. Campbell,John N. Campbell,Masked Party Guest (uncredited),false,Not set/not specified,0.6,Directing
+345,1628803,Emilio D\'Alessandro,Emilio D\'Alessandro,Man at Newsstand (uncredited),false,Not set/not specified,0.6,Acting
+345,1526724,Paul Desbois,Paul Desbois,Ballroom Dancer (uncredited),false,Not set/not specified,0.6,Acting
+345,1996180,Donna Ewin,Donna Ewin,Masked Party Principal (uncredited),false,Not set/not specified,1.4,Acting
+345,346167,Tres Hanley,Tres Hanley,Coffee Shop Manager (uncredited),false,Female,1.4,Acting
+345,1326789,Sam Heydon,Sam Heydon,Masked Party Principal (uncredited),false,Not set/not specified,0.6,Acting
+345,3372925,Alex Hobbs,Alex Hobbs,Boy in Examination Room (uncredited),false,Not set/not specified,0.6,Camera
+345,1019259,Christiane Kubrick,Christiane Kubrick,Woman Behind Dr. Harford at Café Sonata (uncredited),false,Female,7.598,Acting
+345,2022135,Katharina Kubrick,Katharina Kubrick,Mother of Boy in Examination Room (uncredited),false,Female,0.6,Acting
+345,2650253,Taylor Murphy,Taylor Murphy,Masked Party Principal (uncredited),false,Not set/not specified,0.6,Acting
+345,1220342,Graham Skidmore,Graham Skidmore,Background Artist (uncredited),false,Not set/not specified,0.6,Acting
+346,7450,Toshirō Mifune,Toshirō Mifune,Kikuchiyo,false,Male,13.43,Acting
+346,7453,Takashi Shimura,Takashi Shimura,Kambei Shimada,false,Male,4.978,Acting
+346,20828,Yoshio Inaba,Yoshio Inaba,Gorobei Katayama,false,Male,4.148,Acting
+346,20829,Seiji Miyaguchi,Seiji Miyaguchi,Kyuzo,false,Male,8.46,Acting
+346,7454,Minoru Chiaki,Minoru Chiaki,Heihachi Hayashida,false,Male,7.346,Acting
+346,7457,Daisuke Katō,Daisuke Katō,Shichiroji,false,Male,2.713,Acting
+346,20830,Isao Kimura,Isao Kimura,Katsushiro Okamoto,false,Male,6.858,Acting
+346,20831,Keiko Tsushima,Keiko Tsushima,Shino,false,Female,2.358,Acting
+346,554250,Yukiko Shimazaki,Yukiko Shimazaki,Rikichi\'s Wife,false,Female,2.384,Acting
+346,96552,Kamatari Fujiwara,Kamatari Fujiwara,Manzô - Father of Shino,false,Male,3.643,Acting
+346,134272,Yoshio Kosugi,Yoshio Kosugi,Mosuke,false,Male,3.259,Acting
+346,34377,Bokuzen Hidari,Bokuzen Hidari,Yohei,false,Male,2.365,Acting
+346,17540,Yoshio Tsuchiya,Yoshio Tsuchiya,Rikichi,false,Male,2.048,Acting
+346,108028,Kokuten Kōdō,Kokuten Kōdō,"Gisaku, the Old Man",false,Male,3.813,Acting
+346,106165,Eijirô Tôno,Eijirô Tôno,Kidnapper,false,Male,1.498,Acting
+346,228547,Jun Tatara,Jun Tatara,Coolie A,false,Male,1.694,Acting
+346,134294,Atsushi Watanabe,Atsushi Watanabe,Bun Seller,false,Male,1.4,Acting
+346,134406,Toranosuke Ogawa,Toranosuke Ogawa,Grandfather of Kidnapped Girl,false,Male,3.378,Acting
+346,134020,Isao Yamagata,Isao Yamagata,Samurai,false,Male,2.304,Acting
+346,7455,Kichijirô Ueda,Kichijirô Ueda,Bandit Scout,false,Male,2.755,Acting
+346,1173025,Sôjin Kamiyama,Sôjin Kamiyama,Blind Player,false,Not set/not specified,0.98,Acting
+346,552187,Gen Shimizu,Gen Shimizu,Samurai Who Kicks Farmers,false,Male,1.96,Acting
+346,1478367,Keiji Sakakida,Keiji Sakakida,Gosaku,false,Male,0.84,Acting
+346,121190,Shinpei Takagi,Shinpei Takagi,Bandit Chieftain,false,Male,1.96,Acting
+346,552174,Shin Ôtomo,Shin Ôtomo,Bandit Second-in-Command,false,Male,0.98,Acting
+346,1093065,Toshio Takahara,Toshio Takahara,Samurai with Gun,false,Male,1.432,Acting
+346,1083308,Hiroshi Sugi,Hiroshi Sugi,Tea Shop Owner,false,Not set/not specified,1.4,Acting
+346,125016,Hiroshi Hayashi,Hiroshi Hayashi,Weak Ronin,false,Male,2.895,Acting
+346,108026,Sachio Sakai,Sachio Sakai,Coolie #2,false,Male,3.068,Acting
+346,1481118,Sôkichi Maki,Sôkichi Maki,Strong-Looking Samurai,false,Not set/not specified,0.6,Acting
+346,552180,Ichirô Chiba,Ichirô Chiba,Buddhist Priest,false,Male,1.393,Acting
+346,106161,Noriko Sengoku,Noriko Sengoku,Wife of Gono Family,false,Female,3.125,Acting
+346,7456,Noriko Honma,Noriko Honma,Woman Farmer,false,Female,7.233,Acting
+346,1200247,Masanobu Ôkubo,Masanobu Ôkubo,Samurai,false,Male,0.6,Acting
+346,1481119,Etsuo Saijo,Etsuo Saijo,Bandit,false,Not set/not specified,0.6,Acting
+346,552175,Minoru Itô,Minoru Itô,Samurai,false,Not set/not specified,1.08,Acting
+346,552184,Haruya Sakamoto,Haruya Sakamoto,Samurai,false,Male,1.026,Acting
+346,1481120,Gorô Sakurai,Gorô Sakurai,Samurai,false,Male,1.579,Acting
+346,1478372,Hideo Shibuya,Hideo Shibuya,Bandit,false,Male,1.22,Acting
+346,1481121,Kiyoshi Kamoda,Kiyoshi Kamoda,Samurai,false,Male,0.6,Acting
+346,552166,Senkichi Ômura,Senkichi Ômura,Bandit Who Escapes,false,Male,0.6,Acting
+346,1481122,Takashi Narita,Takashi Narita,Bandit Who Escapes,false,Not set/not specified,0.6,Acting
+346,552170,Shôichi Hirose,Shôichi Hirose,Bandit,false,Male,0.838,Acting
+346,1059891,Kôji Uno,Kôji Uno,Bandit,false,Not set/not specified,0.732,Acting
+346,1478373,Masaaki Tachibana,Masaaki Tachibana,Bandit,false,Not set/not specified,0.6,Acting
+346,1112075,Kamayuki Tsubono,Kamayuki Tsubono,Bandit,false,Not set/not specified,0.98,Acting
+346,1481123,Taiji Naka,Taiji Naka,Bandit,false,Not set/not specified,0.98,Acting
+346,1481124,Chindanji Miyagawa,Chindanji Miyagawa,Bandit,false,Not set/not specified,0.6,Acting
+346,552181,Shigemi Sunagawa,Shigemi Sunagawa,Bandit,false,Male,0.6,Acting
+346,552167,Akira Tani,Akira Tani,Bandit,false,Male,2.376,Acting
+346,1185637,Akio Kusama,Akio Kusama,Bandit,false,Not set/not specified,0.6,Acting
+346,1481125,Ryûtarô Amami,Ryûtarô Amami,Bandit,false,Not set/not specified,0.6,Acting
+346,1481126,Jun Mikami,Jun Mikami,Bandit,false,Not set/not specified,0.6,Acting
+346,235722,Haruo Nakajima,Haruo Nakajima,Bandit,false,Male,3.344,Acting
+346,551810,Sanpei Mine,Sanpei Mine,Farmer,false,Not set/not specified,0.6,Acting
+346,1481127,Masahide Matsushita,Masahide Matsushita,Samurai,false,Not set/not specified,0.6,Acting
+346,1481128,Kaneo Ikeda,Kaneo Ikeda,Samurai,false,Not set/not specified,0.6,Acting
+346,1481129,Takuzô Kumagaya,Takuzô Kumagaya,Gisaku\'s Son,false,Not set/not specified,0.6,Acting
+346,1481130,Ippei Kawagoe,Ippei Kawagoe,Farmer,false,Not set/not specified,0.6,Acting
+346,1479150,Jirô Suzukawa,Jirô Suzukawa,Farmer,false,Not set/not specified,0.6,Acting
+346,1201022,Junpei Natsuki,Junpei Natsuki,Farmer,false,Male,3.321,Acting
+346,1481132,Kyôichi Kamiyama,Kyôichi Kamiyama,Farmer,false,Not set/not specified,0.6,Acting
+346,552176,Haruo Suzuki,Haruo Suzuki,Farmer,false,Male,0.6,Acting
+346,1481133,Gorô Amano,Gorô Amano,Farmer,false,Not set/not specified,0.6,Acting
+346,1481134,Akira Kitchôji,Akira Kitchôji,Farmer,false,Not set/not specified,0.6,Acting
+346,1167989,Kōji Iwamoto,Kōji Iwamoto,Farmer,false,Male,0.94,Acting
+346,1342305,Hiroshi Akitsu,Hiroshi Akitsu,Husband of Gono Family,false,Not set/not specified,0.6,Acting
+346,1200144,Akira Yamada,Akira Yamada,Farmer,false,Male,0.6,Acting
+346,1481135,Kazuo Imai,Kazuo Imai,Farmer,false,Not set/not specified,0.6,Acting
+346,1481137,Eisuke Nakanishi,Eisuke Nakanishi,Farmer,false,Male,0.6,Acting
+346,1478371,Toku Ihara,Toku Ihara,Farmer,false,Not set/not specified,0.6,Acting
+346,1481140,Hideo Ôtsuka,Hideo Ôtsuka,Farmer,false,Not set/not specified,0.6,Acting
+346,1481142,Shû Ôe,Shû Ôe,Farmer,false,Not set/not specified,0.6,Acting
+346,1167993,Yasuhisa Tsutsumi,Yasuhisa Tsutsumi,Farmer in Front of Gono,false,Male,1.388,Acting
+346,1481144,Yasumasa Ônishi,Yasumasa Ônishi,Farmer,false,Not set/not specified,0.6,Acting
+346,1481145,Tsuneo Katagiri,Tsuneo Katagiri,Farmer in Front of Gono,false,Male,1.4,Acting
+346,1481146,Megeru Shimoda,Megeru Shimoda,Farmer,false,Not set/not specified,0.6,Acting
+346,1481147,Masayoshi Kawabe,Masayoshi Kawabe,Farmer,false,Not set/not specified,0.6,Acting
+346,1117087,Shigeo Katô,Shigeo Katô,Farmer,false,Male,1.017,Acting
+346,1481148,Yoshikazu Kawamata,Yoshikazu Kawamata,Farmer,false,Not set/not specified,0.6,Acting
+346,1481149,Takeshi Seki,Takeshi Seki,Coolie #3,false,Not set/not specified,0.6,Acting
+346,1268056,Haruko Toyama,Haruko Toyama,Gisaku\'s Daughter-in-Law,false,Not set/not specified,0.69,Acting
+346,136386,Tsuruko Mano,Tsuruko Mano,Woman Farmer in front of Gono,false,Not set/not specified,1.321,Acting
+346,1481151,Matsue Ono,Matsue Ono,Woman Farmer,false,Not set/not specified,0.98,Acting
+346,1479144,Tsurue Ichimanji,Tsurue Ichimanji,Woman Farmer,false,Not set/not specified,0.6,Acting
+346,1481152,Masako Ôshiro,Masako Ôshiro,Woman Farmer,false,Not set/not specified,0.6,Acting
+346,1481154,Kyôko Ozawa,Kyôko Ozawa,Woman Farmer,false,Not set/not specified,0.6,Acting
+346,1481155,Michiko Kadono,Michiko Kadono,Farmer\'s Wife,false,Not set/not specified,0.6,Acting
+346,1198473,Toshiko Nakano,Toshiko Nakano,Farmer\'s Wife,false,Not set/not specified,0.6,Acting
+346,1200402,Shizuko Azuma,Shizuko Azuma,Farmer\'s Wife,false,Not set/not specified,1.136,Acting
+346,1481158,Michiko Kawabe,Michiko Kawabe,Farmer\'s Wife,false,Not set/not specified,1.176,Acting
+346,1481159,Yûko Togawa,Yûko Togawa,Farmer\'s Wife,false,Not set/not specified,0.6,Acting
+346,1481160,Yayoko Kitano,Yayoko Kitano,Farmer\'s Wife,false,Not set/not specified,0.6,Acting
+346,1483796,Kyoko Mori,Kyoko Mori,Farmer\'s Wife,false,Female,0.702,Acting
+346,1481161,Misao Suyama,Misao Suyama,Woman Farmer,false,Not set/not specified,0.6,Acting
+346,1481162,Toriko Takahara,Toriko Takahara,Woman Farmer,false,Not set/not specified,0.6,Acting
+346,72540,Takeshi Katō,Takeshi Katō,Samurai Wandering through Town (uncredited),false,Male,1.475,Acting
+346,70131,Tatsuya Nakadai,Tatsuya Nakadai,Samurai Wandering through Town (uncredited),false,Male,13.627,Acting
+346,78496,Ken Utsui,Ken Utsui,Samurai Wandering through Town (uncredited),false,Male,3.086,Acting
+346,931393,Ren Yamamoto,Ren Yamamoto,Farmer (uncredited),false,Male,2.727,Acting
+347,5033,Erwin Splettstößer,Erwin Splettstößer,Taxifahrer Erwin,false,Male,0.608,Acting
+347,5034,Brigitte Borchert,Brigitte Borchert,Plattenverkäuferin Brigitte,false,Not set/not specified,1.38,Acting
+347,5035,Wolfgang von Waltershausen,Wolfgang von Waltershausen,Weinverkäufer Wolfgang,false,Not set/not specified,0.6,Acting
+347,5036,Christl Ehlers,Christl Ehlers,Christl,false,Not set/not specified,0.6,Acting
+347,5037,Annie Schreyer,Annie Schreyer,Annie,false,Not set/not specified,0.6,Acting
+347,2897,Kurt Gerron,Kurt Gerron,Kurt,false,Male,1.4,Acting
+347,5038,Valeska Gert,Valeska Gert,Valeska,false,Female,1.4,Acting
+347,5039,Heinrich Gretler,Heinrich Gretler,Heinrich,false,Male,1.578,Acting
+347,5040,Ernö Verebes,Ernö Verebes,Ernö,false,Male,1.4,Acting
+347,2459861,Moriz Seeler,Moriz Seeler,Photo Subject at Beach,false,Not set/not specified,0.6,Production
+348,10205,Sigourney Weaver,Sigourney Weaver,Lt. Ellen Louise Ripley,false,Female,53.343,Acting
+348,4139,Tom Skerritt,Tom Skerritt,Arthur Koblenz Dallas,false,Male,38.609,Acting
+348,65,Ian Holm,Ian Holm,Ash,false,Male,11.932,Acting
+348,5049,John Hurt,John Hurt,Gilbert Ward Kane,false,Male,18.522,Acting
+348,5048,Harry Dean Stanton,Harry Dean Stanton,Samuel Elias Brett,false,Male,8.945,Acting
+348,5050,Yaphet Kotto,Yaphet Kotto,Dennis Monroe Parker,false,Male,6.164,Acting
+348,5047,Veronica Cartwright,Veronica Cartwright,Joan Marie Lambert,false,Female,7.819,Acting
+348,5052,Helen Horton,Helen Horton,Mother (voice),false,Female,7.217,Acting
+348,5051,Bolaji Badejo,Bolaji Badejo,Alien,false,Male,4.721,Acting
+348,3396965,Boris Kempner,Boris Kempner,Jones,false,Not set/not specified,0.98,Acting
+349,5077,Valeria Bruni-Tedeschi,Valeria Bruni-Tedeschi,Béatrix,false,Female,16.529,Acting
+349,5079,Gilbert Melki,Gilbert Melki,Marc,false,Male,3.485,Acting
+349,1642,Jean-Marc Barr,Jean-Marc Barr,Didier,false,Male,3.785,Acting
+349,5082,Jacques Bonnaffé,Jacques Bonnaffé,Mathieu,false,Not set/not specified,1.113,Acting
+349,5083,Édouard Collin,Édouard Collin,Martin,false,Male,1.219,Acting
+349,5084,Romain Torres,Romain Torres,Charly,false,Male,0.828,Acting
+349,5085,Sabrina Seyvecou,Sabrina Seyvecou,Laura,false,Female,5.329,Acting
+349,5086,Yannick Baudin,Yannick Baudin,Michaël,false,Not set/not specified,0.6,Acting
+349,5087,Julien Weber,Julien Weber,Sylvain,false,Not set/not specified,0.98,Acting
+349,5088,Sébastien Cormier,Sébastien Cormier,Laura\'s New Friend,false,Not set/not specified,0.6,Acting
+349,5089,Marion Roux,Marion Roux,Billiard Player,false,Not set/not specified,0.6,Acting
+350,1813,Anne Hathaway,Anne Hathaway,Andy Sachs,false,Female,76.485,Acting
+350,5064,Meryl Streep,Meryl Streep,Miranda Priestly,false,Female,13.282,Acting
+350,5081,Emily Blunt,Emily Blunt,Emily,false,Female,54.57,Acting
+350,2283,Stanley Tucci,Stanley Tucci,Nigel,false,Male,17.04,Acting
+350,1284159,Simon Baker,Simon Baker,Christian Thompson,false,Male,25.596,Acting
+350,5090,Adrian Grenier,Adrian Grenier,Nate,false,Male,14.007,Acting
+350,10580,Tracie Thoms,Tracie Thoms,Lily,false,Female,10.819,Acting
+350,10581,Rich Sommer,Rich Sommer,Doug,false,Male,8.303,Acting
+350,10582,Daniel Sunjata,Daniel Sunjata,James Holt,false,Male,64.829,Acting
+350,24535,David Marshall Grant,David Marshall Grant,Richard Sachs,false,Male,7.092,Acting
+350,37421,James Naughton,James Naughton,Stephen,false,Male,3.137,Acting
+350,1192389,Tibor Feldman,Tibor Feldman,Irv Ravitz,false,Male,1.588,Acting
+350,54679,Rebecca Mader,Rebecca Mader,Jocelyn,false,Female,20.791,Acting
+350,205550,Jimena Hoyos,Jimena Hoyos,Lucia,false,Not set/not specified,2.074,Acting
+350,10583,Gisele Bündchen,Gisele Bündchen,Serena,false,Female,7.327,Acting
+350,5369,George C. Wolfe,George C. Wolfe,Paul,false,Male,1.336,Directing
+350,60205,John Rothman,John Rothman,Editor,false,Male,3.818,Acting
+350,121953,Stephanie Szostak,Stephanie Szostak,Jacqueline Follet,false,Female,13.135,Acting
+350,962381,Colleen Dengel,Colleen Dengel,Caroline,false,Female,7.826,Acting
+350,962382,Suzanne Dengel,Suzanne Dengel,Cassidy,false,Female,4.992,Acting
+350,10584,Heidi Klum,Heidi Klum,Self,false,Female,13.079,Acting
+350,143061,Valentino Garavani,Valentino Garavani,Self,false,Not set/not specified,2.906,Acting
+350,10585,Bridget Hall,Bridget Hall,Self,false,Not set/not specified,1.138,Acting
+350,1248824,Ines Rivero,Ines Rivero,Clacker in Elevator,false,Female,3.633,Acting
+350,220620,Alyssa Sutherland,Alyssa Sutherland,Clacker,false,Female,19.237,Acting
+350,1225193,Robert Verdi,Robert Verdi,Fashion Reporter,false,Not set/not specified,1.135,Acting
+350,2764198,Paul Keany,Paul Keany,St. Regis Butler,false,Not set/not specified,0.6,Acting
+350,2764199,David Callegati,David Callegati,Massimo,false,Not set/not specified,0.6,Acting
+350,2764200,Rori Cannon,Rori Cannon,Girl at Party,false,Not set/not specified,0.6,Acting
+350,2123843,Stan Newman,Stan Newman,John Folger,false,Not set/not specified,0.6,Acting
+350,118393,James Cronin,James Cronin,Ambassador,false,Not set/not specified,0.6,Acting
+350,2764201,Eric Seltzer,Eric Seltzer,Roy,false,Not set/not specified,0.6,Acting
+350,2764202,Lindsay Brice,Lindsay Brice,PR Woman,false,Not set/not specified,2.461,Acting
+350,121934,Steve Benisty,Steve Benisty,Fashion Photographer,false,Not set/not specified,0.98,Acting
+350,2764204,John Graham,John Graham,Book Guy,false,Not set/not specified,0.6,Acting
+350,2764206,Wells Dixon,Wells Dixon,Miranda\'s Driver,false,Not set/not specified,0.6,Acting
+350,1757170,Ilona Alexandra,Ilona Alexandra,Red Carpet Celebrity (uncredited),false,Female,0.6,Acting
+350,1653331,Frank Anello,Frank Anello,Security (uncredited),false,Male,3.175,Acting
+350,1257863,Alexander Blaise,Alexander Blaise,French Bellhop (uncredited),false,Male,1.633,Acting
+350,2630463,Marie Brandt,Marie Brandt,Fashion Show Attendee (uncredited),false,Female,0.6,Acting
+350,99156,Carl Burrows,Carl Burrows,Businessman (uncredited),false,Male,3.223,Acting
+350,2749631,Dono Cunningham,Dono Cunningham,Fashion Photographer (uncredited),false,Not set/not specified,0.6,Acting
+350,2559951,Guy A. Fortt,Guy A. Fortt,Security (uncredited),false,Male,0.6,Acting
+350,87669,Alexie Gilmore,Alexie Gilmore,Clacker (uncredited),false,Female,8.407,Acting
+350,1686289,Toree Hill,Toree Hill,Guest (uncredited),false,Not set/not specified,0.98,Acting
+350,1544733,Vivian Kalinov,Vivian Kalinov,Black & White Ball Guest (uncredited),false,Female,2.528,Acting
+350,1058964,Tim Krueger,Tim Krueger,Fund Raiser (uncredited),false,Male,3.79,Acting
+350,1472841,Hector Lincoln,Hector Lincoln,Self (uncredited),false,Not set/not specified,1.114,Acting
+350,990108,Nina Lisandrello,Nina Lisandrello,Clacker (uncredited),false,Female,7.141,Acting
+350,978862,Zev McAllister,Zev McAllister,Runway Editor (uncredited),false,Male,1.094,Acting
+350,2559961,Denis McKeown,Denis McKeown,Black & White Ball Guest (uncredited),false,Not set/not specified,0.6,Acting
+350,1790817,Mateo Moreno,Mateo Moreno,Businessman (uncredited),false,Not set/not specified,0.6,Acting
+350,2653362,Matt Murray,Matt Murray,Paparazzo (uncredited),false,Male,9.432,Acting
+350,2589977,Ingrid Sophie Schram,Ingrid Sophie Schram,Clacker (uncredited),false,Not set/not specified,0.6,Acting
+350,1745019,Bobby Shue,Bobby Shue,Runway Staff (uncredited),false,Not set/not specified,1.128,Acting
+350,1705235,Brandhyze Stanley,Brandhyze Stanley,Waitress (uncredited),false,Female,1.428,Acting
+350,937568,Jen Taylor,Jen Taylor,Lou - Dowager (uncredited),false,Female,15.445,Acting
+350,208768,Taylor Treadwell,Taylor Treadwell,Miranda\'s New Assistant (uncredited),false,Female,3.595,Acting
+350,1855608,Lynne Valley,Lynne Valley,Editor (uncredited),false,Female,3.65,Acting
+350,1199514,Donatella Versace,Donatella Versace,Self (uncredited),false,Female,0.84,Acting
+350,10568,Lauren Weisberger,Lauren Weisberger,The Twins\' Nanny (uncredited),false,Female,1.788,Writing
+350,1445401,Laura D. Williams,Laura D. Williams,Runway Magazine Model / Party Guest (uncredited),false,Not set/not specified,0.6,Acting
+351,5099,Andreas Müller,Andreas Müller,Markus,false,Not set/not specified,0.6,Acting
+351,5100,Ilka Welz,Ilka Welz,Ella,false,Not set/not specified,0.6,Acting
+351,5101,Anett Dornbusch,Anett Dornbusch,Rose,false,Not set/not specified,0.6,Acting
+351,5102,Erika Lemke,Erika Lemke,Oma,false,Not set/not specified,0.6,Acting
+351,5103,Markus Werner,Markus Werner,Nachbarsjunge,false,Not set/not specified,1.4,Writing
+351,5104,Doritha Richter,Doritha Richter,Mutter,false,Not set/not specified,0.6,Acting
+351,5105,Detlef Baumann,Detlef Baumann,Nachbar,false,Not set/not specified,0.6,Acting
+351,5106,Ilse Lausch,Ilse Lausch,Tante,false,Not set/not specified,0.6,Acting
+351,5107,Harald Kuchenbecker,Harald Kuchenbecker,Onkel,false,Not set/not specified,0.6,Acting
+351,5108,Jan Günzel,Jan Günzel,Freund#1,false,Not set/not specified,0.6,Acting
+351,5109,Bernd Liske,Bernd Liske,Freund#2,false,Not set/not specified,0.6,Acting
+351,5110,Bernd Wachsmuth,Bernd Wachsmuth,Freund#3,false,Not set/not specified,0.6,Acting
+351,5111,Hartmut Schliephacke,Hartmut Schliephacke,Bürgermeister / Wehrleiter,false,Not set/not specified,0.6,Acting
+351,5112,Viola Hoffmann,Viola Hoffmann,Frau#1,false,Not set/not specified,0.6,Acting
+351,5113,Petra Lemke,Petra Lemke,Frau#2,false,Not set/not specified,0.6,Acting
+351,5114,Petra Müller,Petra Müller,Frau#3,false,Not set/not specified,0.6,Acting
+351,5115,Christa Wachsmuth,Christa Wachsmuth,Frau#4,false,Not set/not specified,0.6,Acting
+351,5116,Karin Wachsmuth,Karin Wachsmuth,Frau#5,false,Not set/not specified,0.6,Acting
+363,5117,Birol Ünel,Birol Ünel,Cahit Tomruk,false,Male,1.308,Acting
+363,5118,Sibel Kekilli,Sibel Kekilli,Sibel Güner,true,Female,19.64,Acting
+363,5119,Catrin Striebeck,Catrin Striebeck,Maren,false,Female,3.797,Acting
+363,5120,Güven Kıraç,Güven Kıraç,Seref,false,Male,1.96,Acting
+363,5121,Meltem Cumbul,Meltem Cumbul,Selma,false,Female,6.367,Acting
+363,5122,Stefan Gebelhoff,Stefan Gebelhoff,Nico,false,Male,1.616,Acting
+363,5123,Demir Gökgöl,Demir Gökgöl,Yunus Güner,false,Male,3.264,Acting
+363,5124,Cem Akin,Cem Akin,Yilmaz Güner,false,Male,1.62,Acting
+363,5134,Aysel Iscan,Aysel Iscan,Birsen Güner,false,Not set/not specified,1.176,Acting
+363,1075606,Francesco Fiannaca,Francesco Fiannaca,Mann am Tresen,false,Not set/not specified,0.6,Acting
+363,1123057,Mona Mur,Mona Mur,Stammkundin Zoe Bar,false,Female,1.094,Acting
+363,42451,Ralph Misske,Ralph Misske,Patient,false,Male,0.6,Acting
+363,53845,Philipp Baltus,Philipp Baltus,Patient,false,Not set/not specified,1.186,Acting
+363,45906,Zarah Jane McKenzie,Zarah Jane McKenzie,Barfrau in der Fabrik,false,Female,1.461,Acting
+363,1075570,Hermann Lause,Hermann Lause,Dr. Schiller,false,Male,1.531,Acting
+363,563496,Orhan Güner,Orhan Güner,Busfahrer,false,Male,1.96,Acting
+363,5498,Adam Bousdoukos,Adam Bousdoukos,Barmann,false,Male,2.937,Acting
+363,5496,Mehmet Kurtuluş,Mehmet Kurtuluş,Barmann Istanbul,false,Male,4.025,Acting
+363,145402,Selim Erdoğan,Selim Erdoğan,Taxifahrer,false,Not set/not specified,1.62,Acting
+363,18734,Tim Seyfi,Tim Seyfi,Bayerischer Taxifahrer,false,Male,6.182,Acting
+363,5500,İdil Üner,İdil Üner,Musiker,false,Female,3.054,Acting
+363,974178,Maceo Parker,Maceo Parker,Musiker,false,Male,1.094,Acting
+363,1267485,Fanfare Ciocarlia,Fanfare Ciocarlia,Musiker,false,Not set/not specified,0.6,Acting
+363,1088662,Feridun Koç,Feridun Koç,Osman 1,false,Male,2.503,Acting
+363,1473061,Tulga Serim,Tulga Serim,Osman 2,false,Not set/not specified,0.996,Acting
+363,1788601,Tugay Erverdi,Tugay Erverdi,Osman 3,false,Not set/not specified,3.719,Acting
+363,1788613,Andreas Thiel,Andreas Thiel,Beamter Trauung,false,Male,1.4,Production
+364,2232,Michael Keaton,Michael Keaton,Bruce Wayne / Batman,false,Male,39.23,Acting
+364,518,Danny DeVito,Danny DeVito,Oswald Cobblepot / The Penguin,false,Male,30.927,Acting
+364,1160,Michelle Pfeiffer,Michelle Pfeiffer,Selina Kyle / Catwoman,false,Female,24.321,Acting
+364,4690,Christopher Walken,Christopher Walken,Max Shreck,false,Male,25.77,Acting
+364,3796,Michael Gough,Michael Gough,Alfred Pennyworth,false,Male,6.28,Acting
+364,3798,Pat Hingle,Pat Hingle,Commissioner James Gordon,false,Male,6.922,Acting
+364,4776,Michael Murphy,Michael Murphy,Mayor,false,Male,8.548,Acting
+364,5130,Cristi Conaway,Cristi Conaway,Ice Princess,false,Female,7.799,Acting
+364,52366,Andrew Bryniarski,Andrew Bryniarski,Charles \'Chip\' Shreck,false,Male,7.987,Acting
+364,3418,Vincent Schiavelli,Vincent Schiavelli,Organ Grinder,false,Male,10.503,Acting
+364,152864,Steve Witting,Steve Witting,Josh,false,Male,4.127,Acting
+364,129332,Jan Hooks,Jan Hooks,Jen,false,Female,6.374,Acting
+364,1961854,John Strong,John Strong,Sword Swallower,false,Not set/not specified,0.6,Acting
+364,33011,Rick Zumwalt,Rick Zumwalt,Tattooed Strongman,false,Male,5.306,Acting
+364,27570,Anna Katarina,Anna Katarina,Poodle Lady,false,Female,4.692,Acting
+364,44178,Gregory Scott Cummins,Gregory Scott Cummins,Acrobat Thug One,false,Male,3.08,Acting
+364,1961856,Erika Andersch,Erika Andersch,Knifethrower Dame,false,Not set/not specified,1.55,Acting
+364,106359,Travis McKenna,Travis McKenna,Fat Clown,false,Male,5.811,Acting
+364,17005,Doug Jones,Doug Jones,Thin Clown,false,Male,28.341,Acting
+364,106730,Branscombe Richmond,Branscombe Richmond,Terrifying Clown 1,false,Male,9.574,Acting
+364,5129,Paul Reubens,Paul Reubens,Penguin\'s Father,false,Male,10.005,Acting
+364,5131,Diane Salinger,Diane Salinger,Penguin\'s Mother,false,Female,6.304,Acting
+364,4596,Stuart Lancaster,Stuart Lancaster,Penguin\'s Doctor,false,Male,1.228,Acting
+364,1961857,Cal Hoffman,Cal Hoffman,Happy Man,false,Not set/not specified,0.6,Acting
+364,1961858,Joan Jurige,Joan Jurige,Happy Woman,false,Not set/not specified,0.6,Acting
+364,1961859,Rosie O\'Connor,Rosie O\'Connor,Adorable Little Girl,false,Not set/not specified,0.6,Acting
+364,9996,Sean Whalen,Sean Whalen,Paperboy,false,Male,5.579,Acting
+364,1961862,Erik Onate,Erik Onate,Aggressive Reporter,false,Not set/not specified,0.6,Acting
+364,583419,Joey DePinto,Joey DePinto,Shreck Security Guard,false,Not set/not specified,2.656,Acting
+364,32593,Steven Brill,Steven Brill,Gothamite 1,false,Male,7.006,Directing
+364,1363197,Neal Lerner,Neal Lerner,Gothamite 2,false,Male,1.96,Acting
+364,1373954,Ashley Tillman,Ashley Tillman,Gothamite 3,false,Not set/not specified,0.84,Acting
+364,5579,Elizabeth Sanders,Elizabeth Sanders,Gothamite 4,false,Female,3.113,Acting
+364,1961863,Joan Giammarco,Joan Giammarco,Female Victim,false,Not set/not specified,3.08,Acting
+364,191883,Lisa Guerrero,Lisa Guerrero,Volunteer Bimbo,false,Female,4.841,Acting
+364,1961864,Frank DiElsi,Frank DiElsi,Security 1,false,Not set/not specified,1.712,Acting
+364,1916,Biff Yeager,Biff Yeager,Security 2,false,Male,3.206,Acting
+364,15251,Robert Gossett,Robert Gossett,TV Anchorman,false,Male,6.8,Acting
+364,1683090,Adam Drescher,Adam Drescher,Crowd Member,false,Male,3.88,Acting
+364,81414,Bobby Bell,Bobby Bell,Emperor Penguin,false,Not set/not specified,1.858,Acting
+364,1195601,Niki Botelho,Niki Botelho,Emperor Penguin,false,Female,2.943,Acting
+364,81417,Susan Rossitto,Susan Rossitto,Emperor Penguin,false,Female,1.413,Acting
+364,1961865,Margarita Farrell,Margarita Farrell,Emperor Penguin,false,Not set/not specified,0.6,Acting
+364,1961866,Denise Killpack,Denise Killpack,Emperor Penguin,false,Not set/not specified,0.6,Acting
+364,33853,Felix Silla,Felix Silla,Emperor Penguin,false,Male,7.449,Acting
+364,19753,Debbie Lee Carrington,Debbie Lee Carrington,Emperor Penguin,false,Female,6.616,Acting
+364,1195601,Niki Botelho,Niki Botelho,Baby Penguin,false,Female,2.943,Acting
+364,52903,Anthony De Longis,Anthony De Longis,Terrifying Clown #2 (uncredited),false,Male,1.4,Acting
+364,1171101,Desi Singh,Desi Singh,Clown with Flaming Crossbow (uncredited),false,Male,0.969,Acting
+364,1280991,Darla,Darla,Ratty Poodle (uncredited),false,Female,1.62,Acting
+377,5141,Heather Langenkamp,Heather Langenkamp,Nancy Thompson,false,Female,15.2,Acting
+377,5139,Robert Englund,Robert Englund,Freddy Krueger,false,Male,13.86,Acting
+377,11163,John Saxon,John Saxon,Lieutenant Thompson,false,Male,13.827,Acting
+377,13652,Ronee Blakley,Ronee Blakley,Marge Thompson,false,Female,7.197,Acting
+377,13656,Amanda Wyss,Amanda Wyss,Tina Gray,false,Female,15.713,Acting
+377,13657,Jsu Garcia,Jsu Garcia,Rod Lane,false,Male,8.529,Acting
+377,85,Johnny Depp,Johnny Depp,Glen Lantz,false,Male,60.372,Acting
+377,12826,Charles Fleischer,Charles Fleischer,Dr. King,false,Male,3.604,Acting
+377,13660,Joseph Whipp,Joseph Whipp,Sgt. Parker,false,Male,3.108,Acting
+377,7401,Lin Shaye,Lin Shaye,Teacher,false,Female,19.948,Acting
+377,13661,Joe Unger,Joe Unger,Sergeant Garcia,false,Male,2.268,Acting
+377,13662,Mimi Craven,Mimi Craven,Nurse,false,Female,5.787,Acting
+377,190793,Jack Shea,Jack Shea,Minister,false,Male,0.6,Acting
+377,120106,Ed Call,Ed Call,Mr. Lantz,false,Male,1.708,Acting
+377,1698597,Sandy Lipton,Sandy Lipton,Mrs. Lantz,false,Female,0.861,Acting
+377,7219,David Andrews,David Andrews,Foreman,false,Male,3.701,Acting
+377,11408,Jeff Levine,Jeff Levine,Coroner,false,Male,0.6,Production
+377,1698598,Donna Woodrum,Donna Woodrum,Mrs. Gray,false,Female,1.636,Acting
+377,42820,Shashawnee Hall,Shashawnee Hall,Cop #1,false,Male,2.661,Acting
+377,1698601,Carol Pritikin,Carol Pritikin,Cop #2,false,Female,0.6,Acting
+377,1698600,Brian Reise,Brian Reise,Cop #3,false,Male,1.805,Acting
+377,224322,Ash Adams,Ash Adams,Surfer #1,false,Male,1.834,Acting
+377,1679939,Don Hannah,Don Hannah,Surfer #2,false,Male,0.6,Acting
+377,1538594,Leslie Hoffman,Leslie Hoffman,Hallguard,false,Female,0.631,Crew
+377,1698599,Paul Grenier,Paul Grenier,Mrs. Gray\'s Boyfriend,false,Male,0.929,Acting
+377,1698602,Kathi Gibbs,Kathi Gibbs,Kid (uncredited),false,Female,0.6,Acting
+377,45329,Chris Tashima,Chris Tashima,Kid (uncredited),false,Male,3.214,Acting
+377,1698603,Antonia Yannouli,Antonia Yannouli,Kid (uncredited),false,Female,0.84,Acting
+377,2307563,John Richard Petersen,John Richard Petersen,Kid in Classroom (uncredited),false,Male,0.675,Acting
+377,13663,Robert Shaye,Robert Shaye,"Newsreader / KRGR Radio Announcer (voice, uncredited)",false,Male,4.593,Production
+378,2963,Nicolas Cage,Nicolas Cage,H.I.,false,Male,69.308,Acting
+378,18686,Holly Hunter,Holly Hunter,Ed,false,Female,27.697,Acting
+378,4039,Trey Wilson,Trey Wilson,"Nathan Arizona, Sr.",false,Male,3.032,Acting
+378,1230,John Goodman,John Goodman,Gale,false,Male,32.388,Acting
+378,4520,William Forsythe,William Forsythe,Evelle,false,Male,16.948,Acting
+378,5176,Sam McMurray,Sam McMurray,Glen,false,Male,10.046,Acting
+378,3910,Frances McDormand,Frances McDormand,Dot,false,Female,18.018,Acting
+378,5177,Randall \'Tex\' Cobb,Randall \'Tex\' Cobb,Leonard Smalls,false,Male,11.556,Acting
+378,5178,T.J. Kuhn,T.J. Kuhn,Nathan Junior,false,Not set/not specified,1.623,Acting
+378,5179,Lynne Kitei,Lynne Kitei,Florence Arizona,false,Not set/not specified,1.4,Acting
+378,3091095,Peter Benedek,Peter Benedek,Prison Counselor,false,Not set/not specified,0.6,Acting
+378,3278660,Charles \'Lew\' Smith,Charles \'Lew\' Smith,Nice Old Grocery Man,false,Not set/not specified,0.6,Acting
+378,2922264,Warren Keith,Warren Keith,Younger FBI Agent,false,Not set/not specified,0.6,Acting
+378,1123432,Henry Kendrick,Henry Kendrick,Older FBI Agent,false,Male,0.6,Acting
+378,2684142,Sidney Dawson,Sidney Dawson,Ear-Bending Cellmate,false,Not set/not specified,0.6,Acting
+378,1183380,Richard Blake,Richard Blake,Parole Board Chairman,false,Male,0.6,Acting
+378,88690,Troy Nabors,Troy Nabors,Parole Board Member,false,Not set/not specified,0.6,Acting
+378,59406,Mary Seibel,Mary Seibel,Parole Board Member,false,Female,2.694,Acting
+378,2684106,John O\'Donnal,John O\'Donnal,Hayseed in the Pickup,false,Not set/not specified,0.6,Acting
+378,2684105,Keith Jandacek,Keith Jandacek,Whitey,false,Not set/not specified,0.6,Acting
+378,3278684,Warren Forsythe,Warren Forsythe,Minister,false,Not set/not specified,0.6,Acting
+378,3278685,Ruben Young,Ruben Young,\'Trapped\' Convict,false,Not set/not specified,0.6,Acting
+378,560147,Dennis Sullivan,Dennis Sullivan,Policeman in Arizona House,false,Not set/not specified,0.6,Acting
+378,9354,Richard Alexander,Richard Alexander,Policeman in Arizona House,false,Male,0.84,Acting
+378,1753933,Rusty Lee,Rusty Lee,Feisty Hayseed,false,Not set/not specified,0.6,Acting
+378,3278693,James Yeater,James Yeater,Fingerprint Technician,false,Not set/not specified,0.6,Acting
+378,1862899,Bill Andres,Bill Andres,Reporter,false,Not set/not specified,0.6,Acting
+378,3278694,Carver Barns,Carver Barns,Reporter,false,Not set/not specified,0.6,Acting
+378,2684140,Margaret H. McCormack,Margaret H. McCormack,Unpainted Secretary,false,Not set/not specified,0.6,Acting
+378,2684122,Bill Rocz,Bill Rocz,Newscaster,false,Not set/not specified,0.6,Acting
+378,2684145,Mary F. Glenn,Mary F. Glenn,Payroll Cashier,false,Not set/not specified,0.6,Acting
+378,2684139,Jeremy Babendure,Jeremy Babendure,Scamp with Squirt Gun,false,Not set/not specified,0.6,Acting
+378,2248510,Bill Dobbins,Bill Dobbins,Adoption Agent,false,Not set/not specified,0.6,Acting
+378,2684146,Ralph Norton,Ralph Norton,Gynecologist,false,Not set/not specified,0.6,Acting
+378,2734511,Henry Tank,Henry Tank,Mopping Convict,false,Not set/not specified,0.6,Acting
+378,2684137,Frank Outlaw,Frank Outlaw,Supermarket Manager,false,Not set/not specified,0.98,Acting
+378,2684144,Todd Michael Bodgers,Todd Michael Bodgers,"Varsity Nathan, Jr.",false,Not set/not specified,0.6,Acting
+378,588,M. Emmet Walsh,M. Emmet Walsh,Machine Shop Ear-Bender,false,Male,9.278,Acting
+378,2684089,Robert Gray,Robert Gray,Glen and Dot\'s Kid,false,Not set/not specified,0.6,Acting
+378,3278722,Katie Thrasher,Katie Thrasher,Glen and Dot\'s Kid,false,Not set/not specified,0.6,Acting
+378,2684104,Derek Russell,Derek Russell,Glen and Dot\'s Kid,false,Not set/not specified,0.6,Acting
+378,3278723,Nicole Russell,Nicole Russell,Glen and Dot\'s Kid,false,Not set/not specified,0.6,Acting
+378,3278724,Zachary Sanders,Zachary Sanders,Glen and Dot\'s Kid,false,Not set/not specified,0.6,Acting
+378,3278725,Noell Sanders,Noell Sanders,Glen and Dot\'s Kid,false,Not set/not specified,0.98,Acting
+378,2684129,Cody Ranger,Cody Ranger,Arizona Quint,false,Not set/not specified,1.4,Acting
+378,3278726,Jeremy Arendt,Jeremy Arendt,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,2684111,Ashley Hammon,Ashley Hammon,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,2684134,Crystal Hiller,Crystal Hiller,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,3278727,Olivia Hughes,Olivia Hughes,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,3278729,Emily Malin,Emily Malin,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,3278730,Melanie Malin,Melanie Malin,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,2684132,Craig McLaughlin,Craig McLaughlin,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,2684108,Adam Savageau,Adam Savageau,Arizona Quint,false,Not set/not specified,0.98,Acting
+378,2684116,Benjamin Savageau,Benjamin Savageau,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,3278733,David Schneider,David Schneider,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,3278734,Michael Stewart,Michael Stewart,Arizona Quint,false,Not set/not specified,0.6,Acting
+378,565196,William Preston Robertson,William Preston Robertson,Amazing Voice (voice),false,Male,1.943,Acting
+378,1043587,Ron Cobert,Ron Cobert,Reporter #1 (uncredited),false,Not set/not specified,1.62,Production
+379,5168,Gabriel Byrne,Gabriel Byrne,Tom Reagan,false,Male,19.005,Acting
+379,3926,Albert Finney,Albert Finney,Liam \'Leo\' O\'Bannon,false,Male,4.058,Acting
+379,4253,Jon Polito,Jon Polito,Johnny Caspar,false,Male,3.073,Acting
+379,4726,Marcia Gay Harden,Marcia Gay Harden,Verna Bernbaum,false,Female,29.578,Acting
+379,1241,John Turturro,John Turturro,Bernie Bernbaum,false,Male,36.738,Acting
+379,5169,J.E. Freeman,J.E. Freeman,Eddie Dane,false,Male,5.029,Acting
+379,884,Steve Buscemi,Steve Buscemi,Mink Larouie,false,Male,29.075,Acting
+379,5170,Mike Starr,Mike Starr,Frankie,false,Male,10.204,Acting
+379,5171,Al Mancini,Al Mancini,Tic-Tac,false,Male,1.159,Acting
+379,5172,Richard Woods,Richard Woods,Mayor Dale Levander,false,Not set/not specified,1.258,Acting
+379,5173,Thomas Toner,Thomas Toner,O\'Doole,false,Not set/not specified,0.6,Acting
+379,176958,Mario Todisco,Mario Todisco,Clarence \'Drop\' Johnson,false,Male,2.78,Acting
+379,53573,Olek Krupa,Olek Krupa,Tad,false,Male,12.405,Acting
+379,2169,Michael Jeter,Michael Jeter,Adolph,false,Male,18.869,Acting
+379,3204,Lanny Flaherty,Lanny Flaherty,Terry,false,Male,11.372,Acting
+379,1126347,Jeanette Kontomitras,Jeanette Kontomitras,Mrs. Caspar,false,Not set/not specified,1.094,Acting
+379,1281525,Louis Charles Mounicou III,Louis Charles Mounicou III,"Johnny Caspar, Jr.",false,Not set/not specified,0.6,Acting
+379,16459,John McConnell,John McConnell,Brian,false,Male,1.748,Acting
+379,27513,Danny Aiello III,Danny Aiello III,Delahanty,false,Male,4.542,Crew
+379,1281526,Helen Jolly,Helen Jolly,Screaming Lady,false,Not set/not specified,0.6,Acting
+379,1281527,Hilda McLean,Hilda McLean,Landlady,false,Female,1.22,Acting
+379,1281528,Monte Starr,Monte Starr,Gunman in Leo\'s House,false,Not set/not specified,0.6,Acting
+379,142160,Don Picard,Don Picard,Gunman in Leo\'s House,false,Not set/not specified,0.629,Crew
+379,1281529,Salvatore H. Tornabene,Salvatore H. Tornabene,Rug Daniels,false,Not set/not specified,0.6,Acting
+379,1281530,Kevin Dearie,Kevin Dearie,Street Urchin,false,Not set/not specified,0.6,Acting
+379,1010,Michael Badalucco,Michael Badalucco,Caspar\'s Driver,false,Male,7.543,Acting
+379,1281531,Charles Ferrara,Charles Ferrara,Caspar\'s Butler,false,Not set/not specified,0.6,Acting
+379,1281532,Esteban Fernández,Esteban Fernández,Caspar\'s Cousin,false,Male,1.001,Acting
+379,1281533,George Fernandez,George Fernandez,Caspar\'s Cousin,false,Not set/not specified,0.98,Acting
+379,71659,Charles Gunning,Charles Gunning,Hitman at Verna\'s,false,Male,1.758,Acting
+379,1281535,Dave Drinkx,Dave Drinkx,Hitman #2,false,Not set/not specified,0.6,Acting
+379,35022,David Darlow,David Darlow,Lazarre\'s Messenger,false,Male,2.294,Acting
+379,1281536,Robert LaBrosse,Robert LaBrosse,Lazarre\'s Tough,false,Not set/not specified,0.6,Acting
+379,1281537,Carl Rooney,Carl Rooney,Lazarre\'s Tough,false,Not set/not specified,0.6,Acting
+379,1190852,Jack Harris,Jack Harris,Man with Pipe Bomb,false,Not set/not specified,0.6,Acting
+379,1281538,Jery Hewitt,Jery Hewitt,Son of Erin,false,Male,3.948,Crew
+379,7623,Sam Raimi,Sam Raimi,Snickering Gunman,false,Male,31.448,Directing
+379,1281539,John Schnauder Jr.,John Schnauder Jr.,Cop with Bullhorn,false,Not set/not specified,0.6,Acting
+379,1281540,Zolly Levin,Zolly Levin,Rabbi,false,Not set/not specified,0.6,Acting
+379,1281541,Joey Ancona,Joey Ancona,Boxer,false,Not set/not specified,0.6,Acting
+379,1281542,Bill Raye,Bill Raye,Boxer,false,Not set/not specified,0.6,Acting
+379,565196,William Preston Robertson,William Preston Robertson,Voice (voice),false,Male,1.943,Acting
+379,1182678,MIchael P. Cahill,MIchael P. Cahill,Casino Patron (uncredited),false,Not set/not specified,0.6,Acting
+379,2230505,Sean Collins,Sean Collins,Hitman #3 (uncredited),false,Male,1.052,Acting
+379,3910,Frances McDormand,Frances McDormand,Mayor\'s Secretary,false,Female,18.018,Acting
+380,4483,Dustin Hoffman,Dustin Hoffman,Raymond Babbitt,false,Male,8.575,Acting
+380,500,Tom Cruise,Tom Cruise,Charlie Babbitt,false,Male,103.313,Acting
+380,3124,Valeria Golino,Valeria Golino,Susanna,false,Female,25.283,Acting
+380,2211,Gerald R. Molen,Gerald R. Molen,Dr. Bruner,false,Male,3.958,Production
+380,5145,Jack Murdock,Jack Murdock,John Mooney,false,Male,1.884,Acting
+380,5146,Michael D. Roberts,Michael D. Roberts,Vern,false,Male,4.329,Acting
+380,5147,Ralph Seymour,Ralph Seymour,Lenny,false,Male,6.917,Acting
+380,5148,Lucinda Jenney,Lucinda Jenney,Iris,false,Female,4.088,Acting
+380,5149,Bonnie Hunt,Bonnie Hunt,Sally Dibbs,false,Female,26.932,Acting
+380,5150,Kim Robillard,Kim Robillard,Township Doctor,false,Male,3.74,Acting
+380,5151,Beth Grant,Beth Grant,Mother at Farm House,false,Female,12.675,Acting
+380,5152,Dolan Dougherty,Dolan Dougherty,Farm Kid#1,false,Not set/not specified,0.6,Acting
+380,5153,Marshall Dougherty,Marshall Dougherty,Farm Kid#2,false,Not set/not specified,0.6,Acting
+380,5154,Patrick Dougherty,Patrick Dougherty,Farm Kid#3,false,Not set/not specified,0.6,Crew
+380,5156,Peter Dougherty,Peter Dougherty,Farm Kid#5,false,Not set/not specified,0.6,Acting
+380,5157,Andrew Dougherty,Andrew Dougherty,Farm Kid#6,false,Not set/not specified,0.6,Acting
+380,5158,Loretta Wendt Jolivette,Loretta Wendt Jolivette,Secretary Dr. Bruner,false,Not set/not specified,0.6,Acting
+380,5159,Donald E. Jones,Donald E. Jones,Minister at Funeral,false,Male,0.6,Acting
+380,5160,Bryon P. Caunar,Bryon P. Caunar,Patient in Waiting Room,false,Not set/not specified,0.6,Acting
+380,5161,Donna J. Dickson,Donna J. Dickson,Nurse,false,Not set/not specified,1.4,Acting
+380,75205,Ralph Tabakin,Ralph Tabakin,Shift Boss,false,Male,1.708,Acting
+380,12889,Ray Baker,Ray Baker,Mr. Kelso,false,Male,7.96,Acting
+380,134235,Jake Hoffman,Jake Hoffman,Boy at Pancake Counter,false,Male,10.768,Acting
+380,22251,Royce D. Applegate,Royce D. Applegate,(voice),false,Male,2.482,Acting
+380,102425,Anna Mathias,Anna Mathias,(voice),false,Female,0.6,Acting
+380,93670,Archie Hahn,Archie Hahn,(voice),false,Male,6.87,Acting
+380,106800,Luisa Leschin,Luisa Leschin,(voice),false,Female,0.979,Acting
+380,1329201,Ira Miller,Ira Miller,(voice),false,Not set/not specified,0.6,Directing
+380,15824,Chris Mulkey,Chris Mulkey,(voice),false,Male,9.096,Acting
+380,78620,Julie Payne,Julie Payne,(voice),false,Female,2.16,Acting
+380,14784,Reni Santoni,Reni Santoni,(voice),false,Male,6.486,Acting
+380,158747,Ruth Silveira,Ruth Silveira,(voice),false,Female,1.265,Acting
+380,119941,Jonathan Stark,Jonathan Stark,(voice),false,Male,2.268,Acting
+380,1232417,Lynne Marie Stewart,Lynne Marie Stewart,(voice),false,Female,4.278,Acting
+380,1212054,Arnold F. Turner,Arnold F. Turner,(voice),false,Male,2.268,Acting
+380,1363780,Gigi Vorgan,Gigi Vorgan,(voice),false,Not set/not specified,1.925,Acting
+380,8246,Barry Levinson,Barry Levinson,Doctor (uncredited),false,Male,4.998,Directing
+380,80449,Mark Winn,Mark Winn,Restaurant Patron (uncredited),false,Male,1.4,Acting
+380,172696,June Christopher,June Christopher,(voice),false,Female,7.008,Acting
+380,2590628,Billie Perkins,Billie Perkins,Hotel Customer (uncredited),false,Female,0.6,Acting
+381,2638,Cary Grant,Cary Grant,John Robie,false,Male,9.036,Acting
+381,4070,Grace Kelly,Grace Kelly,Frances Stevens,false,Female,11.095,Acting
+381,2640,Jessie Royce Landis,Jessie Royce Landis,Jessie Stevens,false,Female,9.842,Acting
+381,5182,John Williams,John Williams,H. H. Hughson,false,Male,8.794,Acting
+381,2566,Charles Vanel,Charles Vanel,Bertani,false,Male,1.782,Acting
+381,5183,Brigitte Auber,Brigitte Auber,Danielle Foussard,false,Female,5.347,Acting
+381,5185,Jean Martinelli,Jean Martinelli,Foussard,false,Male,2.588,Acting
+381,5186,Georgette Anys,Georgette Anys,Germaine,false,Female,2.147,Acting
+381,553626,René Blancard,René Blancard,Commissaire Lepic (uncredited),false,Male,0.6,Acting
+381,96140,William \'Wee Willie\' Davis,William \'Wee Willie\' Davis,Big Man in Kitchen (uncredited),false,Male,2.188,Acting
+381,121323,Bess Flowers,Bess Flowers,Masquerade Party Guest (uncredited),false,Female,5.927,Acting
+381,1662013,Bernard Sell,Bernard Sell,Casino Patron (uncredited),false,Male,2.388,Acting
+381,385470,Charles Sherlock,Charles Sherlock,Detective (uncredited),false,Male,1.88,Acting
+381,11031,Philip Van Zandt,Philip Van Zandt,Jewelry Clerk (uncredited),false,Male,0.702,Acting
+381,2636,Alfred Hitchcock,Alfred Hitchcock,Man Sitting Next to John Robie on Bus (uncredited),false,Male,10.511,Directing
+383,5218,Doug Cooeyate,Doug Cooeyate,Johnny,false,Male,0.648,Acting
+383,5223,Tim Streeter,Tim Streeter,Walt Curtis,false,Male,1.4,Acting
+383,5219,Sam Downey,Sam Downey,Hotel Clerk,false,Not set/not specified,0.6,Acting
+383,5220,Nyla McCarthy,Nyla McCarthy,Betty,false,Not set/not specified,0.98,Acting
+383,5221,Ray Monge,Ray Monge,Roberto Pepper,false,Male,0.6,Acting
+383,5222,Robert Lee Pitchlynn,Robert Lee Pitchlynn,Bob Pitchlynn,false,Not set/not specified,0.6,Acting
+383,5216,Gus Van Sant,Gus Van Sant,Guy at Hotel (uncredited),false,Male,2.437,Directing
+387,920,Jürgen Prochnow,Jürgen Prochnow,Capt.-Lt. Henrich Lehmann-Willenbrock - Der Alte,false,Male,12.766,Acting
+387,5228,Herbert Grönemeyer,Herbert Grönemeyer,Lt. Werner - Correspondent,false,Male,2.901,Acting
+387,5229,Klaus Wennemann,Klaus Wennemann,Chief Engineer Fritz Grade - Der Leitende-Der LI,false,Male,1.787,Acting
+387,5230,Hubertus Bengsch,Hubertus Bengsch,1st Lieutenant - Number One-1WO,false,Male,9.414,Acting
+387,4924,Martin Semmelrogge,Martin Semmelrogge,2nd Lieutenant - 2WO,false,Male,4.826,Acting
+387,2349,Bernd Tauber,Bernd Tauber,Kriechbaum - Chief Quartermaster-Navigator,false,Male,2.736,Acting
+387,3970,Erwin Leder,Erwin Leder,"Obermaschinist Johann, „Das Gespenst“",false,Male,2.901,Acting
+387,5232,Martin May,Martin May,Fähnrich Ullmann,false,Male,1.176,Acting
+387,5233,Heinz Hoenig,Heinz Hoenig,Funkmaat Hinrich,false,Male,3.783,Acting
+387,682,Uwe Ochsenknecht,Uwe Ochsenknecht,Chief Bosun,false,Male,2.912,Acting
+387,1170466,Edwige Pierre,Edwige Pierre,Nadine (uncredited),false,Female,1.788,Acting
+387,5234,Claude-Oliver Rudolph,Claude-Oliver Rudolph,"Obermaschinist, Ario",false,Male,3.571,Acting
+387,5235,Jan Fedder,Jan Fedder,"Bootsmaat, Pilgrim",false,Male,2.631,Acting
+387,574349,Rita Cadillac,Rita Cadillac,Monique,false,Female,6.985,Acting
+387,4922,Ralf Richter,Ralf Richter,Frenssen,false,Male,2.946,Acting
+387,39325,Joachim Bernhard,Joachim Bernhard,Preacher,false,Male,1.917,Acting
+387,28114,Oliver Stritzel,Oliver Stritzel,Schwalle,false,Male,3.654,Acting
+387,1136687,Konrad Becker,Konrad Becker,Bockstiegel,false,Male,0.6,Acting
+387,1649330,Lutz Schnell,Lutz Schnell,Dufte,false,Male,1.313,Acting
+387,2664999,Martin Hemme,Martin Hemme,Brückenwilli,false,Not set/not specified,0.98,Acting
+387,2311,Otto Sander,Otto Sander,Kapitänleutnant Phillip Thomsen,false,Male,2.653,Acting
+387,9932,Günter Lamprecht,Günter Lamprecht,Kapitän des Versorgungsschiffs \'Weser\',false,Male,1.69,Acting
+387,2665000,Thomas Boxhammer,Thomas Boxhammer,,false,Not set/not specified,0.6,Acting
+387,2665001,Roger Barth,Roger Barth,,false,Not set/not specified,0.6,Acting
+387,2665002,Günther Franke,Günther Franke,Erster Offizier der \'WESER\',false,Not set/not specified,0.6,Acting
+387,2665003,Christian Bendomir,Christian Bendomir,,false,Not set/not specified,0.6,Acting
+387,2665004,Norbert Gronwald,Norbert Gronwald,,false,Not set/not specified,0.6,Acting
+387,2665005,Albert Kraml,Albert Kraml,,false,Not set/not specified,0.6,Acting
+387,1346868,Jean-Claude Hoffmann,Jean-Claude Hoffmann,Benjamin,false,Male,1.4,Acting
+387,2665006,Peter Pathenis,Peter Pathenis,,false,Not set/not specified,0.6,Acting
+387,1665127,Arno Kral,Arno Kral,Hagen,false,Not set/not specified,0.6,Acting
+387,2665007,Christian Seipolt,Christian Seipolt,,false,Not set/not specified,0.6,Acting
+387,1665128,Helmut Neumeier,Helmut Neumeier,Schmutt,false,Not set/not specified,0.6,Acting
+387,2665008,Ferdinand Schaal,Ferdinand Schaal,,false,Not set/not specified,0.6,Acting
+387,1665129,Wilhelm Pietsch,Wilhelm Pietsch,Maschinist Franz,false,Not set/not specified,0.6,Acting
+387,2665009,Rolf Weber,Rolf Weber,,false,Not set/not specified,0.6,Acting
+387,38601,Dirk Salomon,Dirk Salomon,Markus,false,Male,1.655,Acting
+387,2665010,Lothar Zajicek,Lothar Zajicek,Elektromaschinengast,false,Not set/not specified,0.6,Acting
+387,5012,Sky du Mont,Sky du Mont,Officer Aboard the \'Weser\' (uncredited),false,Male,1.214,Acting
+387,1665130,Ulrich Günther,Ulrich Günther,Erster WO Merkel (uncredited),false,Male,0.828,Acting
+387,1665131,Maryline Moulard,Maryline Moulard,Françoise (uncredited),false,Not set/not specified,1.092,Acting
+387,1196888,Günter Spörrle,Günter Spörrle,Seewald (uncredited),false,Male,1.4,Acting
+388,5292,Denzel Washington,Denzel Washington,Detective Keith Frazier,false,Male,64.822,Acting
+388,2296,Clive Owen,Clive Owen,Dalton Russell,false,Male,10.442,Acting
+388,1038,Jodie Foster,Jodie Foster,Madeleine White,false,Female,29.772,Acting
+388,290,Christopher Plummer,Christopher Plummer,Arthur Case,false,Male,8.325,Acting
+388,5293,Willem Dafoe,Willem Dafoe,Captain John Darius,false,Male,41.331,Acting
+388,5294,Chiwetel Ejiofor,Chiwetel Ejiofor,Detective Bill Mitchell,false,Male,27.781,Acting
+388,5295,Carlos Andrés Gómez,Carlos Andrés Gómez,Steve,false,Not set/not specified,1.4,Acting
+388,4889,Kim Director,Kim Director,Stevie,false,Female,18.143,Acting
+388,5296,James Ransone,James Ransone,Steve-O,false,Male,16.112,Acting
+388,5297,Bernie Rachelle,Bernie Rachelle,Chaim,false,Male,1.794,Acting
+388,1986,Peter Gerety,Peter Gerety,Captain Coughlin,false,Male,5.702,Acting
+388,5298,Victor Colicchio,Victor Colicchio,Sergeant Collins,true,Male,2.838,Acting
+388,5299,Cassandra Freeman,Cassandra Freeman,Sylvia,false,Female,8.54,Acting
+388,5300,Peter Frechette,Peter Frechette,Peter Hammond,false,Male,4.634,Acting
+388,5302,Gerry Vichi,Gerry Vichi,Herman Gluck,false,Not set/not specified,1.243,Acting
+388,5301,Waris Ahluwalia,Waris Ahluwalia,Vikram Walia,false,Male,3.71,Acting
+388,5303,Rafael Osorio,Rafael Osorio,Bank Guard,false,Male,2.192,Acting
+388,5304,Rodney \'Bear\' Jackson,Rodney \'Bear\' Jackson,Bank Guard,false,Male,2.185,Acting
+388,15028,Daryl Mitchell,Daryl Mitchell,Mobile Command Officer Rourke,false,Male,2.702,Acting
+388,77264,Ashlie Atkinson,Ashlie Atkinson,Mobile Command Officer Berk,false,Female,3.22,Acting
+388,1260146,David Brown,David Brown,Mobile Command Officer Carnow,false,Not set/not specified,0.6,Acting
+388,150932,Robert C. Kirk,Robert C. Kirk,Mobile Command Officer Borinsky,false,Not set/not specified,0.972,Acting
+388,1433251,Frank Stellato,Frank Stellato,Mobile Command Detective,false,Male,0.6,Acting
+388,2131,Ken Leung,Ken Leung,Wing,false,Male,16.922,Acting
+388,14548,Marcia Jean Kurtz,Marcia Jean Kurtz,Miriam Douglas,false,Female,1.861,Acting
+388,1433438,Ed Onipede Blunt,Ed Onipede Blunt,Ray Robinson,false,Not set/not specified,1.38,Acting
+388,210,Amir Ali Said,Amir Ali Said,Brian Robinson,false,Male,3.698,Acting
+388,1108494,Lemon Andersen,Lemon Andersen,Paul Guitierez,false,Not set/not specified,0.6,Acting
+388,93621,Samantha Ivers,Samantha Ivers,Nancy Mann,false,Female,8.327,Acting
+388,1433441,Peter Kybart,Peter Kybart,Mayor,false,Not set/not specified,0.84,Acting
+388,122546,Al Palagonia,Al Palagonia,Kevin,false,Not set/not specified,11.827,Acting
+388,1434091,Florina Petcu,Florina Petcu,Ilina Miritia,false,Not set/not specified,3.366,Acting
+388,147960,Jason Manuel Olazabal,Jason Manuel Olazabal,ESU Officer Hernandez,false,Male,3.663,Acting
+388,1253648,Jeff Ward,Jeff Ward,ESU Officer Jesus,false,Male,3.759,Crew
+388,77585,Anthony Mangano,Anthony Mangano,ESU Officer,false,Male,6.208,Acting
+388,1433451,Michael Devine,Michael Devine,ESU Officer,false,Male,1.03,Acting
+388,1433452,Ed Bogdanowicz,Ed Bogdanowicz,ESU Officer,false,Not set/not specified,0.6,Acting
+388,1045964,Aaron Vexler,Aaron Vexler,ESU Officer,false,Male,1.27,Crew
+388,1433454,Anthony Borowiec,Anthony Borowiec,ESU Officer,false,Not set/not specified,0.6,Acting
+388,210393,Joe Coots,Joe Coots,ESU Officer,false,Not set/not specified,3.08,Acting
+388,171154,Lionel Pina,Lionel Pina,Cop with Pizzas,false,Male,2.892,Acting
+388,1433493,Ken Ferrigni,Ken Ferrigni,Redheaded Detective,false,Male,1.166,Acting
+388,1433496,Frank Hopf,Frank Hopf,Barricade Officer,false,Not set/not specified,1.38,Acting
+388,1433497,Robert Testut,Robert Testut,Barricade Officer,false,Not set/not specified,0.6,Acting
+388,1433498,Craig M. Spitzer,Craig M. Spitzer,Seth Greenblatt,false,Not set/not specified,2.588,Acting
+388,1059170,Limary Agosto,Limary Agosto,Gladys Perez,false,Not set/not specified,5.422,Acting
+388,1433510,Patrick Illig,Patrick Illig,Brad Stone,false,Not set/not specified,0.84,Acting
+388,1433512,Frank Composto,Frank Composto,Eric Dodge,false,Not set/not specified,1.22,Acting
+388,1433520,Rozanne Sher,Rozanne Sher,Hostage Woman,false,Not set/not specified,1.22,Acting
+388,78520,Rachel Black,Rachel Black,Katherine,false,Not set/not specified,1.129,Acting
+388,1433539,Gregory Dann,Gregory Dann,Case\'s Bodyguard,false,Not set/not specified,1.4,Acting
+388,59299,Ben Crowley,Ben Crowley,White\'s Assistant,false,Male,0.62,Acting
+388,1434087,Shon Gables,Shon Gables,CBS News Reporter,false,Not set/not specified,0.6,Acting
+388,1434088,Dominic Carter,Dominic Carter,NY1 News Anchor,false,Male,0.6,Acting
+388,1434089,Sandra Endo,Sandra Endo,NY1 News Reporter,false,Female,0.98,Acting
+388,1434090,Kandiss Edmundson,Kandiss Edmundson,Madge,false,Female,2.722,Acting
+388,1434092,Agim Coma,Agim Coma,Borova,false,Male,1.394,Acting
+388,88547,John Speredakos,John Speredakos,Porcario,false,Male,3.896,Acting
+388,1434094,Baktash Zaher,Baktash Zaher,Zahir,false,Not set/not specified,0.84,Acting
+388,141438,Ernest Rayford,Ernest Rayford,Men\'s Club Attendant,false,Male,2.72,Acting
+388,1237053,Vincent DiMartino,Vincent DiMartino,Barber,false,Not set/not specified,0.6,Acting
+388,1434096,Julian Niccolini,Julian Niccolini,Four Seasons Maître d\',false,Not set/not specified,0.6,Acting
+388,1434097,Ed Crescimanni,Ed Crescimanni,Edwin,false,Male,1.4,Acting
+388,60677,Brad Leland,Brad Leland,Ronnie,false,Male,2.023,Acting
+388,1795097,Michal Sinnott,Michal Sinnott,Lori Minitte,false,Not set/not specified,3.772,Acting
+388,3158090,Enver Hoxha,Enver Hoxha,Self (archive sound),false,Male,3.263,Acting
+389,1936,Martin Balsam,Martin Balsam,Juror 1,false,Male,5.757,Acting
+389,5247,John Fiedler,John Fiedler,Juror 2,false,Male,16.506,Acting
+389,5248,Lee J. Cobb,Lee J. Cobb,Juror 3,false,Male,26.432,Acting
+389,5249,E.G. Marshall,E.G. Marshall,Juror 4,false,Male,8.343,Acting
+389,5250,Jack Klugman,Jack Klugman,Juror 5,false,Male,4.34,Acting
+389,2651,Edward Binns,Edward Binns,Juror 6,false,Male,4.801,Acting
+389,5251,Jack Warden,Jack Warden,Juror 7,false,Male,13.598,Acting
+389,4958,Henry Fonda,Henry Fonda,Juror 8,false,Male,24.018,Acting
+389,5252,Joseph Sweeney,Joseph Sweeney,Juror 9,false,Male,7.539,Acting
+389,39816,Ed Begley,Ed Begley,Juror 10,false,Male,5.617,Acting
+389,5254,George Voskovec,George Voskovec,Juror 11,false,Male,8.045,Acting
+389,5255,Robert Webber,Robert Webber,Juror 12,false,Male,2.248,Acting
+389,3143,Rudy Bond,Rudy Bond,Judge (uncredited),false,Male,3.345,Acting
+389,2498394,Tom Gorman,Tom Gorman,Stenographer (uncredited),false,Not set/not specified,0.6,Acting
+389,1437464,James Kelly,James Kelly,Guard (uncredited),false,Not set/not specified,0.6,Acting
+389,5257,Billy Nelson,Billy Nelson,Court Clerk (uncredited),false,Not set/not specified,0.6,Acting
+389,5258,John Savoca,John Savoca,The Accused (uncredited),false,Not set/not specified,5.884,Acting
+389,153394,Walter Stocker,Walter Stocker,Man Waiting for Elevator (uncredited),false,Male,3.206,Acting
+389,7304,John Gavin,John Gavin,Man in Court Corridor,false,Male,11.05,Acting
+390,5266,Rüdiger Vogler,Rüdiger Vogler,Phillip Winter,false,Male,1.96,Acting
+390,5274,Patrick Bauchau,Patrick Bauchau,Friedrich Monroe,false,Male,7.895,Acting
+390,1186042,Teresa Salgueiro,Teresa Salgueiro,Herself,false,Female,0.753,Acting
+390,81749,Manoel de Oliveira,Manoel de Oliveira,Himself,false,Male,3.724,Directing
+390,5275,Vasco Sequeira,Vasco Sequeira,Truck Driver,false,Not set/not specified,1.4,Acting
+390,5276,Joel Cunha Ferreira,Joel Cunha Ferreira,Zé,false,Not set/not specified,1.048,Acting
+390,5277,Sofia Bénard da Costa,Sofia Bénard da Costa,Sofia,false,Female,1.473,Acting
+390,5278,Vera Cunha Rocha,Vera Cunha Rocha,Vera,false,Not set/not specified,0.6,Acting
+390,5279,Elisabete Cunha Rocha,Elisabete Cunha Rocha,Beta,false,Not set/not specified,0.98,Acting
+390,5280,Ricardo Colares,Ricardo Colares,Ricardo,false,Not set/not specified,0.6,Acting
+390,5269,João Canijo,João Canijo,Crook,false,Male,0.884,Directing
+391,190,Clint Eastwood,Clint Eastwood,Joe,false,Male,63.342,Acting
+391,16309,Marianne Koch,Marianne Koch,Marisol,false,Female,9.709,Acting
+391,14276,Gian Maria Volonté,Gian Maria Volonté,Ramón Rojo,false,Male,8.809,Acting
+391,16310,Wolfgang Lukschy,Wolfgang Lukschy,John Baxter,false,Male,3.669,Acting
+391,16312,Sieghardt Rupp,Sieghardt Rupp,Esteban Rojo,false,Male,2.647,Acting
+391,14279,Joseph Egger,Joseph Egger,Piripero,false,Male,5.659,Acting
+391,16313,Antonio Prieto,Antonio Prieto,Don Benito Rojo / Don Miguel Rojo,false,Male,1.181,Acting
+391,16311,José Calvo,José Calvo,Silvanito,false,Male,1.603,Acting
+391,16314,Margarita Lozano,Margarita Lozano,Consuelo Baxter,false,Female,2.608,Acting
+391,16316,Daniel Martín,Daniel Martín,Julián,false,Male,0.65,Acting
+391,4661,Benito Stefanelli,Benito Stefanelli,Rubio,false,Male,10.445,Acting
+391,16318,Mario Brega,Mario Brega,Chico,false,Male,10.088,Acting
+391,16317,Bruno Carotenuto,Bruno Carotenuto,Antonio Baxter,false,Male,6.028,Acting
+391,49895,Aldo Sambrell,Aldo Sambrell,Rojo Gang Member,false,Male,6.167,Acting
+391,100930,Lorenzo Robledo,Lorenzo Robledo,Baxter Gunman #1 (uncredited),false,Male,2.164,Acting
+391,102096,Antonio Molino Rojo,Antonio Molino Rojo,Baxter Gunman #2 (uncredited),false,Male,1.663,Acting
+391,30963,Luis Barboo,Luis Barboo,Baxter Gunman #3 (uncredited),false,Male,4.288,Acting
+391,118121,Juan Cortés,Juan Cortés,Cavalry Captain (uncredited),false,Male,0.84,Acting
+391,2336682,William R. Thompkins,William R. Thompkins,Baxter Gunman (uncredited),false,Male,0.6,Acting
+391,103517,Fernando Sánchez Polack,Fernando Sánchez Polack,Rojo Gang Member Crushed by Wine Cask (uncredited),false,Male,0.84,Acting
+391,72889,José Canalejas,José Canalejas,Rojo Gang Member (uncredited),false,Male,1.22,Acting
+391,230674,Jose Halufi,Jose Halufi,Rojo Gang Member (uncredited),false,Male,0.984,Acting
+391,1019857,Nino Del Arco,Nino Del Arco,Jesus (uncredited),false,Male,0.84,Acting
+391,1172752,Antonio Moreno,Antonio Moreno,Juan De Dios (uncredited),false,Not set/not specified,0.6,Acting
+391,72888,Frank Braña,Frank Braña,Baxter Gunman (uncredited),false,Male,4.432,Acting
+391,228494,Álvaro de Luna,Álvaro de Luna,Rojo Gang Member (uncredited),false,Male,1.302,Acting
+391,2505269,Lee Miller,Lee Miller,Man at Bar (uncredited),false,Not set/not specified,0.6,Acting
+391,237471,José Orjas,José Orjas,(uncredited),false,Male,0.84,Acting
+391,991415,Manuel Peña,Manuel Peña,(uncredited),false,Male,1.012,Acting
+391,100719,Antonio Pica,Antonio Pica,Rojo Gang Member (uncredited),false,Male,5.312,Acting
+391,1056173,Julio Pérez Tabernero,Julio Pérez Tabernero,Baxter Gunman (uncredited),false,Male,0.732,Acting
+391,228497,José Riesgo,José Riesgo,Mexican Cavalry Captain (uncredited),false,Male,0.6,Acting
+391,1003179,Umberto Spadaro,Umberto Spadaro,Miguel - Rojo Gunman (uncredited),false,Male,1.216,Acting
+391,2505030,Peter Tevis,Peter Tevis,The Balladeer (voice) (uncredited),false,Not set/not specified,0.6,Sound
+391,1567171,Edmondo Tieghi,Edmondo Tieghi,Mexican Soldier (uncredited),false,Not set/not specified,1.96,Acting
+391,234647,Antonio Vico,Antonio Vico,(uncredited),false,Male,0.84,Acting
+391,2337471,Luis Rodríguez,Luis Rodríguez,Rojo Gang Member (uncredited),false,Not set/not specified,0.6,Acting
+392,1137,Juliette Binoche,Juliette Binoche,Vianne Rocher,false,Female,20.675,Acting
+392,658,Alfred Molina,Alfred Molina,Count Paul de Reynaud,false,Male,38.535,Acting
+392,85,Johnny Depp,Johnny Depp,Roux,false,Male,60.372,Acting
+392,5309,Judi Dench,Judi Dench,Armande Voizin,false,Female,15.266,Acting
+392,5320,Leslie Caron,Leslie Caron,Mrs. Audel,false,Female,5.384,Acting
+392,530,Carrie-Anne Moss,Carrie-Anne Moss,Caroline Clairmont,false,Female,29.253,Acting
+392,5314,Aurelien Parent Koenig,Aurelien Parent Koenig,Luc Clairmont,false,Not set/not specified,4.451,Acting
+392,5313,Lena Olin,Lena Olin,Josephine Muscat,false,Female,23.359,Acting
+392,53,Peter Stormare,Peter Stormare,Serge Muscat,false,Male,27.228,Acting
+392,8937,John Wood,John Wood,Guillaume Blerot,false,Male,7.998,Acting
+392,5310,Antonio Gil,Antonio Gil,Jean-Marc Drou,false,Not set/not specified,5.691,Acting
+392,5311,Hélène Cardona,Hélène Cardona,Francoise Drou,false,Female,1.725,Acting
+392,5312,Hugh O\'Conor,Hugh O\'Conor,Father Henri,false,Male,4.245,Acting
+392,5315,Victoire Thivisol,Victoire Thivisol,Anouk Rocher,false,Female,3.598,Acting
+392,5317,Gaelan Connell,Gaelan Connell,Didi Drou,false,Male,3.223,Acting
+392,5318,Élisabeth Commelin,Élisabeth Commelin,Yvette Marceau,false,Female,1.315,Acting
+392,5319,Ron Cook,Ron Cook,Alphonse Marceau,false,Male,5.159,Acting
+392,83192,Michèle Gleizer,Michèle Gleizer,Mrs. Rivet,false,Female,0.706,Acting
+392,1240821,Christianne Oliveira,Christianne Oliveira,Chitza,false,Not set/not specified,2.672,Acting
+392,1559500,Guillaume Tardieu,Guillaume Tardieu,Baptiste Marceau,false,Not set/not specified,0.6,Acting
+392,5316,Harrison Pratt,Harrison Pratt,Dedou Drou,false,Not set/not specified,0.6,Acting
+392,1559502,Marion Hauducoeur,Marion Hauducoeur,Gati,false,Not set/not specified,0.6,Acting
+393,139,Uma Thurman,Uma Thurman,Beatrix \'The Bride\' Kiddo,false,Female,50.014,Acting
+393,141,David Carradine,David Carradine,Bill,false,Male,16.025,Acting
+393,589,Daryl Hannah,Daryl Hannah,Elle Driver,false,Female,26.68,Acting
+393,147,Michael Madsen,Michael Madsen,Budd,false,Male,17.902,Acting
+393,240171,Gordon Liu Chia-Hui,Gordon Liu Chia-Hui,Pai Mei,false,Male,10.81,Acting
+393,2536,Michael Parks,Michael Parks,Esteban Vihaio,false,Male,8.567,Acting
+393,6585,Perla Haney-Jardine,Perla Haney-Jardine,B.B. Kiddo,false,Female,13.349,Acting
+393,34721,Larry Bishop,Larry Bishop,Larry Gomez,false,Male,4.607,Acting
+393,2231,Samuel L. Jackson,Samuel L. Jackson,Rufus,false,Male,68.588,Acting
+393,140,Lucy Liu,Lucy Liu,O-Ren Ishii,false,Female,35.96,Acting
+393,2535,Vivica A. Fox,Vivica A. Fox,Vernita Green,false,Female,9.755,Acting
+393,2539,Julie Dreyfus,Julie Dreyfus,Sofie Fatale,false,Female,10.078,Acting
+393,6446,Christopher Allen Nelson,Christopher Allen Nelson,Tommy Plympton,false,Male,1.61,Acting
+393,1052339,Helen Kim,Helen Kim,Karen Kim,false,Female,2.207,Acting
+393,565498,Laura Cayouette,Laura Cayouette,Rocket,false,Female,2.085,Acting
+393,2541,Jun Kunimura,Jun Kunimura,Boss Tanaka,false,Male,8.716,Acting
+393,1369182,Goro Daimon,Goro Daimon,Boss Honda,false,Male,1.284,Acting
+393,2542,Kazuki Kitamura,Kazuki Kitamura,Boss Koji / Crazy 88,false,Male,13.461,Acting
+393,2544,Akaji Maro,Akaji Maro,Boss Ozawah,false,Male,4.593,Acting
+393,9193,Shun Sugata,Shun Sugata,Boss Benta,false,Male,9.317,Acting
+393,1314989,Sachiko Fujii,Sachiko Fujii,"The 5, 6, 7, 8\'s",false,Female,1.976,Acting
+393,58616,Sakichi Satō,Sakichi Satō,Charlie Brown,false,Male,2.702,Acting
+393,115659,Yoji Tanaka,Yoji Tanaka,Crazy 88,false,Male,7.48,Acting
+393,121751,Sō Yamanaka,Sō Yamanaka,Crazy 88,false,Male,1.581,Acting
+393,2538,Chiaki Kuriyama,Chiaki Kuriyama,Gogo,false,Female,13.536,Acting
+393,1366708,Claire Smithies,Claire Smithies,Clarita,false,Female,8.827,Acting
+393,87662,Issey Takahashi,Issey Takahashi,Crazy 88,false,Male,3.851,Acting
+393,5695,Sid Haig,Sid Haig,Bartender,false,Male,16.674,Acting
+393,30044,Bo Svenson,Bo Svenson,Reverend Harmony,false,Male,8.489,Acting
+393,171538,Clark Middleton,Clark Middleton,Ernie,false,Male,4.304,Acting
+393,2234,Michael Bowen,Michael Bowen,Buck,false,Male,5.146,Acting
+393,91782,Jeannie Epper,Jeannie Epper,Mrs. Harmony,false,Female,3.857,Crew
+393,116635,Chia-Hui Liu,Chia-Hui Liu,Johnny Mo - Pai Mei,false,Not set/not specified,0.6,Acting
+393,4026,Ambrosia Kelley,Ambrosia Kelley,Nikki,false,Female,1.954,Acting
+395,5411,Sanaa Lathan,Sanaa Lathan,Alexa Woods,false,Female,26.95,Acting
+395,5412,Raoul Bova,Raoul Bova,Sebastian de Rosa,false,Male,24.667,Acting
+395,2714,Lance Henriksen,Lance Henriksen,Charles Bishop Weyland,false,Male,30.884,Acting
+395,1125,Ewen Bremner,Ewen Bremner,Graeme Miller,false,Male,8.544,Acting
+395,5414,Colin Salmon,Colin Salmon,Maxwell Stafford,false,Male,14.028,Acting
+395,2478,Tommy Flanagan,Tommy Flanagan,Mark Verheiden,false,Male,22.195,Acting
+395,5415,Joseph Rye,Joseph Rye,Joe Connors,false,Male,8.001,Acting
+395,5416,Agathe de La Boulaye,Agathe de La Boulaye,Adele Rousseau,false,Female,8.204,Acting
+395,5417,Carsten Norgaard,Carsten Norgaard,Rusten Quinn,false,Male,10.947,Acting
+395,5421,Sam Troughton,Sam Troughton,Thomas Parks,false,Male,7.85,Acting
+395,53348,Petr Jákl,Petr Jákl,Stone,false,Male,4.96,Acting
+395,1483841,Pavel Bezděk,Pavel Bezděk,Bass,false,Male,1.96,Crew
+395,176199,Kieran Bew,Kieran Bew,Klaus,false,Male,5.468,Acting
+395,281336,Carsten Voigt,Carsten Voigt,Mikkel,false,Male,1.708,Acting
+395,137332,Jan Filipenský,Jan Filipenský,Boris,false,Male,9.313,Acting
+395,101923,Adrian Bouchet,Adrian Bouchet,Sven,false,Not set/not specified,8.074,Acting
+395,25088,Andy Lucas,Andy Lucas,Juan Ramirez,false,Male,1.426,Acting
+395,68224,Liz May Brice,Liz May Brice,Supervisor,false,Female,9.61,Acting
+395,1010055,Glenn Conroy,Glenn Conroy,Technician,false,Not set/not specified,1.12,Acting
+395,1229174,Eoin McCarthy,Eoin McCarthy,Karl,false,Not set/not specified,1.166,Acting
+395,1086530,Karima McAdams,Karima McAdams,Sacrificial Maiden,false,Female,7.003,Acting
+395,109870,Tom Woodruff Jr.,Tom Woodruff Jr.,Grid,false,Male,4.938,Acting
+395,946696,Ian Whyte,Ian Whyte,Scar,false,Male,9.142,Acting
+395,1477143,Joseph Balderrama,Joseph Balderrama,High Priest (uncredited),false,Male,4.446,Acting
+395,958540,Alec Gillis,Alec Gillis,Technician (uncredited),false,Male,4.687,Writing
+395,1654474,Alex Lorre,Alex Lorre,Spaceship Crew (uncredited),false,Male,1.094,Acting
+395,34549,Jack Pierce,Jack Pierce,Co-Pilot (uncredited),false,Male,0.6,Acting
+396,3635,Elizabeth Taylor,Elizabeth Taylor,Martha,false,Female,19.572,Acting
+396,5341,Richard Burton,Richard Burton,George,false,Male,12.236,Acting
+396,18364,George Segal,George Segal,Nick,false,Male,13.468,Acting
+396,18365,Sandy Dennis,Sandy Dennis,Honey,false,Female,8.956,Acting
+396,17672,Agnes Flanagan,Agnes Flanagan,Roadhouse Waitress (uncredited),false,Female,1.788,Costume & Make-Up
+396,18372,Frank Flanagan,Frank Flanagan,Roadhouse Manager (uncredited),false,Not set/not specified,0.6,Lighting
+397,5344,Meg Ryan,Meg Ryan,Kate,false,Female,22.404,Acting
+397,8945,Kevin Kline,Kevin Kline,Luc Teyssier,false,Male,31.341,Acting
+397,16327,Timothy Hutton,Timothy Hutton,Charlie,false,Male,17.421,Acting
+397,1003,Jean Reno,Jean Reno,Inspector Jean-Paul Cardon,false,Male,33.322,Acting
+397,16328,Adam Brooks,Adam Brooks,Perfect Passenger,false,Male,4.561,Writing
+397,33161,François Cluzet,François Cluzet,Bob,false,Male,9.822,Acting
+397,20018,Suzan Anbeh,Suzan Anbeh,Juliette,false,Female,4.757,Acting
+397,23647,Renée Humphrey,Renée Humphrey,Lilly,false,Female,3.623,Acting
+398,1233,Philip Seymour Hoffman,Philip Seymour Hoffman,Truman Capote,false,Male,14.579,Acting
+398,2229,Catherine Keener,Catherine Keener,Harper Lee,false,Female,30.561,Acting
+398,5365,Clifton Collins Jr.,Clifton Collins Jr.,Perry Smith,false,Male,8.258,Acting
+398,21089,Bruce Greenwood,Bruce Greenwood,Jack Dunphy,false,Male,8.797,Acting
+398,12438,Bob Balaban,Bob Balaban,William Shawn,false,Male,11.75,Acting
+398,1236,Mark Pellegrino,Mark Pellegrino,Dick Hickock,false,Male,14.372,Acting
+398,3041,Marshall Bell,Marshall Bell,Warden Marshall Krutch,false,Male,7.394,Acting
+398,39388,Amy Ryan,Amy Ryan,Marie Dewey,false,Female,25.313,Acting
+398,109899,Bess Meyer,Bess Meyer,Linda Murchak,false,Female,7.467,Acting
+398,2955,Chris Cooper,Chris Cooper,Alvin Dewey,false,Male,13.273,Acting
+398,5348,Allie Mickelson,Allie Mickelson,Laura Kinney,false,Not set/not specified,0.6,Acting
+398,5349,Craig Archibald,Craig Archibald,Christopher,false,Not set/not specified,0.98,Acting
+398,5350,Bronwen Coleman,Bronwen Coleman,Barbara,false,Not set/not specified,0.6,Acting
+398,5351,Kate Shindle,Kate Shindle,Rose,false,Female,1.22,Acting
+398,5352,David Wilson Barnes,David Wilson Barnes,Grayson,false,Male,2.938,Acting
+398,5353,Michael J. Burg,Michael J. Burg,Williams,false,Male,0.6,Acting
+398,5354,Kwesi Ameyaw,Kwesi Ameyaw,Porter,false,Male,3.444,Acting
+398,5355,Andrew Farago,Andrew Farago,Car Rental Agent,false,Not set/not specified,0.6,Acting
+398,5364,Kelci Stephenson,Kelci Stephenson,Nancy Clutter,false,Not set/not specified,0.6,Acting
+398,114894,C. Ernst Harth,C. Ernst Harth,Lowell Lee Andrews,false,Male,1.964,Acting
+398,1179519,Kjartan Hewitt,Kjartan Hewitt,Danny Burke,false,Male,3.844,Acting
+400,1271,Andy García,Andy García,Jimmy \'The Saint\' Tosnia,false,Male,40.773,Acting
+400,1062,Christopher Lloyd,Christopher Lloyd,Pieces,false,Male,34.425,Acting
+400,4520,William Forsythe,William Forsythe,Franchise,false,Male,16.948,Acting
+400,5502,Bill Nunn,Bill Nunn,Easy Wind,false,Male,2.47,Acting
+400,4515,Treat Williams,Treat Williams,Critical Bill,false,Male,25.879,Acting
+400,5251,Jack Warden,Jack Warden,Joe Heff,false,Male,13.598,Acting
+400,884,Steve Buscemi,Steve Buscemi,Mister Shhh,false,Male,29.075,Acting
+400,826,Fairuza Balk,Fairuza Balk,Lucinda,false,Female,20.149,Acting
+400,5503,Gabrielle Anwar,Gabrielle Anwar,Dagney,false,Female,22.028,Acting
+400,4690,Christopher Walken,Christopher Walken,The Man with the Plan,false,Male,25.77,Acting
+400,5504,Michael Nicolosi,Michael Nicolosi,Bernard,false,Male,3.553,Acting
+400,8854,Bill Cobbs,Bill Cobbs,Malt,false,Male,14.178,Acting
+400,3041,Marshall Bell,Marshall Bell,Lt. Atwater,false,Male,7.394,Acting
+400,2683,Glenn Plummer,Glenn Plummer,Baby Sinister,false,Male,10.484,Acting
+400,130129,Don Stark,Don Stark,Gus,false,Male,12.497,Acting
+400,65744,Harris Laskawy,Harris Laskawy,Ellie,false,Male,2.327,Acting
+400,1542,Willie Garson,Willie Garson,Cuffy,false,Male,5.808,Acting
+400,5601,Sarah Trigger,Sarah Trigger,Meg,false,Female,9.124,Acting
+400,199303,David Stratton,David Stratton,Alex,false,Male,0.98,Acting
+400,35597,Jenny McCarthy-Wahlberg,Jenny McCarthy-Wahlberg,Blonde Nurse,false,Female,27.581,Acting
+400,1896,Don Cheadle,Don Cheadle,Rooster,false,Male,25.343,Acting
+400,8396,Tom \'Tiny\' Lister Jr.,Tom \'Tiny\' Lister Jr.,House,false,Male,11.587,Acting
+400,26044,Bill Erwin,Bill Erwin,70-Year-Old Man,false,Male,3.599,Acting
+400,2813640,Christopher C. Romero,Christopher C. Romero,Montirez (uncredited),false,Male,0.6,Acting
