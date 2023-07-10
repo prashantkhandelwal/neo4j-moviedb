@@ -1,0 +1,830 @@
+movieid,genreid,genrename
+3001,35,Comedy
+3001,80,Crime
+3002,12,Adventure
+3002,878,Science Fiction
+3002,10770,TV Movie
+3003,12,Adventure
+3003,14,Fantasy
+3003,878,Science Fiction
+3003,10770,TV Movie
+3004,35,Comedy
+3006,14,Fantasy
+3006,27,Horror
+3007,18,Drama
+3007,35,Comedy
+3007,878,Science Fiction
+3007,10749,Romance
+3008,18,Drama
+3008,10749,Romance
+3009,80,Crime
+3009,18,Drama
+3010,18,Drama
+3010,36,History
+3010,10752,War
+3011,35,Comedy
+3012,18,Drama
+3012,10752,War
+3013,80,Crime
+3013,53,Thriller
+3014,53,Thriller
+3015,27,Horror
+3015,878,Science Fiction
+3016,18,Drama
+3016,27,Horror
+3016,878,Science Fiction
+3017,18,Drama
+3017,27,Horror
+3017,878,Science Fiction
+3019,27,Horror
+3019,878,Science Fiction
+3021,27,Horror
+3021,9648,Mystery
+3022,18,Drama
+3022,27,Horror
+3022,878,Science Fiction
+3023,35,Comedy
+3023,27,Horror
+3023,878,Science Fiction
+3024,53,Thriller
+3024,10770,TV Movie
+3025,27,Horror
+3025,878,Science Fiction
+3025,10749,Romance
+3026,18,Drama
+3026,27,Horror
+3026,10770,TV Movie
+3027,878,Science Fiction
+3027,27,Horror
+3028,35,Comedy
+3028,27,Horror
+3028,878,Science Fiction
+3029,878,Science Fiction
+3030,14,Fantasy
+3030,53,Thriller
+3030,878,Science Fiction
+3031,12,Adventure
+3031,27,Horror
+3031,878,Science Fiction
+3032,28,Action
+3032,18,Drama
+3032,10770,TV Movie
+3033,18,Drama
+3034,35,Comedy
+3035,18,Drama
+3035,27,Horror
+3035,878,Science Fiction
+3036,18,Drama
+3036,27,Horror
+3036,878,Science Fiction
+3036,10749,Romance
+3037,18,Drama
+3037,10749,Romance
+3037,53,Thriller
+3040,14,Fantasy
+3040,28,Action
+3040,53,Thriller
+3041,10749,Romance
+3041,18,Drama
+3041,35,Comedy
+3042,27,Horror
+3042,878,Science Fiction
+3042,10770,TV Movie
+3043,27,Horror
+3048,99,Documentary
+3049,35,Comedy
+3049,12,Adventure
+3050,35,Comedy
+3050,10751,Family
+3050,14,Fantasy
+3051,80,Crime
+3051,27,Horror
+3051,9648,Mystery
+3052,35,Comedy
+3053,35,Comedy
+3053,27,Horror
+3054,28,Action
+3054,35,Comedy
+3055,18,Drama
+3055,10749,Romance
+3056,10770,TV Movie
+3056,18,Drama
+3056,27,Horror
+3056,878,Science Fiction
+3056,9648,Mystery
+3059,18,Drama
+3059,36,History
+3060,18,Drama
+3060,10749,Romance
+3060,10752,War
+3061,18,Drama
+3061,10749,Romance
+3062,35,Comedy
+3062,10402,Music
+3062,10749,Romance
+3063,35,Comedy
+3063,10752,War
+3064,14,Fantasy
+3064,35,Comedy
+3064,10749,Romance
+3065,35,Comedy
+3065,878,Science Fiction
+3066,27,Horror
+3066,16,Animation
+3066,10770,TV Movie
+3067,27,Horror
+3067,53,Thriller
+3067,10770,TV Movie
+3067,878,Science Fiction
+3068,27,Horror
+3068,10770,TV Movie
+3068,878,Science Fiction
+3069,27,Horror
+3069,878,Science Fiction
+3069,53,Thriller
+3070,27,Horror
+3070,10751,Family
+3070,10770,TV Movie
+3071,18,Drama
+3071,10770,TV Movie
+3071,878,Science Fiction
+3072,27,Horror
+3072,878,Science Fiction
+3073,35,Comedy
+3073,27,Horror
+3074,27,Horror
+3074,14,Fantasy
+3074,878,Science Fiction
+3075,27,Horror
+3075,878,Science Fiction
+3076,27,Horror
+3077,27,Horror
+3077,878,Science Fiction
+3078,35,Comedy
+3078,10749,Romance
+3079,27,Horror
+3079,878,Science Fiction
+3080,35,Comedy
+3080,10402,Music
+3080,10749,Romance
+3081,18,Drama
+3082,35,Comedy
+3082,18,Drama
+3083,35,Comedy
+3083,18,Drama
+3084,18,Drama
+3084,10749,Romance
+3085,35,Comedy
+3085,18,Drama
+3085,10749,Romance
+3086,35,Comedy
+3086,10749,Romance
+3087,18,Drama
+3087,10402,Music
+3088,37,Western
+3089,37,Western
+3089,12,Adventure
+3089,18,Drama
+3089,10749,Romance
+3090,12,Adventure
+3090,18,Drama
+3090,37,Western
+3092,80,Crime
+3092,18,Drama
+3092,53,Thriller
+3093,80,Crime
+3093,9648,Mystery
+3093,53,Thriller
+3095,18,Drama
+3096,80,Crime
+3096,53,Thriller
+3097,10752,War
+3097,18,Drama
+3097,36,History
+3097,12,Adventure
+3097,10749,Romance
+3097,53,Thriller
+3098,10752,War
+3098,18,Drama
+3098,36,History
+3098,12,Adventure
+3098,35,Comedy
+3098,10749,Romance
+3098,53,Thriller
+3099,10752,War
+3099,18,Drama
+3099,12,Adventure
+3099,10749,Romance
+3099,53,Thriller
+3100,18,Drama
+3100,36,History
+3101,35,Comedy
+3101,80,Crime
+3102,18,Drama
+3103,27,Horror
+3104,27,Horror
+3104,878,Science Fiction
+3105,18,Drama
+3105,27,Horror
+3105,878,Science Fiction
+3107,28,Action
+3107,878,Science Fiction
+3109,10749,Romance
+3109,35,Comedy
+3109,18,Drama
+3110,18,Drama
+3110,37,Western
+3111,18,Drama
+3111,10402,Music
+3111,10749,Romance
+3112,80,Crime
+3112,18,Drama
+3112,53,Thriller
+3113,35,Comedy
+3114,37,Western
+3115,878,Science Fiction
+3115,28,Action
+3115,14,Fantasy
+3116,18,Drama
+3117,27,Horror
+3117,878,Science Fiction
+3118,35,Comedy
+3118,27,Horror
+3119,14,Fantasy
+3121,18,Drama
+3121,10402,Music
+3121,35,Comedy
+3122,27,Horror
+3122,878,Science Fiction
+3124,27,Horror
+3124,878,Science Fiction
+3125,27,Horror
+3125,878,Science Fiction
+3126,16,Animation
+3126,35,Comedy
+3127,27,Horror
+3127,878,Science Fiction
+3131,18,Drama
+3131,36,History
+3131,80,Crime
+3132,28,Action
+3132,12,Adventure
+3132,35,Comedy
+3132,53,Thriller
+3133,18,Drama
+3133,80,Crime
+3134,80,Crime
+3134,18,Drama
+3134,10749,Romance
+3134,53,Thriller
+3144,35,Comedy
+3144,27,Horror
+3144,10402,Music
+3145,27,Horror
+3145,878,Science Fiction
+3146,28,Action
+3146,27,Horror
+3146,878,Science Fiction
+3147,99,Documentary
+3147,27,Horror
+3148,28,Action
+3148,35,Comedy
+3148,80,Crime
+3149,80,Crime
+3149,27,Horror
+3149,878,Science Fiction
+3149,37,Western
+3150,16,Animation
+3150,878,Science Fiction
+3151,35,Comedy
+3151,27,Horror
+3152,35,Comedy
+3152,27,Horror
+3159,27,Horror
+3160,27,Horror
+3160,878,Science Fiction
+3161,99,Documentary
+3162,878,Science Fiction
+3162,28,Action
+3162,27,Horror
+3163,27,Horror
+3164,27,Horror
+3164,878,Science Fiction
+3165,27,Horror
+3165,878,Science Fiction
+3166,27,Horror
+3166,878,Science Fiction
+3168,18,Drama
+3170,16,Animation
+3170,18,Drama
+3170,10751,Family
+3171,16,Animation
+3171,35,Comedy
+3172,35,Comedy
+3172,80,Crime
+3173,53,Thriller
+3173,28,Action
+3173,80,Crime
+3173,18,Drama
+3174,16,Animation
+3175,18,Drama
+3175,10749,Romance
+3175,10752,War
+3176,18,Drama
+3176,53,Thriller
+3176,28,Action
+3177,28,Action
+3177,53,Thriller
+3178,18,Drama
+3179,16,Animation
+3179,35,Comedy
+3199,27,Horror
+3200,35,Comedy
+3200,14,Fantasy
+3201,28,Action
+3201,27,Horror
+3201,878,Science Fiction
+3202,27,Horror
+3202,878,Science Fiction
+3203,27,Horror
+3203,878,Science Fiction
+3203,18,Drama
+3204,99,Documentary
+3204,27,Horror
+3205,27,Horror
+3205,878,Science Fiction
+3206,27,Horror
+3206,878,Science Fiction
+3208,27,Horror
+3208,878,Science Fiction
+3209,27,Horror
+3210,27,Horror
+3210,878,Science Fiction
+3214,27,Horror
+3214,28,Action
+3215,35,Comedy
+3215,27,Horror
+3216,27,Horror
+3216,878,Science Fiction
+3217,35,Comedy
+3217,27,Horror
+3218,35,Comedy
+3218,14,Fantasy
+3218,27,Horror
+3286,99,Documentary
+3287,99,Documentary
+3288,35,Comedy
+3288,878,Science Fiction
+3290,27,Horror
+3291,18,Drama
+3291,36,History
+3293,18,Drama
+3305,99,Documentary
+3306,27,Horror
+3306,878,Science Fiction
+3309,80,Crime
+3309,18,Drama
+3343,18,Drama
+3343,14,Fantasy
+3343,27,Horror
+3343,878,Science Fiction
+3344,28,Action
+3345,27,Horror
+3346,27,Horror
+3346,35,Comedy
+3346,878,Science Fiction
+3347,35,Comedy
+3347,27,Horror
+3348,99,Documentary
+3349,27,Horror
+3350,27,Horror
+3350,28,Action
+3351,99,Documentary
+3361,35,Comedy
+3361,18,Drama
+3396,35,Comedy
+3396,99,Documentary
+3397,18,Drama
+3399,18,Drama
+3400,18,Drama
+3402,18,Drama
+3402,53,Thriller
+3403,80,Crime
+3403,53,Thriller
+3404,18,Drama
+3404,53,Thriller
+3405,35,Comedy
+3405,18,Drama
+3405,10749,Romance
+3406,27,Horror
+3407,18,Drama
+3408,27,Horror
+3409,27,Horror
+3410,35,Comedy
+3410,27,Horror
+3410,878,Science Fiction
+3411,35,Comedy
+3411,10751,Family
+3412,27,Horror
+3413,27,Horror
+3413,878,Science Fiction
+3414,27,Horror
+3416,27,Horror
+3417,18,Drama
+3417,878,Science Fiction
+3418,18,Drama
+3418,878,Science Fiction
+3419,9648,Mystery
+3419,53,Thriller
+3420,35,Comedy
+3421,18,Drama
+3422,18,Drama
+3423,18,Drama
+3423,10749,Romance
+3424,18,Drama
+3424,10749,Romance
+3425,18,Drama
+3425,10749,Romance
+3426,10749,Romance
+3426,18,Drama
+3426,35,Comedy
+3427,80,Crime
+3427,18,Drama
+3427,10749,Romance
+3432,80,Crime
+3432,53,Thriller
+3437,18,Drama
+3469,18,Drama
+3469,10749,Romance
+3470,18,Drama
+3471,12,Adventure
+3472,80,Crime
+3472,18,Drama
+3472,53,Thriller
+3473,12,Adventure
+3473,14,Fantasy
+3474,14,Fantasy
+3474,878,Science Fiction
+3475,18,Drama
+3475,36,History
+3476,18,Drama
+3476,10749,Romance
+3477,35,Comedy
+3477,80,Crime
+3477,27,Horror
+3478,18,Drama
+3478,36,History
+3479,53,Thriller
+3479,80,Crime
+3480,18,Drama
+3480,36,History
+3481,80,Crime
+3481,53,Thriller
+3481,27,Horror
+3482,53,Thriller
+3482,10752,War
+3482,28,Action
+3483,12,Adventure
+3483,80,Crime
+3483,27,Horror
+3483,878,Science Fiction
+3483,53,Thriller
+3484,12,Adventure
+3484,27,Horror
+3484,878,Science Fiction
+3485,80,Crime
+3485,12,Adventure
+3485,27,Horror
+3485,53,Thriller
+3486,35,Comedy
+3486,27,Horror
+3488,28,Action
+3488,27,Horror
+3489,80,Crime
+3489,9648,Mystery
+3489,53,Thriller
+3490,14,Fantasy
+3490,27,Horror
+3490,878,Science Fiction
+3490,28,Action
+3508,16,Animation
+3509,16,Animation
+3509,878,Science Fiction
+3509,53,Thriller
+3510,18,Drama
+3511,53,Thriller
+3511,18,Drama
+3511,27,Horror
+3512,28,Action
+3512,53,Thriller
+3513,12,Adventure
+3513,28,Action
+3513,36,History
+3513,10752,War
+3514,99,Documentary
+3515,18,Drama
+3515,28,Action
+3515,53,Thriller
+3515,80,Crime
+3516,99,Documentary
+3517,99,Documentary
+3518,99,Documentary
+3519,99,Documentary
+3520,18,Drama
+3520,35,Comedy
+3521,80,Crime
+3521,53,Thriller
+3521,9648,Mystery
+3522,35,Comedy
+3522,18,Drama
+3523,37,Western
+3524,18,Drama
+3524,36,History
+3525,35,Comedy
+3525,10749,Romance
+3525,18,Drama
+3526,18,Drama
+3527,18,Drama
+3527,37,Western
+3528,35,Comedy
+3528,14,Fantasy
+3529,35,Comedy
+3529,80,Crime
+3529,9648,Mystery
+3536,10752,War
+3536,18,Drama
+3536,28,Action
+3536,53,Thriller
+3537,18,Drama
+3537,10402,Music
+3538,18,Drama
+3539,18,Drama
+3540,18,Drama
+3541,28,Action
+3541,53,Thriller
+3541,80,Crime
+3542,18,Drama
+3542,10749,Romance
+3543,35,Comedy
+3543,18,Drama
+3544,18,Drama
+3544,53,Thriller
+3545,18,Drama
+3545,37,Western
+3545,12,Adventure
+3546,80,Crime
+3546,53,Thriller
+3547,18,Drama
+3547,10749,Romance
+3547,53,Thriller
+3548,18,Drama
+3548,53,Thriller
+3549,18,Drama
+3554,18,Drama
+3554,10749,Romance
+3555,35,Comedy
+3556,80,Crime
+3556,18,Drama
+3557,35,Comedy
+3558,18,Drama
+3559,28,Action
+3559,18,Drama
+3560,27,Horror
+3561,27,Horror
+3562,35,Comedy
+3562,18,Drama
+3563,35,Comedy
+3563,10749,Romance
+3564,80,Crime
+3564,18,Drama
+3565,18,Drama
+3565,53,Thriller
+3572,99,Documentary
+3573,10749,Romance
+3573,35,Comedy
+3573,18,Drama
+3574,35,Comedy
+3574,80,Crime
+3574,27,Horror
+3574,9648,Mystery
+3574,878,Science Fiction
+3574,53,Thriller
+3575,27,Horror
+3575,9648,Mystery
+3575,878,Science Fiction
+3575,53,Thriller
+3576,18,Drama
+3576,53,Thriller
+3576,35,Comedy
+3576,80,Crime
+3577,18,Drama
+3577,53,Thriller
+3578,878,Science Fiction
+3579,27,Horror
+3579,53,Thriller
+3580,80,Crime
+3580,18,Drama
+3580,9648,Mystery
+3581,27,Horror
+3582,35,Comedy
+3582,10749,Romance
+3583,18,Drama
+3584,18,Drama
+3585,12,Adventure
+3585,878,Science Fiction
+3586,18,Drama
+3586,35,Comedy
+3587,14,Fantasy
+3587,35,Comedy
+3587,10751,Family
+3588,18,Drama
+3589,14,Fantasy
+3589,35,Comedy
+3589,878,Science Fiction
+3590,12,Adventure
+3590,878,Science Fiction
+3591,12,Adventure
+3591,14,Fantasy
+3592,14,Fantasy
+3592,28,Action
+3592,12,Adventure
+3592,878,Science Fiction
+3593,12,Adventure
+3593,27,Horror
+3593,878,Science Fiction
+3594,53,Thriller
+3594,18,Drama
+3594,9648,Mystery
+3595,28,Action
+3595,53,Thriller
+3596,18,Drama
+3596,878,Science Fiction
+3597,27,Horror
+3597,53,Thriller
+3597,9648,Mystery
+3598,12,Adventure
+3598,14,Fantasy
+3598,18,Drama
+3598,9648,Mystery
+3600,27,Horror
+3600,9648,Mystery
+3600,53,Thriller
+3602,27,Horror
+3603,27,Horror
+3603,35,Comedy
+3604,878,Science Fiction
+3604,12,Adventure
+3631,18,Drama
+3632,28,Action
+3632,878,Science Fiction
+3635,18,Drama
+3635,10749,Romance
+3638,35,Comedy
+3638,10749,Romance
+3638,18,Drama
+3640,10749,Romance
+3640,18,Drama
+3640,35,Comedy
+3641,36,History
+3641,18,Drama
+3641,10402,Music
+3679,16,Animation
+3679,14,Fantasy
+3679,878,Science Fiction
+3681,35,Comedy
+3681,10749,Romance
+3682,18,Drama
+3682,10402,Music
+3683,10752,War
+3683,18,Drama
+3683,36,History
+3684,28,Action
+3684,12,Adventure
+3684,878,Science Fiction
+3685,37,Western
+3685,12,Adventure
+3686,37,Western
+3686,12,Adventure
+3687,35,Comedy
+3687,878,Science Fiction
+3688,35,Comedy
+3688,878,Science Fiction
+3689,12,Adventure
+3690,18,Drama
+3691,53,Thriller
+3692,28,Action
+3692,12,Adventure
+3693,28,Action
+3694,35,Comedy
+3695,28,Action
+3695,35,Comedy
+3696,18,Drama
+3697,35,Comedy
+3697,37,Western
+3698,37,Western
+3698,35,Comedy
+3699,9648,Mystery
+3699,53,Thriller
+3700,27,Horror
+3701,28,Action
+3701,80,Crime
+3701,53,Thriller
+3703,35,Comedy
+3703,18,Drama
+3716,12,Adventure
+3716,35,Comedy
+3716,10749,Romance
+3717,28,Action
+3717,12,Adventure
+3763,27,Horror
+3763,18,Drama
+3764,18,Drama
+3766,80,Crime
+3766,18,Drama
+3766,9648,Mystery
+3766,53,Thriller
+3767,18,Drama
+3767,10749,Romance
+3767,53,Thriller
+3777,18,Drama
+3777,36,History
+3780,18,Drama
+3782,18,Drama
+3783,878,Science Fiction
+3784,18,Drama
+3784,10749,Romance
+3784,35,Comedy
+3785,878,Science Fiction
+3786,878,Science Fiction
+3787,878,Science Fiction
+3845,35,Comedy
+3846,35,Comedy
+3851,18,Drama
+3865,18,Drama
+3866,878,Science Fiction
+3867,99,Documentary
+3870,18,Drama
+3870,36,History
+3875,18,Drama
+3875,10752,War
+3877,18,Drama
+3899,28,Action
+3901,18,Drama
+3902,18,Drama
+3902,10402,Music
+3920,18,Drama
+3921,18,Drama
+3924,35,Comedy
+3929,35,Comedy
+3930,35,Comedy
+3930,12,Adventure
+3931,35,Comedy
+3933,10749,Romance
+3933,14,Fantasy
+3933,16,Animation
+3934,35,Comedy
+3934,80,Crime
+3934,18,Drama
+3935,18,Drama
+3936,35,Comedy
+3937,35,Comedy
+3938,35,Comedy
+3939,35,Comedy
+3940,35,Comedy
+3941,35,Comedy
+3942,35,Comedy
+3943,35,Comedy
+3944,35,Comedy
+3959,35,Comedy
+3960,35,Comedy
+3961,35,Comedy
+3962,35,Comedy
+3966,35,Comedy
+3967,35,Comedy
+3968,35,Comedy
+3969,35,Comedy
+3970,35,Comedy
+3976,35,Comedy
+3977,35,Comedy
+3978,35,Comedy
+3979,35,Comedy
+3980,27,Horror
+3980,28,Action
+3980,35,Comedy
+3980,878,Science Fiction
+3980,53,Thriller
+3981,35,Comedy
+3981,10749,Romance
+3982,80,Crime
+3982,18,Drama
+3983,18,Drama
+3983,10749,Romance
+3984,18,Drama
+3984,10749,Romance
+3985,35,Comedy
+3986,35,Comedy
+3987,35,Comedy
+3988,35,Comedy
+3989,12,Adventure
+3989,28,Action
+3989,35,Comedy
